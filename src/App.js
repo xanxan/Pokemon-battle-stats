@@ -1,25 +1,37 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
+import assets from './utils/assetsUtil';
+import tableau from 'tableau-api';
+
 import './App.css';
 
 class App extends Component {
+
+  componentDidMount() {
+    this.initViz()
+  }
+  
+  initViz() {
+    const vizUrl = 'https://public.tableau.com/views/Pokmonbattlestatscompared/Dashboard1?:embed=y&:display_count=yes&publish=yes';
+    const vizContainer = this.vizContainer;
+    new window.tableau.Viz(vizContainer, vizUrl)
+  }
+
+  getSource = (index) => {
+    const object = assets.images.find(o => o.index === index) || {};
+    return object.src;
+  };
+
   render() {
+
     return (
       <div className="App">
-        <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <p>
-            Edit <code>src/App.js</code> and save to reload.
-          </p>
-          <a
-            className="App-link"
-            href="https://reactjs.org"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Learn React
-          </a>
-        </header>
+
+          {/*<img src={this.getSource(87)} className="App-logo" alt="logo" />*/}
+
+        <div ref={(div) => { this.vizContainer = div }}/>
+
+        <p>This is an example prototype page.</p>
+
       </div>
     );
   }
