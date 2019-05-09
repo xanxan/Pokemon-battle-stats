@@ -1,0 +1,8012 @@
+[
+  {
+    "attack": 49,
+    "defense": 49,
+    "generation": 1,
+    "hp": 45,
+    "japanese_name": "Fushigidaneフシギダネ",
+    "name": "Bulbasaur",
+    "pokedex_number": 1,
+    "speed": 45
+  },
+  {
+    "attack": 62,
+    "defense": 63,
+    "generation": 1,
+    "hp": 60,
+    "japanese_name": "Fushigisouフシギソウ",
+    "name": "Ivysaur",
+    "pokedex_number": 2,
+    "speed": 60
+  },
+  {
+    "attack": 100,
+    "defense": 123,
+    "generation": 1,
+    "hp": 80,
+    "japanese_name": "Fushigibanaフシギバナ",
+    "name": "Venusaur",
+    "pokedex_number": 3,
+    "speed": 80
+  },
+  {
+    "attack": 52,
+    "defense": 43,
+    "generation": 1,
+    "hp": 39,
+    "japanese_name": "Hitokageヒトカゲ",
+    "name": "Charmander",
+    "pokedex_number": 4,
+    "speed": 65
+  },
+  {
+    "attack": 64,
+    "defense": 58,
+    "generation": 1,
+    "hp": 58,
+    "japanese_name": "Lizardoリザード",
+    "name": "Charmeleon",
+    "pokedex_number": 5,
+    "speed": 80
+  },
+  {
+    "attack": 104,
+    "defense": 78,
+    "generation": 1,
+    "hp": 78,
+    "japanese_name": "Lizardonリザードン",
+    "name": "Charizard",
+    "pokedex_number": 6,
+    "speed": 100
+  },
+  {
+    "attack": 48,
+    "defense": 65,
+    "generation": 1,
+    "hp": 44,
+    "japanese_name": "Zenigameゼニガメ",
+    "name": "Squirtle",
+    "pokedex_number": 7,
+    "speed": 43
+  },
+  {
+    "attack": 63,
+    "defense": 80,
+    "generation": 1,
+    "hp": 59,
+    "japanese_name": "Kameilカメール",
+    "name": "Wartortle",
+    "pokedex_number": 8,
+    "speed": 58
+  },
+  {
+    "attack": 103,
+    "defense": 120,
+    "generation": 1,
+    "hp": 79,
+    "japanese_name": "Kamexカメックス",
+    "name": "Blastoise",
+    "pokedex_number": 9,
+    "speed": 78
+  },
+  {
+    "attack": 30,
+    "defense": 35,
+    "generation": 1,
+    "hp": 45,
+    "japanese_name": "Caterpieキャタピー",
+    "name": "Caterpie",
+    "pokedex_number": 10,
+    "speed": 45
+  },
+  {
+    "attack": 20,
+    "defense": 55,
+    "generation": 1,
+    "hp": 50,
+    "japanese_name": "Transelトランセル",
+    "name": "Metapod",
+    "pokedex_number": 11,
+    "speed": 30
+  },
+  {
+    "attack": 45,
+    "defense": 50,
+    "generation": 1,
+    "hp": 60,
+    "japanese_name": "Butterfreeバタフリー",
+    "name": "Butterfree",
+    "pokedex_number": 12,
+    "speed": 70
+  },
+  {
+    "attack": 35,
+    "defense": 30,
+    "generation": 1,
+    "hp": 40,
+    "japanese_name": "Beedleビードル",
+    "name": "Weedle",
+    "pokedex_number": 13,
+    "speed": 50
+  },
+  {
+    "attack": 25,
+    "defense": 50,
+    "generation": 1,
+    "hp": 45,
+    "japanese_name": "Cocoonコクーン",
+    "name": "Kakuna",
+    "pokedex_number": 14,
+    "speed": 35
+  },
+  {
+    "attack": 150,
+    "defense": 40,
+    "generation": 1,
+    "hp": 65,
+    "japanese_name": "Spearスピアー",
+    "name": "Beedrill",
+    "pokedex_number": 15,
+    "speed": 145
+  },
+  {
+    "attack": 45,
+    "defense": 40,
+    "generation": 1,
+    "hp": 40,
+    "japanese_name": "Poppoポッポ",
+    "name": "Pidgey",
+    "pokedex_number": 16,
+    "speed": 56
+  },
+  {
+    "attack": 60,
+    "defense": 55,
+    "generation": 1,
+    "hp": 63,
+    "japanese_name": "Pigeonピジョン",
+    "name": "Pidgeotto",
+    "pokedex_number": 17,
+    "speed": 71
+  },
+  {
+    "attack": 80,
+    "defense": 80,
+    "generation": 1,
+    "hp": 83,
+    "japanese_name": "Pigeotピジョット",
+    "name": "Pidgeot",
+    "pokedex_number": 18,
+    "speed": 121
+  },
+  {
+    "attack": 56,
+    "defense": 35,
+    "generation": 1,
+    "hp": 30,
+    "japanese_name": "Korattaコラッタ",
+    "name": "Rattata",
+    "pokedex_number": 19,
+    "speed": 72
+  },
+  {
+    "attack": 71,
+    "defense": 70,
+    "generation": 1,
+    "hp": 75,
+    "japanese_name": "Rattaラッタ",
+    "name": "Raticate",
+    "pokedex_number": 20,
+    "speed": 77
+  },
+  {
+    "attack": 60,
+    "defense": 30,
+    "generation": 1,
+    "hp": 40,
+    "japanese_name": "Onisuzumeオニスズメ",
+    "name": "Spearow",
+    "pokedex_number": 21,
+    "speed": 70
+  },
+  {
+    "attack": 90,
+    "defense": 65,
+    "generation": 1,
+    "hp": 65,
+    "japanese_name": "Onidrillオニドリル",
+    "name": "Fearow",
+    "pokedex_number": 22,
+    "speed": 100
+  },
+  {
+    "attack": 60,
+    "defense": 44,
+    "generation": 1,
+    "hp": 35,
+    "japanese_name": "Arboアーボ",
+    "name": "Ekans",
+    "pokedex_number": 23,
+    "speed": 55
+  },
+  {
+    "attack": 95,
+    "defense": 69,
+    "generation": 1,
+    "hp": 60,
+    "japanese_name": "Arbokアーボック",
+    "name": "Arbok",
+    "pokedex_number": 24,
+    "speed": 80
+  },
+  {
+    "attack": 55,
+    "defense": 40,
+    "generation": 1,
+    "hp": 35,
+    "japanese_name": "Pikachuピカチュウ",
+    "name": "Pikachu",
+    "pokedex_number": 25,
+    "speed": 90
+  },
+  {
+    "attack": 85,
+    "defense": 50,
+    "generation": 1,
+    "hp": 60,
+    "japanese_name": "Raichuライチュウ",
+    "name": "Raichu",
+    "pokedex_number": 26,
+    "speed": 110
+  },
+  {
+    "attack": 75,
+    "defense": 90,
+    "generation": 1,
+    "hp": 50,
+    "japanese_name": "Sandサンド",
+    "name": "Sandshrew",
+    "pokedex_number": 27,
+    "speed": 40
+  },
+  {
+    "attack": 100,
+    "defense": 120,
+    "generation": 1,
+    "hp": 75,
+    "japanese_name": "Sandpanサンドパン",
+    "name": "Sandslash",
+    "pokedex_number": 28,
+    "speed": 65
+  },
+  {
+    "attack": 47,
+    "defense": 52,
+    "generation": 1,
+    "hp": 55,
+    "japanese_name": "Nidoran?ニドラン♀",
+    "name": "Nidoran♀",
+    "pokedex_number": 29,
+    "speed": 41
+  },
+  {
+    "attack": 62,
+    "defense": 67,
+    "generation": 1,
+    "hp": 70,
+    "japanese_name": "Nidorinaニドリーナ",
+    "name": "Nidorina",
+    "pokedex_number": 30,
+    "speed": 56
+  },
+  {
+    "attack": 92,
+    "defense": 87,
+    "generation": 1,
+    "hp": 90,
+    "japanese_name": "Nidoqueenニドクイン",
+    "name": "Nidoqueen",
+    "pokedex_number": 31,
+    "speed": 76
+  },
+  {
+    "attack": 57,
+    "defense": 40,
+    "generation": 1,
+    "hp": 46,
+    "japanese_name": "Nidoran?ニドラン♂",
+    "name": "Nidoran♂",
+    "pokedex_number": 32,
+    "speed": 50
+  },
+  {
+    "attack": 72,
+    "defense": 57,
+    "generation": 1,
+    "hp": 61,
+    "japanese_name": "Nidorinoニドリーノ",
+    "name": "Nidorino",
+    "pokedex_number": 33,
+    "speed": 65
+  },
+  {
+    "attack": 102,
+    "defense": 77,
+    "generation": 1,
+    "hp": 81,
+    "japanese_name": "Nidokingニドキング",
+    "name": "Nidoking",
+    "pokedex_number": 34,
+    "speed": 85
+  },
+  {
+    "attack": 45,
+    "defense": 48,
+    "generation": 1,
+    "hp": 70,
+    "japanese_name": "Pippiピッピ",
+    "name": "Clefairy",
+    "pokedex_number": 35,
+    "speed": 35
+  },
+  {
+    "attack": 70,
+    "defense": 73,
+    "generation": 1,
+    "hp": 95,
+    "japanese_name": "Pixyピクシー",
+    "name": "Clefable",
+    "pokedex_number": 36,
+    "speed": 60
+  },
+  {
+    "attack": 41,
+    "defense": 40,
+    "generation": 1,
+    "hp": 38,
+    "japanese_name": "Rokonロコン",
+    "name": "Vulpix",
+    "pokedex_number": 37,
+    "speed": 65
+  },
+  {
+    "attack": 67,
+    "defense": 75,
+    "generation": 1,
+    "hp": 73,
+    "japanese_name": "Kyukonキュウコン",
+    "name": "Ninetales",
+    "pokedex_number": 38,
+    "speed": 109
+  },
+  {
+    "attack": 45,
+    "defense": 20,
+    "generation": 1,
+    "hp": 115,
+    "japanese_name": "Purinプリン",
+    "name": "Jigglypuff",
+    "pokedex_number": 39,
+    "speed": 20
+  },
+  {
+    "attack": 70,
+    "defense": 45,
+    "generation": 1,
+    "hp": 140,
+    "japanese_name": "Pukurinプクリン",
+    "name": "Wigglytuff",
+    "pokedex_number": 40,
+    "speed": 45
+  },
+  {
+    "attack": 45,
+    "defense": 35,
+    "generation": 1,
+    "hp": 40,
+    "japanese_name": "Zubatズバット",
+    "name": "Zubat",
+    "pokedex_number": 41,
+    "speed": 55
+  },
+  {
+    "attack": 80,
+    "defense": 70,
+    "generation": 1,
+    "hp": 75,
+    "japanese_name": "Golbatゴルバット",
+    "name": "Golbat",
+    "pokedex_number": 42,
+    "speed": 90
+  },
+  {
+    "attack": 50,
+    "defense": 55,
+    "generation": 1,
+    "hp": 45,
+    "japanese_name": "Nazonokusaナゾノクサ",
+    "name": "Oddish",
+    "pokedex_number": 43,
+    "speed": 30
+  },
+  {
+    "attack": 65,
+    "defense": 70,
+    "generation": 1,
+    "hp": 60,
+    "japanese_name": "Kusaihanaクサイハナ",
+    "name": "Gloom",
+    "pokedex_number": 44,
+    "speed": 40
+  },
+  {
+    "attack": 80,
+    "defense": 85,
+    "generation": 1,
+    "hp": 75,
+    "japanese_name": "Ruffresiaラフレシア",
+    "name": "Vileplume",
+    "pokedex_number": 45,
+    "speed": 50
+  },
+  {
+    "attack": 70,
+    "defense": 55,
+    "generation": 1,
+    "hp": 35,
+    "japanese_name": "Parasパラス",
+    "name": "Paras",
+    "pokedex_number": 46,
+    "speed": 25
+  },
+  {
+    "attack": 95,
+    "defense": 80,
+    "generation": 1,
+    "hp": 60,
+    "japanese_name": "Parasectパラセクト",
+    "name": "Parasect",
+    "pokedex_number": 47,
+    "speed": 30
+  },
+  {
+    "attack": 55,
+    "defense": 50,
+    "generation": 1,
+    "hp": 60,
+    "japanese_name": "Kongpangコンパン",
+    "name": "Venonat",
+    "pokedex_number": 48,
+    "speed": 45
+  },
+  {
+    "attack": 65,
+    "defense": 60,
+    "generation": 1,
+    "hp": 70,
+    "japanese_name": "Morphonモルフォン",
+    "name": "Venomoth",
+    "pokedex_number": 49,
+    "speed": 90
+  },
+  {
+    "attack": 55,
+    "defense": 30,
+    "generation": 1,
+    "hp": 10,
+    "japanese_name": "Digdaディグダ",
+    "name": "Diglett",
+    "pokedex_number": 50,
+    "speed": 90
+  },
+  {
+    "attack": 100,
+    "defense": 60,
+    "generation": 1,
+    "hp": 35,
+    "japanese_name": "Dugtrioダグトリオ",
+    "name": "Dugtrio",
+    "pokedex_number": 51,
+    "speed": 110
+  },
+  {
+    "attack": 35,
+    "defense": 35,
+    "generation": 1,
+    "hp": 40,
+    "japanese_name": "Nyarthニャース",
+    "name": "Meowth",
+    "pokedex_number": 52,
+    "speed": 90
+  },
+  {
+    "attack": 60,
+    "defense": 60,
+    "generation": 1,
+    "hp": 65,
+    "japanese_name": "Persianペルシアン",
+    "name": "Persian",
+    "pokedex_number": 53,
+    "speed": 115
+  },
+  {
+    "attack": 52,
+    "defense": 48,
+    "generation": 1,
+    "hp": 50,
+    "japanese_name": "Koduckコダック",
+    "name": "Psyduck",
+    "pokedex_number": 54,
+    "speed": 55
+  },
+  {
+    "attack": 82,
+    "defense": 78,
+    "generation": 1,
+    "hp": 80,
+    "japanese_name": "Golduckゴルダック",
+    "name": "Golduck",
+    "pokedex_number": 55,
+    "speed": 85
+  },
+  {
+    "attack": 80,
+    "defense": 35,
+    "generation": 1,
+    "hp": 40,
+    "japanese_name": "Mankeyマンキー",
+    "name": "Mankey",
+    "pokedex_number": 56,
+    "speed": 70
+  },
+  {
+    "attack": 105,
+    "defense": 60,
+    "generation": 1,
+    "hp": 65,
+    "japanese_name": "Okorizaruオコリザル",
+    "name": "Primeape",
+    "pokedex_number": 57,
+    "speed": 95
+  },
+  {
+    "attack": 70,
+    "defense": 45,
+    "generation": 1,
+    "hp": 55,
+    "japanese_name": "Gardieガーディ",
+    "name": "Growlithe",
+    "pokedex_number": 58,
+    "speed": 60
+  },
+  {
+    "attack": 110,
+    "defense": 80,
+    "generation": 1,
+    "hp": 90,
+    "japanese_name": "Windieウインディ",
+    "name": "Arcanine",
+    "pokedex_number": 59,
+    "speed": 95
+  },
+  {
+    "attack": 50,
+    "defense": 40,
+    "generation": 1,
+    "hp": 40,
+    "japanese_name": "Nyoromoニョロモ",
+    "name": "Poliwag",
+    "pokedex_number": 60,
+    "speed": 90
+  },
+  {
+    "attack": 65,
+    "defense": 65,
+    "generation": 1,
+    "hp": 65,
+    "japanese_name": "Nyorozoニョロゾ",
+    "name": "Poliwhirl",
+    "pokedex_number": 61,
+    "speed": 90
+  },
+  {
+    "attack": 95,
+    "defense": 95,
+    "generation": 1,
+    "hp": 90,
+    "japanese_name": "Nyorobonニョロボン",
+    "name": "Poliwrath",
+    "pokedex_number": 62,
+    "speed": 70
+  },
+  {
+    "attack": 20,
+    "defense": 15,
+    "generation": 1,
+    "hp": 25,
+    "japanese_name": "Caseyケーシィ",
+    "name": "Abra",
+    "pokedex_number": 63,
+    "speed": 90
+  },
+  {
+    "attack": 35,
+    "defense": 30,
+    "generation": 1,
+    "hp": 40,
+    "japanese_name": "Yungererユンゲラー",
+    "name": "Kadabra",
+    "pokedex_number": 64,
+    "speed": 105
+  },
+  {
+    "attack": 50,
+    "defense": 65,
+    "generation": 1,
+    "hp": 55,
+    "japanese_name": "Foodinフーディン",
+    "name": "Alakazam",
+    "pokedex_number": 65,
+    "speed": 150
+  },
+  {
+    "attack": 80,
+    "defense": 50,
+    "generation": 1,
+    "hp": 70,
+    "japanese_name": "Wanrikyワンリキー",
+    "name": "Machop",
+    "pokedex_number": 66,
+    "speed": 35
+  },
+  {
+    "attack": 100,
+    "defense": 70,
+    "generation": 1,
+    "hp": 80,
+    "japanese_name": "Gorikyゴーリキー",
+    "name": "Machoke",
+    "pokedex_number": 67,
+    "speed": 45
+  },
+  {
+    "attack": 130,
+    "defense": 80,
+    "generation": 1,
+    "hp": 90,
+    "japanese_name": "Kairikyカイリキー",
+    "name": "Machamp",
+    "pokedex_number": 68,
+    "speed": 55
+  },
+  {
+    "attack": 75,
+    "defense": 35,
+    "generation": 1,
+    "hp": 50,
+    "japanese_name": "Madatsubomiマダツボミ",
+    "name": "Bellsprout",
+    "pokedex_number": 69,
+    "speed": 40
+  },
+  {
+    "attack": 90,
+    "defense": 50,
+    "generation": 1,
+    "hp": 65,
+    "japanese_name": "Utsudonウツドン",
+    "name": "Weepinbell",
+    "pokedex_number": 70,
+    "speed": 55
+  },
+  {
+    "attack": 105,
+    "defense": 65,
+    "generation": 1,
+    "hp": 80,
+    "japanese_name": "Utsubotウツボット",
+    "name": "Victreebel",
+    "pokedex_number": 71,
+    "speed": 70
+  },
+  {
+    "attack": 40,
+    "defense": 35,
+    "generation": 1,
+    "hp": 40,
+    "japanese_name": "Menokurageメノクラゲ",
+    "name": "Tentacool",
+    "pokedex_number": 72,
+    "speed": 70
+  },
+  {
+    "attack": 70,
+    "defense": 65,
+    "generation": 1,
+    "hp": 80,
+    "japanese_name": "Dokukurageドククラゲ",
+    "name": "Tentacruel",
+    "pokedex_number": 73,
+    "speed": 100
+  },
+  {
+    "attack": 80,
+    "defense": 100,
+    "generation": 1,
+    "hp": 40,
+    "japanese_name": "Isitsubuteイシツブテ",
+    "name": "Geodude",
+    "pokedex_number": 74,
+    "speed": 20
+  },
+  {
+    "attack": 95,
+    "defense": 115,
+    "generation": 1,
+    "hp": 55,
+    "japanese_name": "Goloneゴローン",
+    "name": "Graveler",
+    "pokedex_number": 75,
+    "speed": 35
+  },
+  {
+    "attack": 120,
+    "defense": 130,
+    "generation": 1,
+    "hp": 80,
+    "japanese_name": "Golonyaゴローニャ",
+    "name": "Golem",
+    "pokedex_number": 76,
+    "speed": 45
+  },
+  {
+    "attack": 85,
+    "defense": 55,
+    "generation": 1,
+    "hp": 50,
+    "japanese_name": "Ponytaポニータ",
+    "name": "Ponyta",
+    "pokedex_number": 77,
+    "speed": 90
+  },
+  {
+    "attack": 100,
+    "defense": 70,
+    "generation": 1,
+    "hp": 65,
+    "japanese_name": "Gallopギャロップ",
+    "name": "Rapidash",
+    "pokedex_number": 78,
+    "speed": 105
+  },
+  {
+    "attack": 65,
+    "defense": 65,
+    "generation": 1,
+    "hp": 90,
+    "japanese_name": "Yadonヤドン",
+    "name": "Slowpoke",
+    "pokedex_number": 79,
+    "speed": 15
+  },
+  {
+    "attack": 75,
+    "defense": 180,
+    "generation": 1,
+    "hp": 95,
+    "japanese_name": "Yadoranヤドラン",
+    "name": "Slowbro",
+    "pokedex_number": 80,
+    "speed": 30
+  },
+  {
+    "attack": 35,
+    "defense": 70,
+    "generation": 1,
+    "hp": 25,
+    "japanese_name": "Coilコイル",
+    "name": "Magnemite",
+    "pokedex_number": 81,
+    "speed": 45
+  },
+  {
+    "attack": 60,
+    "defense": 95,
+    "generation": 1,
+    "hp": 50,
+    "japanese_name": "Rarecoilレアコイル",
+    "name": "Magneton",
+    "pokedex_number": 82,
+    "speed": 70
+  },
+  {
+    "attack": 90,
+    "defense": 55,
+    "generation": 1,
+    "hp": 52,
+    "japanese_name": "Kamonegiカモネギ",
+    "name": "Farfetch'd",
+    "pokedex_number": 83,
+    "speed": 60
+  },
+  {
+    "attack": 85,
+    "defense": 45,
+    "generation": 1,
+    "hp": 35,
+    "japanese_name": "Dodoドードー",
+    "name": "Doduo",
+    "pokedex_number": 84,
+    "speed": 75
+  },
+  {
+    "attack": 110,
+    "defense": 70,
+    "generation": 1,
+    "hp": 60,
+    "japanese_name": "Dodorioドードリオ",
+    "name": "Dodrio",
+    "pokedex_number": 85,
+    "speed": 110
+  },
+  {
+    "attack": 45,
+    "defense": 55,
+    "generation": 1,
+    "hp": 65,
+    "japanese_name": "Pawouパウワウ",
+    "name": "Seel",
+    "pokedex_number": 86,
+    "speed": 45
+  },
+  {
+    "attack": 70,
+    "defense": 80,
+    "generation": 1,
+    "hp": 90,
+    "japanese_name": "Jugonジュゴン",
+    "name": "Dewgong",
+    "pokedex_number": 87,
+    "speed": 70
+  },
+  {
+    "attack": 80,
+    "defense": 50,
+    "generation": 1,
+    "hp": 80,
+    "japanese_name": "Betbeterベトベター",
+    "name": "Grimer",
+    "pokedex_number": 88,
+    "speed": 25
+  },
+  {
+    "attack": 105,
+    "defense": 75,
+    "generation": 1,
+    "hp": 105,
+    "japanese_name": "Betbetonベトベトン",
+    "name": "Muk",
+    "pokedex_number": 89,
+    "speed": 50
+  },
+  {
+    "attack": 65,
+    "defense": 100,
+    "generation": 1,
+    "hp": 30,
+    "japanese_name": "Shellderシェルダー",
+    "name": "Shellder",
+    "pokedex_number": 90,
+    "speed": 40
+  },
+  {
+    "attack": 95,
+    "defense": 180,
+    "generation": 1,
+    "hp": 50,
+    "japanese_name": "Parshenパルシェン",
+    "name": "Cloyster",
+    "pokedex_number": 91,
+    "speed": 70
+  },
+  {
+    "attack": 35,
+    "defense": 30,
+    "generation": 1,
+    "hp": 30,
+    "japanese_name": "Ghosゴース",
+    "name": "Gastly",
+    "pokedex_number": 92,
+    "speed": 80
+  },
+  {
+    "attack": 50,
+    "defense": 45,
+    "generation": 1,
+    "hp": 45,
+    "japanese_name": "Ghostゴースト",
+    "name": "Haunter",
+    "pokedex_number": 93,
+    "speed": 95
+  },
+  {
+    "attack": 65,
+    "defense": 80,
+    "generation": 1,
+    "hp": 60,
+    "japanese_name": "Gangarゲンガー",
+    "name": "Gengar",
+    "pokedex_number": 94,
+    "speed": 130
+  },
+  {
+    "attack": 45,
+    "defense": 160,
+    "generation": 1,
+    "hp": 35,
+    "japanese_name": "Iwarkイワーク",
+    "name": "Onix",
+    "pokedex_number": 95,
+    "speed": 70
+  },
+  {
+    "attack": 48,
+    "defense": 45,
+    "generation": 1,
+    "hp": 60,
+    "japanese_name": "Sleepeスリープ",
+    "name": "Drowzee",
+    "pokedex_number": 96,
+    "speed": 42
+  },
+  {
+    "attack": 73,
+    "defense": 70,
+    "generation": 1,
+    "hp": 85,
+    "japanese_name": "Sleeperスリーパー",
+    "name": "Hypno",
+    "pokedex_number": 97,
+    "speed": 67
+  },
+  {
+    "attack": 105,
+    "defense": 90,
+    "generation": 1,
+    "hp": 30,
+    "japanese_name": "Crabクラブ",
+    "name": "Krabby",
+    "pokedex_number": 98,
+    "speed": 50
+  },
+  {
+    "attack": 130,
+    "defense": 115,
+    "generation": 1,
+    "hp": 55,
+    "japanese_name": "Kinglerキングラー",
+    "name": "Kingler",
+    "pokedex_number": 99,
+    "speed": 75
+  },
+  {
+    "attack": 30,
+    "defense": 50,
+    "generation": 1,
+    "hp": 40,
+    "japanese_name": "Biriridamaビリリダマ",
+    "name": "Voltorb",
+    "pokedex_number": 100,
+    "speed": 100
+  },
+  {
+    "attack": 50,
+    "defense": 70,
+    "generation": 1,
+    "hp": 60,
+    "japanese_name": "Marumineマルマイン",
+    "name": "Electrode",
+    "pokedex_number": 101,
+    "speed": 150
+  },
+  {
+    "attack": 40,
+    "defense": 80,
+    "generation": 1,
+    "hp": 60,
+    "japanese_name": "Tamatamaタマタマ",
+    "name": "Exeggcute",
+    "pokedex_number": 102,
+    "speed": 40
+  },
+  {
+    "attack": 105,
+    "defense": 85,
+    "generation": 1,
+    "hp": 95,
+    "japanese_name": "Nassyナッシー",
+    "name": "Exeggutor",
+    "pokedex_number": 103,
+    "speed": 45
+  },
+  {
+    "attack": 50,
+    "defense": 95,
+    "generation": 1,
+    "hp": 50,
+    "japanese_name": "Karakaraカラカラ",
+    "name": "Cubone",
+    "pokedex_number": 104,
+    "speed": 35
+  },
+  {
+    "attack": 80,
+    "defense": 110,
+    "generation": 1,
+    "hp": 60,
+    "japanese_name": "Garagaraガラガラ",
+    "name": "Marowak",
+    "pokedex_number": 105,
+    "speed": 45
+  },
+  {
+    "attack": 120,
+    "defense": 53,
+    "generation": 1,
+    "hp": 50,
+    "japanese_name": "Sawamularサワムラー",
+    "name": "Hitmonlee",
+    "pokedex_number": 106,
+    "speed": 87
+  },
+  {
+    "attack": 105,
+    "defense": 79,
+    "generation": 1,
+    "hp": 50,
+    "japanese_name": "Ebiwalarエビワラー",
+    "name": "Hitmonchan",
+    "pokedex_number": 107,
+    "speed": 76
+  },
+  {
+    "attack": 55,
+    "defense": 75,
+    "generation": 1,
+    "hp": 90,
+    "japanese_name": "Beroringaベロリンガ",
+    "name": "Lickitung",
+    "pokedex_number": 108,
+    "speed": 30
+  },
+  {
+    "attack": 65,
+    "defense": 95,
+    "generation": 1,
+    "hp": 40,
+    "japanese_name": "Dogarsドガース",
+    "name": "Koffing",
+    "pokedex_number": 109,
+    "speed": 35
+  },
+  {
+    "attack": 90,
+    "defense": 120,
+    "generation": 1,
+    "hp": 65,
+    "japanese_name": "Matadogasマタドガス",
+    "name": "Weezing",
+    "pokedex_number": 110,
+    "speed": 60
+  },
+  {
+    "attack": 85,
+    "defense": 95,
+    "generation": 1,
+    "hp": 80,
+    "japanese_name": "Sihornサイホーン",
+    "name": "Rhyhorn",
+    "pokedex_number": 111,
+    "speed": 25
+  },
+  {
+    "attack": 130,
+    "defense": 120,
+    "generation": 1,
+    "hp": 105,
+    "japanese_name": "Sidonサイドン",
+    "name": "Rhydon",
+    "pokedex_number": 112,
+    "speed": 40
+  },
+  {
+    "attack": 5,
+    "defense": 5,
+    "generation": 1,
+    "hp": 250,
+    "japanese_name": "Luckyラッキー",
+    "name": "Chansey",
+    "pokedex_number": 113,
+    "speed": 50
+  },
+  {
+    "attack": 55,
+    "defense": 115,
+    "generation": 1,
+    "hp": 65,
+    "japanese_name": "Monjaraモンジャラ",
+    "name": "Tangela",
+    "pokedex_number": 114,
+    "speed": 60
+  },
+  {
+    "attack": 125,
+    "defense": 100,
+    "generation": 1,
+    "hp": 105,
+    "japanese_name": "Garuraガルーラ",
+    "name": "Kangaskhan",
+    "pokedex_number": 115,
+    "speed": 100
+  },
+  {
+    "attack": 40,
+    "defense": 70,
+    "generation": 1,
+    "hp": 30,
+    "japanese_name": "Tattuタッツー",
+    "name": "Horsea",
+    "pokedex_number": 116,
+    "speed": 60
+  },
+  {
+    "attack": 65,
+    "defense": 95,
+    "generation": 1,
+    "hp": 55,
+    "japanese_name": "Seadraシードラ",
+    "name": "Seadra",
+    "pokedex_number": 117,
+    "speed": 85
+  },
+  {
+    "attack": 67,
+    "defense": 60,
+    "generation": 1,
+    "hp": 45,
+    "japanese_name": "Tosakintoトサキント",
+    "name": "Goldeen",
+    "pokedex_number": 118,
+    "speed": 63
+  },
+  {
+    "attack": 92,
+    "defense": 65,
+    "generation": 1,
+    "hp": 80,
+    "japanese_name": "Azumaoアズマオウ",
+    "name": "Seaking",
+    "pokedex_number": 119,
+    "speed": 68
+  },
+  {
+    "attack": 45,
+    "defense": 55,
+    "generation": 1,
+    "hp": 30,
+    "japanese_name": "Hitodemanヒトデマン",
+    "name": "Staryu",
+    "pokedex_number": 120,
+    "speed": 85
+  },
+  {
+    "attack": 75,
+    "defense": 85,
+    "generation": 1,
+    "hp": 60,
+    "japanese_name": "Starmieスターミー",
+    "name": "Starmie",
+    "pokedex_number": 121,
+    "speed": 115
+  },
+  {
+    "attack": 45,
+    "defense": 65,
+    "generation": 1,
+    "hp": 40,
+    "japanese_name": "Barrierdバリヤード",
+    "name": "Mr. Mime",
+    "pokedex_number": 122,
+    "speed": 90
+  },
+  {
+    "attack": 110,
+    "defense": 80,
+    "generation": 1,
+    "hp": 70,
+    "japanese_name": "Strikeストライク",
+    "name": "Scyther",
+    "pokedex_number": 123,
+    "speed": 105
+  },
+  {
+    "attack": 50,
+    "defense": 35,
+    "generation": 1,
+    "hp": 65,
+    "japanese_name": "Rougelaルージュラ",
+    "name": "Jynx",
+    "pokedex_number": 124,
+    "speed": 95
+  },
+  {
+    "attack": 83,
+    "defense": 57,
+    "generation": 1,
+    "hp": 65,
+    "japanese_name": "Elebooエレブー",
+    "name": "Electabuzz",
+    "pokedex_number": 125,
+    "speed": 105
+  },
+  {
+    "attack": 95,
+    "defense": 57,
+    "generation": 1,
+    "hp": 65,
+    "japanese_name": "Booberブーバー",
+    "name": "Magmar",
+    "pokedex_number": 126,
+    "speed": 93
+  },
+  {
+    "attack": 155,
+    "defense": 120,
+    "generation": 1,
+    "hp": 65,
+    "japanese_name": "Kailiosカイロス",
+    "name": "Pinsir",
+    "pokedex_number": 127,
+    "speed": 105
+  },
+  {
+    "attack": 100,
+    "defense": 95,
+    "generation": 1,
+    "hp": 75,
+    "japanese_name": "Kentaurosケンタロス",
+    "name": "Tauros",
+    "pokedex_number": 128,
+    "speed": 110
+  },
+  {
+    "attack": 10,
+    "defense": 55,
+    "generation": 1,
+    "hp": 20,
+    "japanese_name": "Koikingコイキング",
+    "name": "Magikarp",
+    "pokedex_number": 129,
+    "speed": 80
+  },
+  {
+    "attack": 155,
+    "defense": 109,
+    "generation": 1,
+    "hp": 95,
+    "japanese_name": "Gyaradosギャラドス",
+    "name": "Gyarados",
+    "pokedex_number": 130,
+    "speed": 81
+  },
+  {
+    "attack": 85,
+    "defense": 80,
+    "generation": 1,
+    "hp": 130,
+    "japanese_name": "Laplaceラプラス",
+    "name": "Lapras",
+    "pokedex_number": 131,
+    "speed": 60
+  },
+  {
+    "attack": 48,
+    "defense": 48,
+    "generation": 1,
+    "hp": 48,
+    "japanese_name": "Metamonメタモン",
+    "name": "Ditto",
+    "pokedex_number": 132,
+    "speed": 48
+  },
+  {
+    "attack": 55,
+    "defense": 50,
+    "generation": 1,
+    "hp": 55,
+    "japanese_name": "Eievuiイーブイ",
+    "name": "Eevee",
+    "pokedex_number": 133,
+    "speed": 55
+  },
+  {
+    "attack": 65,
+    "defense": 60,
+    "generation": 1,
+    "hp": 130,
+    "japanese_name": "Showersシャワーズ",
+    "name": "Vaporeon",
+    "pokedex_number": 134,
+    "speed": 65
+  },
+  {
+    "attack": 65,
+    "defense": 60,
+    "generation": 1,
+    "hp": 65,
+    "japanese_name": "Thundersサンダース",
+    "name": "Jolteon",
+    "pokedex_number": 135,
+    "speed": 130
+  },
+  {
+    "attack": 130,
+    "defense": 60,
+    "generation": 1,
+    "hp": 65,
+    "japanese_name": "Boosterブースター",
+    "name": "Flareon",
+    "pokedex_number": 136,
+    "speed": 65
+  },
+  {
+    "attack": 60,
+    "defense": 70,
+    "generation": 1,
+    "hp": 65,
+    "japanese_name": "Porygonポリゴン",
+    "name": "Porygon",
+    "pokedex_number": 137,
+    "speed": 40
+  },
+  {
+    "attack": 40,
+    "defense": 100,
+    "generation": 1,
+    "hp": 35,
+    "japanese_name": "Omniteオムナイト",
+    "name": "Omanyte",
+    "pokedex_number": 138,
+    "speed": 35
+  },
+  {
+    "attack": 60,
+    "defense": 125,
+    "generation": 1,
+    "hp": 70,
+    "japanese_name": "Omstarオムスター",
+    "name": "Omastar",
+    "pokedex_number": 139,
+    "speed": 55
+  },
+  {
+    "attack": 80,
+    "defense": 90,
+    "generation": 1,
+    "hp": 30,
+    "japanese_name": "Kabutoカブト",
+    "name": "Kabuto",
+    "pokedex_number": 140,
+    "speed": 55
+  },
+  {
+    "attack": 115,
+    "defense": 105,
+    "generation": 1,
+    "hp": 60,
+    "japanese_name": "Kabutopsカブトプス",
+    "name": "Kabutops",
+    "pokedex_number": 141,
+    "speed": 80
+  },
+  {
+    "attack": 135,
+    "defense": 85,
+    "generation": 1,
+    "hp": 80,
+    "japanese_name": "Pteraプテラ",
+    "name": "Aerodactyl",
+    "pokedex_number": 142,
+    "speed": 150
+  },
+  {
+    "attack": 110,
+    "defense": 65,
+    "generation": 1,
+    "hp": 160,
+    "japanese_name": "Kabigonカビゴン",
+    "name": "Snorlax",
+    "pokedex_number": 143,
+    "speed": 30
+  },
+  {
+    "attack": 85,
+    "defense": 100,
+    "generation": 1,
+    "hp": 90,
+    "japanese_name": "Freezerフリーザー",
+    "name": "Articuno",
+    "pokedex_number": 144,
+    "speed": 85
+  },
+  {
+    "attack": 90,
+    "defense": 85,
+    "generation": 1,
+    "hp": 90,
+    "japanese_name": "Thunderサンダー",
+    "name": "Zapdos",
+    "pokedex_number": 145,
+    "speed": 100
+  },
+  {
+    "attack": 100,
+    "defense": 90,
+    "generation": 1,
+    "hp": 90,
+    "japanese_name": "Fireファイヤー",
+    "name": "Moltres",
+    "pokedex_number": 146,
+    "speed": 90
+  },
+  {
+    "attack": 64,
+    "defense": 45,
+    "generation": 1,
+    "hp": 41,
+    "japanese_name": "Miniryuミニリュウ",
+    "name": "Dratini",
+    "pokedex_number": 147,
+    "speed": 50
+  },
+  {
+    "attack": 84,
+    "defense": 65,
+    "generation": 1,
+    "hp": 61,
+    "japanese_name": "Hakuryuハクリュー",
+    "name": "Dragonair",
+    "pokedex_number": 148,
+    "speed": 70
+  },
+  {
+    "attack": 134,
+    "defense": 95,
+    "generation": 1,
+    "hp": 91,
+    "japanese_name": "Kairyuカイリュー",
+    "name": "Dragonite",
+    "pokedex_number": 149,
+    "speed": 80
+  },
+  {
+    "attack": 150,
+    "defense": 70,
+    "generation": 1,
+    "hp": 106,
+    "japanese_name": "Mewtwoミュウツー",
+    "name": "Mewtwo",
+    "pokedex_number": 150,
+    "speed": 140
+  },
+  {
+    "attack": 100,
+    "defense": 100,
+    "generation": 1,
+    "hp": 100,
+    "japanese_name": "Mewミュウ",
+    "name": "Mew",
+    "pokedex_number": 151,
+    "speed": 100
+  },
+  {
+    "attack": 49,
+    "defense": 65,
+    "generation": 2,
+    "hp": 45,
+    "japanese_name": "Chicoritaチコリータ",
+    "name": "Chikorita",
+    "pokedex_number": 152,
+    "speed": 45
+  },
+  {
+    "attack": 62,
+    "defense": 80,
+    "generation": 2,
+    "hp": 60,
+    "japanese_name": "Bayleafベイリーフ",
+    "name": "Bayleef",
+    "pokedex_number": 153,
+    "speed": 60
+  },
+  {
+    "attack": 82,
+    "defense": 100,
+    "generation": 2,
+    "hp": 80,
+    "japanese_name": "Meganiumメガニウム",
+    "name": "Meganium",
+    "pokedex_number": 154,
+    "speed": 80
+  },
+  {
+    "attack": 52,
+    "defense": 43,
+    "generation": 2,
+    "hp": 39,
+    "japanese_name": "Hinoarashiヒノアラシ",
+    "name": "Cyndaquil",
+    "pokedex_number": 155,
+    "speed": 65
+  },
+  {
+    "attack": 64,
+    "defense": 58,
+    "generation": 2,
+    "hp": 58,
+    "japanese_name": "Magmarashiマグマラシ",
+    "name": "Quilava",
+    "pokedex_number": 156,
+    "speed": 80
+  },
+  {
+    "attack": 84,
+    "defense": 78,
+    "generation": 2,
+    "hp": 78,
+    "japanese_name": "Bakphoonバクフーン",
+    "name": "Typhlosion",
+    "pokedex_number": 157,
+    "speed": 100
+  },
+  {
+    "attack": 65,
+    "defense": 64,
+    "generation": 2,
+    "hp": 50,
+    "japanese_name": "Waninokoワニノコ",
+    "name": "Totodile",
+    "pokedex_number": 158,
+    "speed": 43
+  },
+  {
+    "attack": 80,
+    "defense": 80,
+    "generation": 2,
+    "hp": 65,
+    "japanese_name": "Alligatesアリゲイツ",
+    "name": "Croconaw",
+    "pokedex_number": 159,
+    "speed": 58
+  },
+  {
+    "attack": 105,
+    "defense": 100,
+    "generation": 2,
+    "hp": 85,
+    "japanese_name": "Ordileオーダイル",
+    "name": "Feraligatr",
+    "pokedex_number": 160,
+    "speed": 78
+  },
+  {
+    "attack": 46,
+    "defense": 34,
+    "generation": 2,
+    "hp": 35,
+    "japanese_name": "Otachiオタチ",
+    "name": "Sentret",
+    "pokedex_number": 161,
+    "speed": 20
+  },
+  {
+    "attack": 76,
+    "defense": 64,
+    "generation": 2,
+    "hp": 85,
+    "japanese_name": "Ootachiオオタチ",
+    "name": "Furret",
+    "pokedex_number": 162,
+    "speed": 90
+  },
+  {
+    "attack": 30,
+    "defense": 30,
+    "generation": 2,
+    "hp": 60,
+    "japanese_name": "Hohoホーホー",
+    "name": "Hoothoot",
+    "pokedex_number": 163,
+    "speed": 50
+  },
+  {
+    "attack": 50,
+    "defense": 50,
+    "generation": 2,
+    "hp": 100,
+    "japanese_name": "Yorunozukuヨルノズク",
+    "name": "Noctowl",
+    "pokedex_number": 164,
+    "speed": 70
+  },
+  {
+    "attack": 20,
+    "defense": 30,
+    "generation": 2,
+    "hp": 40,
+    "japanese_name": "Redibaレディバ",
+    "name": "Ledyba",
+    "pokedex_number": 165,
+    "speed": 55
+  },
+  {
+    "attack": 35,
+    "defense": 50,
+    "generation": 2,
+    "hp": 55,
+    "japanese_name": "Redianレディアン",
+    "name": "Ledian",
+    "pokedex_number": 166,
+    "speed": 85
+  },
+  {
+    "attack": 60,
+    "defense": 40,
+    "generation": 2,
+    "hp": 40,
+    "japanese_name": "Itomaruイトマル",
+    "name": "Spinarak",
+    "pokedex_number": 167,
+    "speed": 30
+  },
+  {
+    "attack": 90,
+    "defense": 70,
+    "generation": 2,
+    "hp": 70,
+    "japanese_name": "Ariadosアリアドス",
+    "name": "Ariados",
+    "pokedex_number": 168,
+    "speed": 40
+  },
+  {
+    "attack": 90,
+    "defense": 80,
+    "generation": 2,
+    "hp": 85,
+    "japanese_name": "Crobatクロバット",
+    "name": "Crobat",
+    "pokedex_number": 169,
+    "speed": 130
+  },
+  {
+    "attack": 38,
+    "defense": 38,
+    "generation": 2,
+    "hp": 75,
+    "japanese_name": "Chonchieチョンチー",
+    "name": "Chinchou",
+    "pokedex_number": 170,
+    "speed": 67
+  },
+  {
+    "attack": 58,
+    "defense": 58,
+    "generation": 2,
+    "hp": 125,
+    "japanese_name": "Lanternランターン",
+    "name": "Lanturn",
+    "pokedex_number": 171,
+    "speed": 67
+  },
+  {
+    "attack": 40,
+    "defense": 15,
+    "generation": 2,
+    "hp": 20,
+    "japanese_name": "Pichuピチュー",
+    "name": "Pichu",
+    "pokedex_number": 172,
+    "speed": 60
+  },
+  {
+    "attack": 25,
+    "defense": 28,
+    "generation": 2,
+    "hp": 50,
+    "japanese_name": "Pyピィ",
+    "name": "Cleffa",
+    "pokedex_number": 173,
+    "speed": 15
+  },
+  {
+    "attack": 30,
+    "defense": 15,
+    "generation": 2,
+    "hp": 90,
+    "japanese_name": "Pupurinププリン",
+    "name": "Igglybuff",
+    "pokedex_number": 174,
+    "speed": 15
+  },
+  {
+    "attack": 20,
+    "defense": 65,
+    "generation": 2,
+    "hp": 35,
+    "japanese_name": "Togepyトゲピー",
+    "name": "Togepi",
+    "pokedex_number": 175,
+    "speed": 20
+  },
+  {
+    "attack": 40,
+    "defense": 85,
+    "generation": 2,
+    "hp": 55,
+    "japanese_name": "Togechickトゲチック",
+    "name": "Togetic",
+    "pokedex_number": 176,
+    "speed": 40
+  },
+  {
+    "attack": 50,
+    "defense": 45,
+    "generation": 2,
+    "hp": 40,
+    "japanese_name": "Natyネイティ",
+    "name": "Natu",
+    "pokedex_number": 177,
+    "speed": 70
+  },
+  {
+    "attack": 75,
+    "defense": 70,
+    "generation": 2,
+    "hp": 65,
+    "japanese_name": "Natioネイティオ",
+    "name": "Xatu",
+    "pokedex_number": 178,
+    "speed": 95
+  },
+  {
+    "attack": 40,
+    "defense": 40,
+    "generation": 2,
+    "hp": 55,
+    "japanese_name": "Merriepメリープ",
+    "name": "Mareep",
+    "pokedex_number": 179,
+    "speed": 35
+  },
+  {
+    "attack": 55,
+    "defense": 55,
+    "generation": 2,
+    "hp": 70,
+    "japanese_name": "Mokokoモココ",
+    "name": "Flaaffy",
+    "pokedex_number": 180,
+    "speed": 45
+  },
+  {
+    "attack": 95,
+    "defense": 105,
+    "generation": 2,
+    "hp": 90,
+    "japanese_name": "Denryuデンリュウ",
+    "name": "Ampharos",
+    "pokedex_number": 181,
+    "speed": 45
+  },
+  {
+    "attack": 80,
+    "defense": 95,
+    "generation": 2,
+    "hp": 75,
+    "japanese_name": "Kireihanaキレイハナ",
+    "name": "Bellossom",
+    "pokedex_number": 182,
+    "speed": 50
+  },
+  {
+    "attack": 20,
+    "defense": 50,
+    "generation": 2,
+    "hp": 70,
+    "japanese_name": "Marilマリル",
+    "name": "Marill",
+    "pokedex_number": 183,
+    "speed": 40
+  },
+  {
+    "attack": 50,
+    "defense": 80,
+    "generation": 2,
+    "hp": 100,
+    "japanese_name": "Marilliマリルリ",
+    "name": "Azumarill",
+    "pokedex_number": 184,
+    "speed": 50
+  },
+  {
+    "attack": 100,
+    "defense": 115,
+    "generation": 2,
+    "hp": 70,
+    "japanese_name": "Usokkieウソッキー",
+    "name": "Sudowoodo",
+    "pokedex_number": 185,
+    "speed": 30
+  },
+  {
+    "attack": 75,
+    "defense": 75,
+    "generation": 2,
+    "hp": 90,
+    "japanese_name": "Nyorotonoニョロトノ",
+    "name": "Politoed",
+    "pokedex_number": 186,
+    "speed": 70
+  },
+  {
+    "attack": 35,
+    "defense": 40,
+    "generation": 2,
+    "hp": 35,
+    "japanese_name": "Haneccoハネッコ",
+    "name": "Hoppip",
+    "pokedex_number": 187,
+    "speed": 50
+  },
+  {
+    "attack": 45,
+    "defense": 50,
+    "generation": 2,
+    "hp": 55,
+    "japanese_name": "Popoccoポポッコ",
+    "name": "Skiploom",
+    "pokedex_number": 188,
+    "speed": 80
+  },
+  {
+    "attack": 55,
+    "defense": 70,
+    "generation": 2,
+    "hp": 75,
+    "japanese_name": "Wataccoワタッコ",
+    "name": "Jumpluff",
+    "pokedex_number": 189,
+    "speed": 110
+  },
+  {
+    "attack": 70,
+    "defense": 55,
+    "generation": 2,
+    "hp": 55,
+    "japanese_name": "Eipamエイパム",
+    "name": "Aipom",
+    "pokedex_number": 190,
+    "speed": 85
+  },
+  {
+    "attack": 30,
+    "defense": 30,
+    "generation": 2,
+    "hp": 30,
+    "japanese_name": "Himanutsヒマナッツ",
+    "name": "Sunkern",
+    "pokedex_number": 191,
+    "speed": 30
+  },
+  {
+    "attack": 75,
+    "defense": 55,
+    "generation": 2,
+    "hp": 75,
+    "japanese_name": "Kimawariキマワリ",
+    "name": "Sunflora",
+    "pokedex_number": 192,
+    "speed": 30
+  },
+  {
+    "attack": 65,
+    "defense": 45,
+    "generation": 2,
+    "hp": 65,
+    "japanese_name": "Yanyanmaヤンヤンマ",
+    "name": "Yanma",
+    "pokedex_number": 193,
+    "speed": 95
+  },
+  {
+    "attack": 45,
+    "defense": 45,
+    "generation": 2,
+    "hp": 55,
+    "japanese_name": "Upahウパー",
+    "name": "Wooper",
+    "pokedex_number": 194,
+    "speed": 15
+  },
+  {
+    "attack": 85,
+    "defense": 85,
+    "generation": 2,
+    "hp": 95,
+    "japanese_name": "Nuohヌオー",
+    "name": "Quagsire",
+    "pokedex_number": 195,
+    "speed": 35
+  },
+  {
+    "attack": 65,
+    "defense": 60,
+    "generation": 2,
+    "hp": 65,
+    "japanese_name": "Eifieエーフィ",
+    "name": "Espeon",
+    "pokedex_number": 196,
+    "speed": 110
+  },
+  {
+    "attack": 65,
+    "defense": 110,
+    "generation": 2,
+    "hp": 95,
+    "japanese_name": "Blackyブラッキー",
+    "name": "Umbreon",
+    "pokedex_number": 197,
+    "speed": 65
+  },
+  {
+    "attack": 85,
+    "defense": 42,
+    "generation": 2,
+    "hp": 60,
+    "japanese_name": "Yamikarasuヤミカラス",
+    "name": "Murkrow",
+    "pokedex_number": 198,
+    "speed": 91
+  },
+  {
+    "attack": 75,
+    "defense": 80,
+    "generation": 2,
+    "hp": 95,
+    "japanese_name": "Yadokingヤドキング",
+    "name": "Slowking",
+    "pokedex_number": 199,
+    "speed": 30
+  },
+  {
+    "attack": 60,
+    "defense": 60,
+    "generation": 2,
+    "hp": 60,
+    "japanese_name": "Mumaムウマ",
+    "name": "Misdreavus",
+    "pokedex_number": 200,
+    "speed": 85
+  },
+  {
+    "attack": 72,
+    "defense": 48,
+    "generation": 2,
+    "hp": 48,
+    "japanese_name": "Unknownアンノーン",
+    "name": "Unown",
+    "pokedex_number": 201,
+    "speed": 48
+  },
+  {
+    "attack": 33,
+    "defense": 58,
+    "generation": 2,
+    "hp": 190,
+    "japanese_name": "Sonansソーナンス",
+    "name": "Wobbuffet",
+    "pokedex_number": 202,
+    "speed": 33
+  },
+  {
+    "attack": 80,
+    "defense": 65,
+    "generation": 2,
+    "hp": 70,
+    "japanese_name": "Kirinrikiキリンリキ",
+    "name": "Girafarig",
+    "pokedex_number": 203,
+    "speed": 85
+  },
+  {
+    "attack": 65,
+    "defense": 90,
+    "generation": 2,
+    "hp": 50,
+    "japanese_name": "Kunugidamaクヌギダマ",
+    "name": "Pineco",
+    "pokedex_number": 204,
+    "speed": 15
+  },
+  {
+    "attack": 90,
+    "defense": 140,
+    "generation": 2,
+    "hp": 75,
+    "japanese_name": "Foretosフォレトス",
+    "name": "Forretress",
+    "pokedex_number": 205,
+    "speed": 40
+  },
+  {
+    "attack": 70,
+    "defense": 70,
+    "generation": 2,
+    "hp": 100,
+    "japanese_name": "Nokocchiノコッチ",
+    "name": "Dunsparce",
+    "pokedex_number": 206,
+    "speed": 45
+  },
+  {
+    "attack": 75,
+    "defense": 105,
+    "generation": 2,
+    "hp": 65,
+    "japanese_name": "Gligerグライガー",
+    "name": "Gligar",
+    "pokedex_number": 207,
+    "speed": 85
+  },
+  {
+    "attack": 125,
+    "defense": 230,
+    "generation": 2,
+    "hp": 75,
+    "japanese_name": "Haganeilハガネール",
+    "name": "Steelix",
+    "pokedex_number": 208,
+    "speed": 30
+  },
+  {
+    "attack": 80,
+    "defense": 50,
+    "generation": 2,
+    "hp": 60,
+    "japanese_name": "Buluブルー",
+    "name": "Snubbull",
+    "pokedex_number": 209,
+    "speed": 30
+  },
+  {
+    "attack": 120,
+    "defense": 75,
+    "generation": 2,
+    "hp": 90,
+    "japanese_name": "Granbuluグランブル",
+    "name": "Granbull",
+    "pokedex_number": 210,
+    "speed": 45
+  },
+  {
+    "attack": 95,
+    "defense": 85,
+    "generation": 2,
+    "hp": 65,
+    "japanese_name": "Harysenハリーセン",
+    "name": "Qwilfish",
+    "pokedex_number": 211,
+    "speed": 85
+  },
+  {
+    "attack": 150,
+    "defense": 140,
+    "generation": 2,
+    "hp": 70,
+    "japanese_name": "Hassamハッサム",
+    "name": "Scizor",
+    "pokedex_number": 212,
+    "speed": 75
+  },
+  {
+    "attack": 10,
+    "defense": 230,
+    "generation": 2,
+    "hp": 20,
+    "japanese_name": "Tsubotsuboツボツボ",
+    "name": "Shuckle",
+    "pokedex_number": 213,
+    "speed": 5
+  },
+  {
+    "attack": 185,
+    "defense": 115,
+    "generation": 2,
+    "hp": 80,
+    "japanese_name": "Heracrosヘラクロス",
+    "name": "Heracross",
+    "pokedex_number": 214,
+    "speed": 75
+  },
+  {
+    "attack": 95,
+    "defense": 55,
+    "generation": 2,
+    "hp": 55,
+    "japanese_name": "Nyulaニューラ",
+    "name": "Sneasel",
+    "pokedex_number": 215,
+    "speed": 115
+  },
+  {
+    "attack": 80,
+    "defense": 50,
+    "generation": 2,
+    "hp": 60,
+    "japanese_name": "Himegumaヒメグマ",
+    "name": "Teddiursa",
+    "pokedex_number": 216,
+    "speed": 40
+  },
+  {
+    "attack": 130,
+    "defense": 75,
+    "generation": 2,
+    "hp": 90,
+    "japanese_name": "Ringumaリングマ",
+    "name": "Ursaring",
+    "pokedex_number": 217,
+    "speed": 55
+  },
+  {
+    "attack": 40,
+    "defense": 40,
+    "generation": 2,
+    "hp": 40,
+    "japanese_name": "Magmagマグマッグ",
+    "name": "Slugma",
+    "pokedex_number": 218,
+    "speed": 20
+  },
+  {
+    "attack": 50,
+    "defense": 120,
+    "generation": 2,
+    "hp": 60,
+    "japanese_name": "Magcargotマグカルゴ",
+    "name": "Magcargo",
+    "pokedex_number": 219,
+    "speed": 30
+  },
+  {
+    "attack": 50,
+    "defense": 40,
+    "generation": 2,
+    "hp": 50,
+    "japanese_name": "Urimooウリムー",
+    "name": "Swinub",
+    "pokedex_number": 220,
+    "speed": 50
+  },
+  {
+    "attack": 100,
+    "defense": 80,
+    "generation": 2,
+    "hp": 100,
+    "japanese_name": "Inomooイノムー",
+    "name": "Piloswine",
+    "pokedex_number": 221,
+    "speed": 50
+  },
+  {
+    "attack": 55,
+    "defense": 95,
+    "generation": 2,
+    "hp": 65,
+    "japanese_name": "Sunnygoサニーゴ",
+    "name": "Corsola",
+    "pokedex_number": 222,
+    "speed": 35
+  },
+  {
+    "attack": 65,
+    "defense": 35,
+    "generation": 2,
+    "hp": 35,
+    "japanese_name": "Teppouoテッポウオ",
+    "name": "Remoraid",
+    "pokedex_number": 223,
+    "speed": 65
+  },
+  {
+    "attack": 105,
+    "defense": 75,
+    "generation": 2,
+    "hp": 75,
+    "japanese_name": "Okutankオクタン",
+    "name": "Octillery",
+    "pokedex_number": 224,
+    "speed": 45
+  },
+  {
+    "attack": 55,
+    "defense": 45,
+    "generation": 2,
+    "hp": 45,
+    "japanese_name": "Delibirdデリバード",
+    "name": "Delibird",
+    "pokedex_number": 225,
+    "speed": 75
+  },
+  {
+    "attack": 40,
+    "defense": 70,
+    "generation": 2,
+    "hp": 85,
+    "japanese_name": "Mantainマンタイン",
+    "name": "Mantine",
+    "pokedex_number": 226,
+    "speed": 70
+  },
+  {
+    "attack": 80,
+    "defense": 140,
+    "generation": 2,
+    "hp": 65,
+    "japanese_name": "Airmdエアームド",
+    "name": "Skarmory",
+    "pokedex_number": 227,
+    "speed": 70
+  },
+  {
+    "attack": 60,
+    "defense": 30,
+    "generation": 2,
+    "hp": 45,
+    "japanese_name": "Delvilデルビル",
+    "name": "Houndour",
+    "pokedex_number": 228,
+    "speed": 65
+  },
+  {
+    "attack": 90,
+    "defense": 90,
+    "generation": 2,
+    "hp": 75,
+    "japanese_name": "Hellgarヘルガー",
+    "name": "Houndoom",
+    "pokedex_number": 229,
+    "speed": 115
+  },
+  {
+    "attack": 95,
+    "defense": 95,
+    "generation": 2,
+    "hp": 75,
+    "japanese_name": "Kingdraキングドラ",
+    "name": "Kingdra",
+    "pokedex_number": 230,
+    "speed": 85
+  },
+  {
+    "attack": 60,
+    "defense": 60,
+    "generation": 2,
+    "hp": 90,
+    "japanese_name": "Gomazouゴマゾウ",
+    "name": "Phanpy",
+    "pokedex_number": 231,
+    "speed": 40
+  },
+  {
+    "attack": 120,
+    "defense": 120,
+    "generation": 2,
+    "hp": 90,
+    "japanese_name": "Donfanドンファン",
+    "name": "Donphan",
+    "pokedex_number": 232,
+    "speed": 50
+  },
+  {
+    "attack": 80,
+    "defense": 90,
+    "generation": 2,
+    "hp": 85,
+    "japanese_name": "Porygon2ポリゴン２",
+    "name": "Porygon2",
+    "pokedex_number": 233,
+    "speed": 60
+  },
+  {
+    "attack": 95,
+    "defense": 62,
+    "generation": 2,
+    "hp": 73,
+    "japanese_name": "Odoshishiオドシシ",
+    "name": "Stantler",
+    "pokedex_number": 234,
+    "speed": 85
+  },
+  {
+    "attack": 20,
+    "defense": 35,
+    "generation": 2,
+    "hp": 55,
+    "japanese_name": "Dobleドーブル",
+    "name": "Smeargle",
+    "pokedex_number": 235,
+    "speed": 75
+  },
+  {
+    "attack": 35,
+    "defense": 35,
+    "generation": 2,
+    "hp": 35,
+    "japanese_name": "Balkieバルキー",
+    "name": "Tyrogue",
+    "pokedex_number": 236,
+    "speed": 35
+  },
+  {
+    "attack": 95,
+    "defense": 95,
+    "generation": 2,
+    "hp": 50,
+    "japanese_name": "Kapoererカポエラー",
+    "name": "Hitmontop",
+    "pokedex_number": 237,
+    "speed": 70
+  },
+  {
+    "attack": 30,
+    "defense": 15,
+    "generation": 2,
+    "hp": 45,
+    "japanese_name": "Muchulムチュール",
+    "name": "Smoochum",
+    "pokedex_number": 238,
+    "speed": 65
+  },
+  {
+    "attack": 63,
+    "defense": 37,
+    "generation": 2,
+    "hp": 45,
+    "japanese_name": "Elekidエレキッド",
+    "name": "Elekid",
+    "pokedex_number": 239,
+    "speed": 95
+  },
+  {
+    "attack": 75,
+    "defense": 37,
+    "generation": 2,
+    "hp": 45,
+    "japanese_name": "Bubyブビィ",
+    "name": "Magby",
+    "pokedex_number": 240,
+    "speed": 83
+  },
+  {
+    "attack": 80,
+    "defense": 105,
+    "generation": 2,
+    "hp": 95,
+    "japanese_name": "Miltankミルタンク",
+    "name": "Miltank",
+    "pokedex_number": 241,
+    "speed": 100
+  },
+  {
+    "attack": 10,
+    "defense": 10,
+    "generation": 2,
+    "hp": 255,
+    "japanese_name": "Happinasハピナス",
+    "name": "Blissey",
+    "pokedex_number": 242,
+    "speed": 55
+  },
+  {
+    "attack": 85,
+    "defense": 75,
+    "generation": 2,
+    "hp": 90,
+    "japanese_name": "Raikouライコウ",
+    "name": "Raikou",
+    "pokedex_number": 243,
+    "speed": 115
+  },
+  {
+    "attack": 115,
+    "defense": 85,
+    "generation": 2,
+    "hp": 115,
+    "japanese_name": "Enteiエンテイ",
+    "name": "Entei",
+    "pokedex_number": 244,
+    "speed": 100
+  },
+  {
+    "attack": 75,
+    "defense": 115,
+    "generation": 2,
+    "hp": 100,
+    "japanese_name": "Suicuneスイクン",
+    "name": "Suicune",
+    "pokedex_number": 245,
+    "speed": 85
+  },
+  {
+    "attack": 64,
+    "defense": 50,
+    "generation": 2,
+    "hp": 50,
+    "japanese_name": "Yogirasヨーギラス",
+    "name": "Larvitar",
+    "pokedex_number": 246,
+    "speed": 41
+  },
+  {
+    "attack": 84,
+    "defense": 70,
+    "generation": 2,
+    "hp": 70,
+    "japanese_name": "Sanagirasサナギラス",
+    "name": "Pupitar",
+    "pokedex_number": 247,
+    "speed": 51
+  },
+  {
+    "attack": 164,
+    "defense": 150,
+    "generation": 2,
+    "hp": 100,
+    "japanese_name": "Bangirasバンギラス",
+    "name": "Tyranitar",
+    "pokedex_number": 248,
+    "speed": 71
+  },
+  {
+    "attack": 90,
+    "defense": 130,
+    "generation": 2,
+    "hp": 106,
+    "japanese_name": "Lugiaルギア",
+    "name": "Lugia",
+    "pokedex_number": 249,
+    "speed": 110
+  },
+  {
+    "attack": 130,
+    "defense": 90,
+    "generation": 2,
+    "hp": 106,
+    "japanese_name": "Hououホウオウ",
+    "name": "Ho-Oh",
+    "pokedex_number": 250,
+    "speed": 90
+  },
+  {
+    "attack": 100,
+    "defense": 100,
+    "generation": 2,
+    "hp": 100,
+    "japanese_name": "Celebiセレビィ",
+    "name": "Celebi",
+    "pokedex_number": 251,
+    "speed": 100
+  },
+  {
+    "attack": 45,
+    "defense": 35,
+    "generation": 3,
+    "hp": 40,
+    "japanese_name": "Kimoriキモリ",
+    "name": "Treecko",
+    "pokedex_number": 252,
+    "speed": 70
+  },
+  {
+    "attack": 65,
+    "defense": 45,
+    "generation": 3,
+    "hp": 50,
+    "japanese_name": "Juptileジュプトル",
+    "name": "Grovyle",
+    "pokedex_number": 253,
+    "speed": 95
+  },
+  {
+    "attack": 110,
+    "defense": 75,
+    "generation": 3,
+    "hp": 70,
+    "japanese_name": "Jukainジュカイン",
+    "name": "Sceptile",
+    "pokedex_number": 254,
+    "speed": 145
+  },
+  {
+    "attack": 60,
+    "defense": 40,
+    "generation": 3,
+    "hp": 45,
+    "japanese_name": "Achamoアチャモ",
+    "name": "Torchic",
+    "pokedex_number": 255,
+    "speed": 45
+  },
+  {
+    "attack": 85,
+    "defense": 60,
+    "generation": 3,
+    "hp": 60,
+    "japanese_name": "Wakasyamoワカシャモ",
+    "name": "Combusken",
+    "pokedex_number": 256,
+    "speed": 55
+  },
+  {
+    "attack": 160,
+    "defense": 80,
+    "generation": 3,
+    "hp": 80,
+    "japanese_name": "Bursyamoバシャーモ",
+    "name": "Blaziken",
+    "pokedex_number": 257,
+    "speed": 100
+  },
+  {
+    "attack": 70,
+    "defense": 50,
+    "generation": 3,
+    "hp": 50,
+    "japanese_name": "Mizugorouミズゴロウ",
+    "name": "Mudkip",
+    "pokedex_number": 258,
+    "speed": 40
+  },
+  {
+    "attack": 85,
+    "defense": 70,
+    "generation": 3,
+    "hp": 70,
+    "japanese_name": "Numacrawヌマクロー",
+    "name": "Marshtomp",
+    "pokedex_number": 259,
+    "speed": 50
+  },
+  {
+    "attack": 150,
+    "defense": 110,
+    "generation": 3,
+    "hp": 100,
+    "japanese_name": "Laglargeラグラージ",
+    "name": "Swampert",
+    "pokedex_number": 260,
+    "speed": 70
+  },
+  {
+    "attack": 55,
+    "defense": 35,
+    "generation": 3,
+    "hp": 35,
+    "japanese_name": "Pochienaポチエナ",
+    "name": "Poochyena",
+    "pokedex_number": 261,
+    "speed": 35
+  },
+  {
+    "attack": 90,
+    "defense": 70,
+    "generation": 3,
+    "hp": 70,
+    "japanese_name": "Graenaグラエナ",
+    "name": "Mightyena",
+    "pokedex_number": 262,
+    "speed": 70
+  },
+  {
+    "attack": 30,
+    "defense": 41,
+    "generation": 3,
+    "hp": 38,
+    "japanese_name": "Jiguzagumaジグザグマ",
+    "name": "Zigzagoon",
+    "pokedex_number": 263,
+    "speed": 60
+  },
+  {
+    "attack": 70,
+    "defense": 61,
+    "generation": 3,
+    "hp": 78,
+    "japanese_name": "Massugumaマッスグマ",
+    "name": "Linoone",
+    "pokedex_number": 264,
+    "speed": 100
+  },
+  {
+    "attack": 45,
+    "defense": 35,
+    "generation": 3,
+    "hp": 45,
+    "japanese_name": "Kemussoケムッソ",
+    "name": "Wurmple",
+    "pokedex_number": 265,
+    "speed": 20
+  },
+  {
+    "attack": 35,
+    "defense": 55,
+    "generation": 3,
+    "hp": 50,
+    "japanese_name": "Karasalisカラサリス",
+    "name": "Silcoon",
+    "pokedex_number": 266,
+    "speed": 15
+  },
+  {
+    "attack": 70,
+    "defense": 50,
+    "generation": 3,
+    "hp": 60,
+    "japanese_name": "Agehuntアゲハント",
+    "name": "Beautifly",
+    "pokedex_number": 267,
+    "speed": 65
+  },
+  {
+    "attack": 35,
+    "defense": 55,
+    "generation": 3,
+    "hp": 50,
+    "japanese_name": "Mayuldマユルド",
+    "name": "Cascoon",
+    "pokedex_number": 268,
+    "speed": 15
+  },
+  {
+    "attack": 50,
+    "defense": 70,
+    "generation": 3,
+    "hp": 60,
+    "japanese_name": "Dokucaleドクケイル",
+    "name": "Dustox",
+    "pokedex_number": 269,
+    "speed": 65
+  },
+  {
+    "attack": 30,
+    "defense": 30,
+    "generation": 3,
+    "hp": 40,
+    "japanese_name": "Hassbohハスボー",
+    "name": "Lotad",
+    "pokedex_number": 270,
+    "speed": 30
+  },
+  {
+    "attack": 50,
+    "defense": 50,
+    "generation": 3,
+    "hp": 60,
+    "japanese_name": "Hasubreroハスブレロ",
+    "name": "Lombre",
+    "pokedex_number": 271,
+    "speed": 50
+  },
+  {
+    "attack": 70,
+    "defense": 70,
+    "generation": 3,
+    "hp": 80,
+    "japanese_name": "Runpappaルンパッパ",
+    "name": "Ludicolo",
+    "pokedex_number": 272,
+    "speed": 70
+  },
+  {
+    "attack": 40,
+    "defense": 50,
+    "generation": 3,
+    "hp": 40,
+    "japanese_name": "Tanebohタネボー",
+    "name": "Seedot",
+    "pokedex_number": 273,
+    "speed": 30
+  },
+  {
+    "attack": 70,
+    "defense": 40,
+    "generation": 3,
+    "hp": 70,
+    "japanese_name": "Konohanaコノハナ",
+    "name": "Nuzleaf",
+    "pokedex_number": 274,
+    "speed": 60
+  },
+  {
+    "attack": 100,
+    "defense": 60,
+    "generation": 3,
+    "hp": 90,
+    "japanese_name": "Dirtengダーテング",
+    "name": "Shiftry",
+    "pokedex_number": 275,
+    "speed": 80
+  },
+  {
+    "attack": 55,
+    "defense": 30,
+    "generation": 3,
+    "hp": 40,
+    "japanese_name": "Subameスバメ",
+    "name": "Taillow",
+    "pokedex_number": 276,
+    "speed": 85
+  },
+  {
+    "attack": 85,
+    "defense": 60,
+    "generation": 3,
+    "hp": 60,
+    "japanese_name": "Ohsubameオオスバメ",
+    "name": "Swellow",
+    "pokedex_number": 277,
+    "speed": 125
+  },
+  {
+    "attack": 30,
+    "defense": 30,
+    "generation": 3,
+    "hp": 40,
+    "japanese_name": "Camomeキャモメ",
+    "name": "Wingull",
+    "pokedex_number": 278,
+    "speed": 85
+  },
+  {
+    "attack": 50,
+    "defense": 100,
+    "generation": 3,
+    "hp": 60,
+    "japanese_name": "Pelipperペリッパー",
+    "name": "Pelipper",
+    "pokedex_number": 279,
+    "speed": 65
+  },
+  {
+    "attack": 25,
+    "defense": 25,
+    "generation": 3,
+    "hp": 28,
+    "japanese_name": "Raltsラルトス",
+    "name": "Ralts",
+    "pokedex_number": 280,
+    "speed": 40
+  },
+  {
+    "attack": 35,
+    "defense": 35,
+    "generation": 3,
+    "hp": 38,
+    "japanese_name": "Kirliaキルリア",
+    "name": "Kirlia",
+    "pokedex_number": 281,
+    "speed": 50
+  },
+  {
+    "attack": 85,
+    "defense": 65,
+    "generation": 3,
+    "hp": 68,
+    "japanese_name": "Sirnightサーナイト",
+    "name": "Gardevoir",
+    "pokedex_number": 282,
+    "speed": 100
+  },
+  {
+    "attack": 30,
+    "defense": 32,
+    "generation": 3,
+    "hp": 40,
+    "japanese_name": "Ametamaアメタマ",
+    "name": "Surskit",
+    "pokedex_number": 283,
+    "speed": 65
+  },
+  {
+    "attack": 60,
+    "defense": 62,
+    "generation": 3,
+    "hp": 70,
+    "japanese_name": "Amemothアメモース",
+    "name": "Masquerain",
+    "pokedex_number": 284,
+    "speed": 80
+  },
+  {
+    "attack": 40,
+    "defense": 60,
+    "generation": 3,
+    "hp": 60,
+    "japanese_name": "Kinococoキノココ",
+    "name": "Shroomish",
+    "pokedex_number": 285,
+    "speed": 35
+  },
+  {
+    "attack": 130,
+    "defense": 80,
+    "generation": 3,
+    "hp": 60,
+    "japanese_name": "Kinogassaキノガッサ",
+    "name": "Breloom",
+    "pokedex_number": 286,
+    "speed": 70
+  },
+  {
+    "attack": 60,
+    "defense": 60,
+    "generation": 3,
+    "hp": 60,
+    "japanese_name": "Namakeroナマケロ",
+    "name": "Slakoth",
+    "pokedex_number": 287,
+    "speed": 30
+  },
+  {
+    "attack": 80,
+    "defense": 80,
+    "generation": 3,
+    "hp": 80,
+    "japanese_name": "Yarukimonoヤルキモノ",
+    "name": "Vigoroth",
+    "pokedex_number": 288,
+    "speed": 90
+  },
+  {
+    "attack": 160,
+    "defense": 100,
+    "generation": 3,
+    "hp": 150,
+    "japanese_name": "Kekkingケッキング",
+    "name": "Slaking",
+    "pokedex_number": 289,
+    "speed": 100
+  },
+  {
+    "attack": 45,
+    "defense": 90,
+    "generation": 3,
+    "hp": 31,
+    "japanese_name": "Tutininツチニン",
+    "name": "Nincada",
+    "pokedex_number": 290,
+    "speed": 40
+  },
+  {
+    "attack": 90,
+    "defense": 45,
+    "generation": 3,
+    "hp": 61,
+    "japanese_name": "Tekkaninテッカニン",
+    "name": "Ninjask",
+    "pokedex_number": 291,
+    "speed": 160
+  },
+  {
+    "attack": 90,
+    "defense": 45,
+    "generation": 3,
+    "hp": 1,
+    "japanese_name": "Nukeninヌケニン",
+    "name": "Shedinja",
+    "pokedex_number": 292,
+    "speed": 40
+  },
+  {
+    "attack": 51,
+    "defense": 23,
+    "generation": 3,
+    "hp": 64,
+    "japanese_name": "Gonyonyoゴニョニョ",
+    "name": "Whismur",
+    "pokedex_number": 293,
+    "speed": 28
+  },
+  {
+    "attack": 71,
+    "defense": 43,
+    "generation": 3,
+    "hp": 84,
+    "japanese_name": "Dogohmbドゴーム",
+    "name": "Loudred",
+    "pokedex_number": 294,
+    "speed": 48
+  },
+  {
+    "attack": 91,
+    "defense": 63,
+    "generation": 3,
+    "hp": 104,
+    "japanese_name": "Bakuongバクオング",
+    "name": "Exploud",
+    "pokedex_number": 295,
+    "speed": 68
+  },
+  {
+    "attack": 60,
+    "defense": 30,
+    "generation": 3,
+    "hp": 72,
+    "japanese_name": "Makunoshitaマクノシタ",
+    "name": "Makuhita",
+    "pokedex_number": 296,
+    "speed": 25
+  },
+  {
+    "attack": 120,
+    "defense": 60,
+    "generation": 3,
+    "hp": 144,
+    "japanese_name": "Hariteyamaハリテヤマ",
+    "name": "Hariyama",
+    "pokedex_number": 297,
+    "speed": 50
+  },
+  {
+    "attack": 20,
+    "defense": 40,
+    "generation": 3,
+    "hp": 50,
+    "japanese_name": "Ruririルリリ",
+    "name": "Azurill",
+    "pokedex_number": 298,
+    "speed": 20
+  },
+  {
+    "attack": 45,
+    "defense": 135,
+    "generation": 3,
+    "hp": 30,
+    "japanese_name": "Nosepassノズパス",
+    "name": "Nosepass",
+    "pokedex_number": 299,
+    "speed": 30
+  },
+  {
+    "attack": 45,
+    "defense": 45,
+    "generation": 3,
+    "hp": 50,
+    "japanese_name": "Enecoエネコ",
+    "name": "Skitty",
+    "pokedex_number": 300,
+    "speed": 50
+  },
+  {
+    "attack": 65,
+    "defense": 65,
+    "generation": 3,
+    "hp": 70,
+    "japanese_name": "Enekororoエネコロロ",
+    "name": "Delcatty",
+    "pokedex_number": 301,
+    "speed": 90
+  },
+  {
+    "attack": 85,
+    "defense": 125,
+    "generation": 3,
+    "hp": 50,
+    "japanese_name": "Yamiramiヤミラミ",
+    "name": "Sableye",
+    "pokedex_number": 302,
+    "speed": 20
+  },
+  {
+    "attack": 105,
+    "defense": 125,
+    "generation": 3,
+    "hp": 50,
+    "japanese_name": "Kucheatクチート",
+    "name": "Mawile",
+    "pokedex_number": 303,
+    "speed": 50
+  },
+  {
+    "attack": 70,
+    "defense": 100,
+    "generation": 3,
+    "hp": 50,
+    "japanese_name": "Cokodoraココドラ",
+    "name": "Aron",
+    "pokedex_number": 304,
+    "speed": 30
+  },
+  {
+    "attack": 90,
+    "defense": 140,
+    "generation": 3,
+    "hp": 60,
+    "japanese_name": "Kodoraコドラ",
+    "name": "Lairon",
+    "pokedex_number": 305,
+    "speed": 40
+  },
+  {
+    "attack": 140,
+    "defense": 230,
+    "generation": 3,
+    "hp": 70,
+    "japanese_name": "Bossgodoraボスゴドラ",
+    "name": "Aggron",
+    "pokedex_number": 306,
+    "speed": 50
+  },
+  {
+    "attack": 40,
+    "defense": 55,
+    "generation": 3,
+    "hp": 30,
+    "japanese_name": "Asananアサナン",
+    "name": "Meditite",
+    "pokedex_number": 307,
+    "speed": 60
+  },
+  {
+    "attack": 100,
+    "defense": 85,
+    "generation": 3,
+    "hp": 60,
+    "japanese_name": "Charemチャーレム",
+    "name": "Medicham",
+    "pokedex_number": 308,
+    "speed": 100
+  },
+  {
+    "attack": 45,
+    "defense": 40,
+    "generation": 3,
+    "hp": 40,
+    "japanese_name": "Rakuraiラクライ",
+    "name": "Electrike",
+    "pokedex_number": 309,
+    "speed": 65
+  },
+  {
+    "attack": 75,
+    "defense": 80,
+    "generation": 3,
+    "hp": 70,
+    "japanese_name": "Livoltライボルト",
+    "name": "Manectric",
+    "pokedex_number": 310,
+    "speed": 135
+  },
+  {
+    "attack": 50,
+    "defense": 40,
+    "generation": 3,
+    "hp": 60,
+    "japanese_name": "Prasleプラスル",
+    "name": "Plusle",
+    "pokedex_number": 311,
+    "speed": 95
+  },
+  {
+    "attack": 40,
+    "defense": 50,
+    "generation": 3,
+    "hp": 60,
+    "japanese_name": "Minunマイナン",
+    "name": "Minun",
+    "pokedex_number": 312,
+    "speed": 95
+  },
+  {
+    "attack": 73,
+    "defense": 75,
+    "generation": 3,
+    "hp": 65,
+    "japanese_name": "Barubeatバルビート",
+    "name": "Volbeat",
+    "pokedex_number": 313,
+    "speed": 85
+  },
+  {
+    "attack": 47,
+    "defense": 75,
+    "generation": 3,
+    "hp": 65,
+    "japanese_name": "Illumiseイルミーゼ",
+    "name": "Illumise",
+    "pokedex_number": 314,
+    "speed": 85
+  },
+  {
+    "attack": 60,
+    "defense": 45,
+    "generation": 3,
+    "hp": 50,
+    "japanese_name": "Roseliaロゼリア",
+    "name": "Roselia",
+    "pokedex_number": 315,
+    "speed": 65
+  },
+  {
+    "attack": 43,
+    "defense": 53,
+    "generation": 3,
+    "hp": 70,
+    "japanese_name": "Gokulinゴクリン",
+    "name": "Gulpin",
+    "pokedex_number": 316,
+    "speed": 40
+  },
+  {
+    "attack": 73,
+    "defense": 83,
+    "generation": 3,
+    "hp": 100,
+    "japanese_name": "Marunoomマルノーム",
+    "name": "Swalot",
+    "pokedex_number": 317,
+    "speed": 55
+  },
+  {
+    "attack": 90,
+    "defense": 20,
+    "generation": 3,
+    "hp": 45,
+    "japanese_name": "Kibanhaキバニア",
+    "name": "Carvanha",
+    "pokedex_number": 318,
+    "speed": 65
+  },
+  {
+    "attack": 140,
+    "defense": 70,
+    "generation": 3,
+    "hp": 70,
+    "japanese_name": "Samehaderサメハダー",
+    "name": "Sharpedo",
+    "pokedex_number": 319,
+    "speed": 105
+  },
+  {
+    "attack": 70,
+    "defense": 35,
+    "generation": 3,
+    "hp": 130,
+    "japanese_name": "Hoerukoホエルコ",
+    "name": "Wailmer",
+    "pokedex_number": 320,
+    "speed": 60
+  },
+  {
+    "attack": 90,
+    "defense": 45,
+    "generation": 3,
+    "hp": 170,
+    "japanese_name": "Whalohホエルオー",
+    "name": "Wailord",
+    "pokedex_number": 321,
+    "speed": 60
+  },
+  {
+    "attack": 60,
+    "defense": 40,
+    "generation": 3,
+    "hp": 60,
+    "japanese_name": "Donmelドンメル",
+    "name": "Numel",
+    "pokedex_number": 322,
+    "speed": 35
+  },
+  {
+    "attack": 120,
+    "defense": 100,
+    "generation": 3,
+    "hp": 70,
+    "japanese_name": "Bakuudaバクーダ",
+    "name": "Camerupt",
+    "pokedex_number": 323,
+    "speed": 20
+  },
+  {
+    "attack": 85,
+    "defense": 140,
+    "generation": 3,
+    "hp": 70,
+    "japanese_name": "Cotoiseコータス",
+    "name": "Torkoal",
+    "pokedex_number": 324,
+    "speed": 20
+  },
+  {
+    "attack": 25,
+    "defense": 35,
+    "generation": 3,
+    "hp": 60,
+    "japanese_name": "Banebooバネブー",
+    "name": "Spoink",
+    "pokedex_number": 325,
+    "speed": 60
+  },
+  {
+    "attack": 45,
+    "defense": 65,
+    "generation": 3,
+    "hp": 80,
+    "japanese_name": "Boopigブーピッグ",
+    "name": "Grumpig",
+    "pokedex_number": 326,
+    "speed": 80
+  },
+  {
+    "attack": 60,
+    "defense": 60,
+    "generation": 3,
+    "hp": 60,
+    "japanese_name": "Patcheelパッチール",
+    "name": "Spinda",
+    "pokedex_number": 327,
+    "speed": 60
+  },
+  {
+    "attack": 100,
+    "defense": 45,
+    "generation": 3,
+    "hp": 45,
+    "japanese_name": "Nuckrarナックラー",
+    "name": "Trapinch",
+    "pokedex_number": 328,
+    "speed": 10
+  },
+  {
+    "attack": 70,
+    "defense": 50,
+    "generation": 3,
+    "hp": 50,
+    "japanese_name": "Vibravaビブラーバ",
+    "name": "Vibrava",
+    "pokedex_number": 329,
+    "speed": 70
+  },
+  {
+    "attack": 100,
+    "defense": 80,
+    "generation": 3,
+    "hp": 80,
+    "japanese_name": "Flygonフライゴン",
+    "name": "Flygon",
+    "pokedex_number": 330,
+    "speed": 100
+  },
+  {
+    "attack": 85,
+    "defense": 40,
+    "generation": 3,
+    "hp": 50,
+    "japanese_name": "Saboneaサボネア",
+    "name": "Cacnea",
+    "pokedex_number": 331,
+    "speed": 35
+  },
+  {
+    "attack": 115,
+    "defense": 60,
+    "generation": 3,
+    "hp": 70,
+    "japanese_name": "Noctusノクタス",
+    "name": "Cacturne",
+    "pokedex_number": 332,
+    "speed": 55
+  },
+  {
+    "attack": 40,
+    "defense": 60,
+    "generation": 3,
+    "hp": 45,
+    "japanese_name": "Tylttoチルット",
+    "name": "Swablu",
+    "pokedex_number": 333,
+    "speed": 50
+  },
+  {
+    "attack": 110,
+    "defense": 110,
+    "generation": 3,
+    "hp": 75,
+    "japanese_name": "Tyltalisチルタリス",
+    "name": "Altaria",
+    "pokedex_number": 334,
+    "speed": 80
+  },
+  {
+    "attack": 115,
+    "defense": 60,
+    "generation": 3,
+    "hp": 73,
+    "japanese_name": "Zangooseザングース",
+    "name": "Zangoose",
+    "pokedex_number": 335,
+    "speed": 90
+  },
+  {
+    "attack": 100,
+    "defense": 60,
+    "generation": 3,
+    "hp": 73,
+    "japanese_name": "Habunakeハブネーク",
+    "name": "Seviper",
+    "pokedex_number": 336,
+    "speed": 65
+  },
+  {
+    "attack": 55,
+    "defense": 65,
+    "generation": 3,
+    "hp": 90,
+    "japanese_name": "Lunatoneルナトーン",
+    "name": "Lunatone",
+    "pokedex_number": 337,
+    "speed": 70
+  },
+  {
+    "attack": 95,
+    "defense": 85,
+    "generation": 3,
+    "hp": 90,
+    "japanese_name": "Solrockソルロック",
+    "name": "Solrock",
+    "pokedex_number": 338,
+    "speed": 70
+  },
+  {
+    "attack": 48,
+    "defense": 43,
+    "generation": 3,
+    "hp": 50,
+    "japanese_name": "Dojoachドジョッチ",
+    "name": "Barboach",
+    "pokedex_number": 339,
+    "speed": 60
+  },
+  {
+    "attack": 78,
+    "defense": 73,
+    "generation": 3,
+    "hp": 110,
+    "japanese_name": "Namazunナマズン",
+    "name": "Whiscash",
+    "pokedex_number": 340,
+    "speed": 60
+  },
+  {
+    "attack": 80,
+    "defense": 65,
+    "generation": 3,
+    "hp": 43,
+    "japanese_name": "Heiganiヘイガニ",
+    "name": "Corphish",
+    "pokedex_number": 341,
+    "speed": 35
+  },
+  {
+    "attack": 120,
+    "defense": 85,
+    "generation": 3,
+    "hp": 63,
+    "japanese_name": "Shizarigerシザリガー",
+    "name": "Crawdaunt",
+    "pokedex_number": 342,
+    "speed": 55
+  },
+  {
+    "attack": 40,
+    "defense": 55,
+    "generation": 3,
+    "hp": 40,
+    "japanese_name": "Yajilonヤジロン",
+    "name": "Baltoy",
+    "pokedex_number": 343,
+    "speed": 55
+  },
+  {
+    "attack": 70,
+    "defense": 105,
+    "generation": 3,
+    "hp": 60,
+    "japanese_name": "Nendollネンドール",
+    "name": "Claydol",
+    "pokedex_number": 344,
+    "speed": 75
+  },
+  {
+    "attack": 41,
+    "defense": 77,
+    "generation": 3,
+    "hp": 66,
+    "japanese_name": "Lilylaリリーラ",
+    "name": "Lileep",
+    "pokedex_number": 345,
+    "speed": 23
+  },
+  {
+    "attack": 81,
+    "defense": 97,
+    "generation": 3,
+    "hp": 86,
+    "japanese_name": "Yuradleユレイドル",
+    "name": "Cradily",
+    "pokedex_number": 346,
+    "speed": 43
+  },
+  {
+    "attack": 95,
+    "defense": 50,
+    "generation": 3,
+    "hp": 45,
+    "japanese_name": "Anopthアノプス",
+    "name": "Anorith",
+    "pokedex_number": 347,
+    "speed": 75
+  },
+  {
+    "attack": 125,
+    "defense": 100,
+    "generation": 3,
+    "hp": 75,
+    "japanese_name": "Armaldoアーマルド",
+    "name": "Armaldo",
+    "pokedex_number": 348,
+    "speed": 45
+  },
+  {
+    "attack": 15,
+    "defense": 20,
+    "generation": 3,
+    "hp": 20,
+    "japanese_name": "Hinbassヒンバス",
+    "name": "Feebas",
+    "pokedex_number": 349,
+    "speed": 80
+  },
+  {
+    "attack": 60,
+    "defense": 79,
+    "generation": 3,
+    "hp": 95,
+    "japanese_name": "Milokarossミロカロス",
+    "name": "Milotic",
+    "pokedex_number": 350,
+    "speed": 81
+  },
+  {
+    "attack": 70,
+    "defense": 70,
+    "generation": 3,
+    "hp": 70,
+    "japanese_name": "Powalenポワルン",
+    "name": "Castform",
+    "pokedex_number": 351,
+    "speed": 70
+  },
+  {
+    "attack": 90,
+    "defense": 70,
+    "generation": 3,
+    "hp": 60,
+    "japanese_name": "Kakureonカクレオン",
+    "name": "Kecleon",
+    "pokedex_number": 352,
+    "speed": 40
+  },
+  {
+    "attack": 75,
+    "defense": 35,
+    "generation": 3,
+    "hp": 44,
+    "japanese_name": "Kagebouzuカゲボウズ",
+    "name": "Shuppet",
+    "pokedex_number": 353,
+    "speed": 45
+  },
+  {
+    "attack": 165,
+    "defense": 75,
+    "generation": 3,
+    "hp": 64,
+    "japanese_name": "Juppetaジュペッタ",
+    "name": "Banette",
+    "pokedex_number": 354,
+    "speed": 75
+  },
+  {
+    "attack": 40,
+    "defense": 90,
+    "generation": 3,
+    "hp": 20,
+    "japanese_name": "Yomawaruヨマワル",
+    "name": "Duskull",
+    "pokedex_number": 355,
+    "speed": 25
+  },
+  {
+    "attack": 70,
+    "defense": 130,
+    "generation": 3,
+    "hp": 40,
+    "japanese_name": "Samayouruサマヨール",
+    "name": "Dusclops",
+    "pokedex_number": 356,
+    "speed": 25
+  },
+  {
+    "attack": 68,
+    "defense": 83,
+    "generation": 3,
+    "hp": 99,
+    "japanese_name": "Tropiusトロピウス",
+    "name": "Tropius",
+    "pokedex_number": 357,
+    "speed": 51
+  },
+  {
+    "attack": 50,
+    "defense": 80,
+    "generation": 3,
+    "hp": 75,
+    "japanese_name": "Chireanチリーン",
+    "name": "Chimecho",
+    "pokedex_number": 358,
+    "speed": 65
+  },
+  {
+    "attack": 150,
+    "defense": 60,
+    "generation": 3,
+    "hp": 65,
+    "japanese_name": "Absolアブソル",
+    "name": "Absol",
+    "pokedex_number": 359,
+    "speed": 115
+  },
+  {
+    "attack": 23,
+    "defense": 48,
+    "generation": 3,
+    "hp": 95,
+    "japanese_name": "Sohnanoソーナノ",
+    "name": "Wynaut",
+    "pokedex_number": 360,
+    "speed": 23
+  },
+  {
+    "attack": 50,
+    "defense": 50,
+    "generation": 3,
+    "hp": 50,
+    "japanese_name": "Yukiwarashiユキワラシ",
+    "name": "Snorunt",
+    "pokedex_number": 361,
+    "speed": 50
+  },
+  {
+    "attack": 120,
+    "defense": 80,
+    "generation": 3,
+    "hp": 80,
+    "japanese_name": "Onigohriオニゴーリ",
+    "name": "Glalie",
+    "pokedex_number": 362,
+    "speed": 100
+  },
+  {
+    "attack": 40,
+    "defense": 50,
+    "generation": 3,
+    "hp": 70,
+    "japanese_name": "Tamazarashiタマザラシ",
+    "name": "Spheal",
+    "pokedex_number": 363,
+    "speed": 25
+  },
+  {
+    "attack": 60,
+    "defense": 70,
+    "generation": 3,
+    "hp": 90,
+    "japanese_name": "Todogglerトドグラー",
+    "name": "Sealeo",
+    "pokedex_number": 364,
+    "speed": 45
+  },
+  {
+    "attack": 80,
+    "defense": 90,
+    "generation": 3,
+    "hp": 110,
+    "japanese_name": "Todoserugaトドゼルガ",
+    "name": "Walrein",
+    "pokedex_number": 365,
+    "speed": 65
+  },
+  {
+    "attack": 64,
+    "defense": 85,
+    "generation": 3,
+    "hp": 35,
+    "japanese_name": "Pearluluパールル",
+    "name": "Clamperl",
+    "pokedex_number": 366,
+    "speed": 32
+  },
+  {
+    "attack": 104,
+    "defense": 105,
+    "generation": 3,
+    "hp": 55,
+    "japanese_name": "Huntailハンテール",
+    "name": "Huntail",
+    "pokedex_number": 367,
+    "speed": 52
+  },
+  {
+    "attack": 84,
+    "defense": 105,
+    "generation": 3,
+    "hp": 55,
+    "japanese_name": "Sakurabyssサクラビス",
+    "name": "Gorebyss",
+    "pokedex_number": 368,
+    "speed": 52
+  },
+  {
+    "attack": 90,
+    "defense": 130,
+    "generation": 3,
+    "hp": 100,
+    "japanese_name": "Glanthジーランス",
+    "name": "Relicanth",
+    "pokedex_number": 369,
+    "speed": 55
+  },
+  {
+    "attack": 30,
+    "defense": 55,
+    "generation": 3,
+    "hp": 43,
+    "japanese_name": "Lovecusラブカス",
+    "name": "Luvdisc",
+    "pokedex_number": 370,
+    "speed": 97
+  },
+  {
+    "attack": 75,
+    "defense": 60,
+    "generation": 3,
+    "hp": 45,
+    "japanese_name": "Tatsubayタツベイ",
+    "name": "Bagon",
+    "pokedex_number": 371,
+    "speed": 50
+  },
+  {
+    "attack": 95,
+    "defense": 100,
+    "generation": 3,
+    "hp": 65,
+    "japanese_name": "Komoruuコモルー",
+    "name": "Shelgon",
+    "pokedex_number": 372,
+    "speed": 50
+  },
+  {
+    "attack": 145,
+    "defense": 130,
+    "generation": 3,
+    "hp": 95,
+    "japanese_name": "Bohmanderボーマンダ",
+    "name": "Salamence",
+    "pokedex_number": 373,
+    "speed": 120
+  },
+  {
+    "attack": 55,
+    "defense": 80,
+    "generation": 3,
+    "hp": 40,
+    "japanese_name": "Dumbberダンバル",
+    "name": "Beldum",
+    "pokedex_number": 374,
+    "speed": 30
+  },
+  {
+    "attack": 75,
+    "defense": 100,
+    "generation": 3,
+    "hp": 60,
+    "japanese_name": "Metangメタング",
+    "name": "Metang",
+    "pokedex_number": 375,
+    "speed": 50
+  },
+  {
+    "attack": 145,
+    "defense": 150,
+    "generation": 3,
+    "hp": 80,
+    "japanese_name": "Metagrossメタグロス",
+    "name": "Metagross",
+    "pokedex_number": 376,
+    "speed": 110
+  },
+  {
+    "attack": 100,
+    "defense": 200,
+    "generation": 3,
+    "hp": 80,
+    "japanese_name": "Regirockレジロック",
+    "name": "Regirock",
+    "pokedex_number": 377,
+    "speed": 50
+  },
+  {
+    "attack": 50,
+    "defense": 100,
+    "generation": 3,
+    "hp": 80,
+    "japanese_name": "Regiceレジアイス",
+    "name": "Regice",
+    "pokedex_number": 378,
+    "speed": 50
+  },
+  {
+    "attack": 75,
+    "defense": 150,
+    "generation": 3,
+    "hp": 80,
+    "japanese_name": "Registeelレジスチル",
+    "name": "Registeel",
+    "pokedex_number": 379,
+    "speed": 50
+  },
+  {
+    "attack": 100,
+    "defense": 120,
+    "generation": 3,
+    "hp": 80,
+    "japanese_name": "Latiasラティアス",
+    "name": "Latias",
+    "pokedex_number": 380,
+    "speed": 110
+  },
+  {
+    "attack": 130,
+    "defense": 100,
+    "generation": 3,
+    "hp": 80,
+    "japanese_name": "Latiosラティオス",
+    "name": "Latios",
+    "pokedex_number": 381,
+    "speed": 110
+  },
+  {
+    "attack": 150,
+    "defense": 90,
+    "generation": 3,
+    "hp": 100,
+    "japanese_name": "Kyogreカイオーガ",
+    "name": "Kyogre",
+    "pokedex_number": 382,
+    "speed": 90
+  },
+  {
+    "attack": 180,
+    "defense": 160,
+    "generation": 3,
+    "hp": 100,
+    "japanese_name": "Groudonグラードン",
+    "name": "Groudon",
+    "pokedex_number": 383,
+    "speed": 90
+  },
+  {
+    "attack": 180,
+    "defense": 100,
+    "generation": 3,
+    "hp": 105,
+    "japanese_name": "Rayquazaレックウザ",
+    "name": "Rayquaza",
+    "pokedex_number": 384,
+    "speed": 115
+  },
+  {
+    "attack": 100,
+    "defense": 100,
+    "generation": 3,
+    "hp": 100,
+    "japanese_name": "Jirachiジラーチ",
+    "name": "Jirachi",
+    "pokedex_number": 385,
+    "speed": 100
+  },
+  {
+    "attack": 95,
+    "defense": 90,
+    "generation": 3,
+    "hp": 50,
+    "japanese_name": "Deoxysデオキシス",
+    "name": "Deoxys",
+    "pokedex_number": 386,
+    "speed": 180
+  },
+  {
+    "attack": 68,
+    "defense": 64,
+    "generation": 4,
+    "hp": 55,
+    "japanese_name": "Naetleナエトル",
+    "name": "Turtwig",
+    "pokedex_number": 387,
+    "speed": 31
+  },
+  {
+    "attack": 89,
+    "defense": 85,
+    "generation": 4,
+    "hp": 75,
+    "japanese_name": "Hayashigameハヤシガメ",
+    "name": "Grotle",
+    "pokedex_number": 388,
+    "speed": 36
+  },
+  {
+    "attack": 109,
+    "defense": 105,
+    "generation": 4,
+    "hp": 95,
+    "japanese_name": "Dodaitoseドダイトス",
+    "name": "Torterra",
+    "pokedex_number": 389,
+    "speed": 56
+  },
+  {
+    "attack": 58,
+    "defense": 44,
+    "generation": 4,
+    "hp": 44,
+    "japanese_name": "Hikozaruヒコザル",
+    "name": "Chimchar",
+    "pokedex_number": 390,
+    "speed": 61
+  },
+  {
+    "attack": 78,
+    "defense": 52,
+    "generation": 4,
+    "hp": 64,
+    "japanese_name": "Moukazaruモウカザル",
+    "name": "Monferno",
+    "pokedex_number": 391,
+    "speed": 81
+  },
+  {
+    "attack": 104,
+    "defense": 71,
+    "generation": 4,
+    "hp": 76,
+    "japanese_name": "Goukazaruゴウカザル",
+    "name": "Infernape",
+    "pokedex_number": 392,
+    "speed": 108
+  },
+  {
+    "attack": 51,
+    "defense": 53,
+    "generation": 4,
+    "hp": 53,
+    "japanese_name": "Pochamaポッチャマ",
+    "name": "Piplup",
+    "pokedex_number": 393,
+    "speed": 40
+  },
+  {
+    "attack": 66,
+    "defense": 68,
+    "generation": 4,
+    "hp": 64,
+    "japanese_name": "Pottaishiポッタイシ",
+    "name": "Prinplup",
+    "pokedex_number": 394,
+    "speed": 50
+  },
+  {
+    "attack": 86,
+    "defense": 88,
+    "generation": 4,
+    "hp": 84,
+    "japanese_name": "Emperteエンペルト",
+    "name": "Empoleon",
+    "pokedex_number": 395,
+    "speed": 60
+  },
+  {
+    "attack": 55,
+    "defense": 30,
+    "generation": 4,
+    "hp": 40,
+    "japanese_name": "Mukkuruムックル",
+    "name": "Starly",
+    "pokedex_number": 396,
+    "speed": 60
+  },
+  {
+    "attack": 75,
+    "defense": 50,
+    "generation": 4,
+    "hp": 55,
+    "japanese_name": "Mukubirdムクバード",
+    "name": "Staravia",
+    "pokedex_number": 397,
+    "speed": 80
+  },
+  {
+    "attack": 120,
+    "defense": 70,
+    "generation": 4,
+    "hp": 85,
+    "japanese_name": "Mukuhawkムクホーク",
+    "name": "Staraptor",
+    "pokedex_number": 398,
+    "speed": 100
+  },
+  {
+    "attack": 45,
+    "defense": 40,
+    "generation": 4,
+    "hp": 59,
+    "japanese_name": "Bippaビッパ",
+    "name": "Bidoof",
+    "pokedex_number": 399,
+    "speed": 31
+  },
+  {
+    "attack": 85,
+    "defense": 60,
+    "generation": 4,
+    "hp": 79,
+    "japanese_name": "Beadaruビーダル",
+    "name": "Bibarel",
+    "pokedex_number": 400,
+    "speed": 71
+  },
+  {
+    "attack": 25,
+    "defense": 41,
+    "generation": 4,
+    "hp": 37,
+    "japanese_name": "Korobohshiコロボーシ",
+    "name": "Kricketot",
+    "pokedex_number": 401,
+    "speed": 25
+  },
+  {
+    "attack": 85,
+    "defense": 51,
+    "generation": 4,
+    "hp": 77,
+    "japanese_name": "Korotockコロトック",
+    "name": "Kricketune",
+    "pokedex_number": 402,
+    "speed": 65
+  },
+  {
+    "attack": 65,
+    "defense": 34,
+    "generation": 4,
+    "hp": 45,
+    "japanese_name": "Kolinkコリンク",
+    "name": "Shinx",
+    "pokedex_number": 403,
+    "speed": 45
+  },
+  {
+    "attack": 85,
+    "defense": 49,
+    "generation": 4,
+    "hp": 60,
+    "japanese_name": "Luxioルクシオ",
+    "name": "Luxio",
+    "pokedex_number": 404,
+    "speed": 60
+  },
+  {
+    "attack": 120,
+    "defense": 79,
+    "generation": 4,
+    "hp": 80,
+    "japanese_name": "Rentorarレントラー",
+    "name": "Luxray",
+    "pokedex_number": 405,
+    "speed": 70
+  },
+  {
+    "attack": 30,
+    "defense": 35,
+    "generation": 4,
+    "hp": 40,
+    "japanese_name": "Subomieスボミー",
+    "name": "Budew",
+    "pokedex_number": 406,
+    "speed": 55
+  },
+  {
+    "attack": 70,
+    "defense": 65,
+    "generation": 4,
+    "hp": 60,
+    "japanese_name": "Roseradeロズレイド",
+    "name": "Roserade",
+    "pokedex_number": 407,
+    "speed": 90
+  },
+  {
+    "attack": 125,
+    "defense": 40,
+    "generation": 4,
+    "hp": 67,
+    "japanese_name": "Zugaidosズガイドス",
+    "name": "Cranidos",
+    "pokedex_number": 408,
+    "speed": 58
+  },
+  {
+    "attack": 165,
+    "defense": 60,
+    "generation": 4,
+    "hp": 97,
+    "japanese_name": "Rampaldラムパルド",
+    "name": "Rampardos",
+    "pokedex_number": 409,
+    "speed": 58
+  },
+  {
+    "attack": 42,
+    "defense": 118,
+    "generation": 4,
+    "hp": 30,
+    "japanese_name": "Tatetopsタテトプス",
+    "name": "Shieldon",
+    "pokedex_number": 410,
+    "speed": 30
+  },
+  {
+    "attack": 52,
+    "defense": 168,
+    "generation": 4,
+    "hp": 60,
+    "japanese_name": "Toridepsトリデプス",
+    "name": "Bastiodon",
+    "pokedex_number": 411,
+    "speed": 30
+  },
+  {
+    "attack": 29,
+    "defense": 45,
+    "generation": 4,
+    "hp": 40,
+    "japanese_name": "Minomucchiミノムッチ",
+    "name": "Burmy",
+    "pokedex_number": 412,
+    "speed": 36
+  },
+  {
+    "attack": 69,
+    "defense": 95,
+    "generation": 4,
+    "hp": 60,
+    "japanese_name": "Minomadam (kusaki No Mino)ミノマダム",
+    "name": "Wormadam",
+    "pokedex_number": 413,
+    "speed": 36
+  },
+  {
+    "attack": 94,
+    "defense": 50,
+    "generation": 4,
+    "hp": 70,
+    "japanese_name": "Gamaleガーメイル",
+    "name": "Mothim",
+    "pokedex_number": 414,
+    "speed": 66
+  },
+  {
+    "attack": 30,
+    "defense": 42,
+    "generation": 4,
+    "hp": 30,
+    "japanese_name": "Mitsuhoneyミツハニー",
+    "name": "Combee",
+    "pokedex_number": 415,
+    "speed": 70
+  },
+  {
+    "attack": 80,
+    "defense": 102,
+    "generation": 4,
+    "hp": 70,
+    "japanese_name": "Beequenビークイン",
+    "name": "Vespiquen",
+    "pokedex_number": 416,
+    "speed": 40
+  },
+  {
+    "attack": 45,
+    "defense": 70,
+    "generation": 4,
+    "hp": 60,
+    "japanese_name": "Pachirisuパチリス",
+    "name": "Pachirisu",
+    "pokedex_number": 417,
+    "speed": 95
+  },
+  {
+    "attack": 65,
+    "defense": 35,
+    "generation": 4,
+    "hp": 55,
+    "japanese_name": "Buoyselブイゼル",
+    "name": "Buizel",
+    "pokedex_number": 418,
+    "speed": 85
+  },
+  {
+    "attack": 105,
+    "defense": 55,
+    "generation": 4,
+    "hp": 85,
+    "japanese_name": "Floazelフローゼル",
+    "name": "Floatzel",
+    "pokedex_number": 419,
+    "speed": 115
+  },
+  {
+    "attack": 35,
+    "defense": 45,
+    "generation": 4,
+    "hp": 45,
+    "japanese_name": "Cherinboチェリンボ",
+    "name": "Cherubi",
+    "pokedex_number": 420,
+    "speed": 35
+  },
+  {
+    "attack": 60,
+    "defense": 70,
+    "generation": 4,
+    "hp": 70,
+    "japanese_name": "Cherrimチェリム",
+    "name": "Cherrim",
+    "pokedex_number": 421,
+    "speed": 85
+  },
+  {
+    "attack": 48,
+    "defense": 48,
+    "generation": 4,
+    "hp": 76,
+    "japanese_name": "Karanakushiカラナクシ",
+    "name": "Shellos",
+    "pokedex_number": 422,
+    "speed": 34
+  },
+  {
+    "attack": 83,
+    "defense": 68,
+    "generation": 4,
+    "hp": 111,
+    "japanese_name": "Tritodonトリトドン",
+    "name": "Gastrodon",
+    "pokedex_number": 423,
+    "speed": 39
+  },
+  {
+    "attack": 100,
+    "defense": 66,
+    "generation": 4,
+    "hp": 75,
+    "japanese_name": "Etebothエテボース",
+    "name": "Ambipom",
+    "pokedex_number": 424,
+    "speed": 115
+  },
+  {
+    "attack": 50,
+    "defense": 34,
+    "generation": 4,
+    "hp": 90,
+    "japanese_name": "Fuwanteフワンテ",
+    "name": "Drifloon",
+    "pokedex_number": 425,
+    "speed": 70
+  },
+  {
+    "attack": 80,
+    "defense": 44,
+    "generation": 4,
+    "hp": 150,
+    "japanese_name": "Fuwarideフワライド",
+    "name": "Drifblim",
+    "pokedex_number": 426,
+    "speed": 80
+  },
+  {
+    "attack": 66,
+    "defense": 44,
+    "generation": 4,
+    "hp": 55,
+    "japanese_name": "Mimirolミミロル",
+    "name": "Buneary",
+    "pokedex_number": 427,
+    "speed": 85
+  },
+  {
+    "attack": 136,
+    "defense": 94,
+    "generation": 4,
+    "hp": 65,
+    "japanese_name": "Mimilopミミロップ",
+    "name": "Lopunny",
+    "pokedex_number": 428,
+    "speed": 135
+  },
+  {
+    "attack": 60,
+    "defense": 60,
+    "generation": 4,
+    "hp": 60,
+    "japanese_name": "Mumargiムウマージ",
+    "name": "Mismagius",
+    "pokedex_number": 429,
+    "speed": 105
+  },
+  {
+    "attack": 125,
+    "defense": 52,
+    "generation": 4,
+    "hp": 100,
+    "japanese_name": "Dongkarasuドンカラス",
+    "name": "Honchkrow",
+    "pokedex_number": 430,
+    "speed": 71
+  },
+  {
+    "attack": 55,
+    "defense": 42,
+    "generation": 4,
+    "hp": 49,
+    "japanese_name": "Nyarmarニャルマー",
+    "name": "Glameow",
+    "pokedex_number": 431,
+    "speed": 85
+  },
+  {
+    "attack": 82,
+    "defense": 64,
+    "generation": 4,
+    "hp": 71,
+    "japanese_name": "Bunyattoブニャット",
+    "name": "Purugly",
+    "pokedex_number": 432,
+    "speed": 112
+  },
+  {
+    "attack": 30,
+    "defense": 50,
+    "generation": 4,
+    "hp": 45,
+    "japanese_name": "Lisyanリーシャン",
+    "name": "Chingling",
+    "pokedex_number": 433,
+    "speed": 45
+  },
+  {
+    "attack": 63,
+    "defense": 47,
+    "generation": 4,
+    "hp": 63,
+    "japanese_name": "Skunpuuスカンプー",
+    "name": "Stunky",
+    "pokedex_number": 434,
+    "speed": 74
+  },
+  {
+    "attack": 93,
+    "defense": 67,
+    "generation": 4,
+    "hp": 103,
+    "japanese_name": "Skutankスカタンク",
+    "name": "Skuntank",
+    "pokedex_number": 435,
+    "speed": 84
+  },
+  {
+    "attack": 24,
+    "defense": 86,
+    "generation": 4,
+    "hp": 57,
+    "japanese_name": "Dohmirrorドーミラー",
+    "name": "Bronzor",
+    "pokedex_number": 436,
+    "speed": 23
+  },
+  {
+    "attack": 89,
+    "defense": 116,
+    "generation": 4,
+    "hp": 67,
+    "japanese_name": "Dohtakunドータクン",
+    "name": "Bronzong",
+    "pokedex_number": 437,
+    "speed": 33
+  },
+  {
+    "attack": 80,
+    "defense": 95,
+    "generation": 4,
+    "hp": 50,
+    "japanese_name": "Usohachiウソハチ",
+    "name": "Bonsly",
+    "pokedex_number": 438,
+    "speed": 10
+  },
+  {
+    "attack": 25,
+    "defense": 45,
+    "generation": 4,
+    "hp": 20,
+    "japanese_name": "Maneneマネネ",
+    "name": "Mime Jr.",
+    "pokedex_number": 439,
+    "speed": 60
+  },
+  {
+    "attack": 5,
+    "defense": 5,
+    "generation": 4,
+    "hp": 100,
+    "japanese_name": "Pinpukuピンプク",
+    "name": "Happiny",
+    "pokedex_number": 440,
+    "speed": 30
+  },
+  {
+    "attack": 65,
+    "defense": 45,
+    "generation": 4,
+    "hp": 76,
+    "japanese_name": "Perapペラップ",
+    "name": "Chatot",
+    "pokedex_number": 441,
+    "speed": 91
+  },
+  {
+    "attack": 92,
+    "defense": 108,
+    "generation": 4,
+    "hp": 50,
+    "japanese_name": "Mikarugeミカルゲ",
+    "name": "Spiritomb",
+    "pokedex_number": 442,
+    "speed": 35
+  },
+  {
+    "attack": 70,
+    "defense": 45,
+    "generation": 4,
+    "hp": 58,
+    "japanese_name": "Fukamaruフカマル",
+    "name": "Gible",
+    "pokedex_number": 443,
+    "speed": 42
+  },
+  {
+    "attack": 90,
+    "defense": 65,
+    "generation": 4,
+    "hp": 68,
+    "japanese_name": "Gabiteガバイト",
+    "name": "Gabite",
+    "pokedex_number": 444,
+    "speed": 82
+  },
+  {
+    "attack": 170,
+    "defense": 115,
+    "generation": 4,
+    "hp": 108,
+    "japanese_name": "Gaburiasガブリアス",
+    "name": "Garchomp",
+    "pokedex_number": 445,
+    "speed": 92
+  },
+  {
+    "attack": 85,
+    "defense": 40,
+    "generation": 4,
+    "hp": 135,
+    "japanese_name": "Gonbeゴンベ",
+    "name": "Munchlax",
+    "pokedex_number": 446,
+    "speed": 5
+  },
+  {
+    "attack": 70,
+    "defense": 40,
+    "generation": 4,
+    "hp": 40,
+    "japanese_name": "Rioluリオル",
+    "name": "Riolu",
+    "pokedex_number": 447,
+    "speed": 60
+  },
+  {
+    "attack": 145,
+    "defense": 88,
+    "generation": 4,
+    "hp": 70,
+    "japanese_name": "Lucarioルカリオ",
+    "name": "Lucario",
+    "pokedex_number": 448,
+    "speed": 112
+  },
+  {
+    "attack": 72,
+    "defense": 78,
+    "generation": 4,
+    "hp": 68,
+    "japanese_name": "Hippopotasヒポポタス",
+    "name": "Hippopotas",
+    "pokedex_number": 449,
+    "speed": 32
+  },
+  {
+    "attack": 112,
+    "defense": 118,
+    "generation": 4,
+    "hp": 108,
+    "japanese_name": "Kabaldonカバルドン",
+    "name": "Hippowdon",
+    "pokedex_number": 450,
+    "speed": 47
+  },
+  {
+    "attack": 50,
+    "defense": 90,
+    "generation": 4,
+    "hp": 40,
+    "japanese_name": "Scorupiスコルピ",
+    "name": "Skorupi",
+    "pokedex_number": 451,
+    "speed": 65
+  },
+  {
+    "attack": 90,
+    "defense": 110,
+    "generation": 4,
+    "hp": 70,
+    "japanese_name": "Dorapionドラピオン",
+    "name": "Drapion",
+    "pokedex_number": 452,
+    "speed": 95
+  },
+  {
+    "attack": 61,
+    "defense": 40,
+    "generation": 4,
+    "hp": 48,
+    "japanese_name": "Gureggruグレッグル",
+    "name": "Croagunk",
+    "pokedex_number": 453,
+    "speed": 50
+  },
+  {
+    "attack": 106,
+    "defense": 65,
+    "generation": 4,
+    "hp": 83,
+    "japanese_name": "Dokurogドクロッグ",
+    "name": "Toxicroak",
+    "pokedex_number": 454,
+    "speed": 85
+  },
+  {
+    "attack": 100,
+    "defense": 72,
+    "generation": 4,
+    "hp": 74,
+    "japanese_name": "Muskippaマスキッパ",
+    "name": "Carnivine",
+    "pokedex_number": 455,
+    "speed": 46
+  },
+  {
+    "attack": 49,
+    "defense": 56,
+    "generation": 4,
+    "hp": 49,
+    "japanese_name": "Keikouoケイコウオ",
+    "name": "Finneon",
+    "pokedex_number": 456,
+    "speed": 66
+  },
+  {
+    "attack": 69,
+    "defense": 76,
+    "generation": 4,
+    "hp": 69,
+    "japanese_name": "Neolantネオラント",
+    "name": "Lumineon",
+    "pokedex_number": 457,
+    "speed": 91
+  },
+  {
+    "attack": 20,
+    "defense": 50,
+    "generation": 4,
+    "hp": 45,
+    "japanese_name": "Tamantaタマンタ",
+    "name": "Mantyke",
+    "pokedex_number": 458,
+    "speed": 50
+  },
+  {
+    "attack": 62,
+    "defense": 50,
+    "generation": 4,
+    "hp": 60,
+    "japanese_name": "Yukikaburiユキカブリ",
+    "name": "Snover",
+    "pokedex_number": 459,
+    "speed": 40
+  },
+  {
+    "attack": 132,
+    "defense": 105,
+    "generation": 4,
+    "hp": 90,
+    "japanese_name": "Yukinoohユキノオー",
+    "name": "Abomasnow",
+    "pokedex_number": 460,
+    "speed": 30
+  },
+  {
+    "attack": 120,
+    "defense": 65,
+    "generation": 4,
+    "hp": 70,
+    "japanese_name": "Manyulaマニューラ",
+    "name": "Weavile",
+    "pokedex_number": 461,
+    "speed": 125
+  },
+  {
+    "attack": 70,
+    "defense": 115,
+    "generation": 4,
+    "hp": 70,
+    "japanese_name": "Jibacoilジバコイル",
+    "name": "Magnezone",
+    "pokedex_number": 462,
+    "speed": 60
+  },
+  {
+    "attack": 85,
+    "defense": 95,
+    "generation": 4,
+    "hp": 110,
+    "japanese_name": "Berobeltベロベルト",
+    "name": "Lickilicky",
+    "pokedex_number": 463,
+    "speed": 50
+  },
+  {
+    "attack": 140,
+    "defense": 130,
+    "generation": 4,
+    "hp": 115,
+    "japanese_name": "Dosidonドサイドン",
+    "name": "Rhyperior",
+    "pokedex_number": 464,
+    "speed": 40
+  },
+  {
+    "attack": 100,
+    "defense": 125,
+    "generation": 4,
+    "hp": 100,
+    "japanese_name": "Mojumboモジャンボ",
+    "name": "Tangrowth",
+    "pokedex_number": 465,
+    "speed": 50
+  },
+  {
+    "attack": 123,
+    "defense": 67,
+    "generation": 4,
+    "hp": 75,
+    "japanese_name": "Elekibleエレキブル",
+    "name": "Electivire",
+    "pokedex_number": 466,
+    "speed": 95
+  },
+  {
+    "attack": 95,
+    "defense": 67,
+    "generation": 4,
+    "hp": 75,
+    "japanese_name": "Booburnブーバーン",
+    "name": "Magmortar",
+    "pokedex_number": 467,
+    "speed": 83
+  },
+  {
+    "attack": 50,
+    "defense": 95,
+    "generation": 4,
+    "hp": 85,
+    "japanese_name": "Togekissトゲキッス",
+    "name": "Togekiss",
+    "pokedex_number": 468,
+    "speed": 80
+  },
+  {
+    "attack": 76,
+    "defense": 86,
+    "generation": 4,
+    "hp": 86,
+    "japanese_name": "Megayanmaメガヤンマ",
+    "name": "Yanmega",
+    "pokedex_number": 469,
+    "speed": 95
+  },
+  {
+    "attack": 110,
+    "defense": 130,
+    "generation": 4,
+    "hp": 65,
+    "japanese_name": "Leafiaリーフィア",
+    "name": "Leafeon",
+    "pokedex_number": 470,
+    "speed": 95
+  },
+  {
+    "attack": 60,
+    "defense": 110,
+    "generation": 4,
+    "hp": 65,
+    "japanese_name": "Glaciaグレイシア",
+    "name": "Glaceon",
+    "pokedex_number": 471,
+    "speed": 65
+  },
+  {
+    "attack": 95,
+    "defense": 125,
+    "generation": 4,
+    "hp": 75,
+    "japanese_name": "Glionグライオン",
+    "name": "Gliscor",
+    "pokedex_number": 472,
+    "speed": 95
+  },
+  {
+    "attack": 130,
+    "defense": 80,
+    "generation": 4,
+    "hp": 110,
+    "japanese_name": "Mammooマンムー",
+    "name": "Mamoswine",
+    "pokedex_number": 473,
+    "speed": 80
+  },
+  {
+    "attack": 80,
+    "defense": 70,
+    "generation": 4,
+    "hp": 85,
+    "japanese_name": "Porygon-zポリゴンＺ",
+    "name": "Porygon-Z",
+    "pokedex_number": 474,
+    "speed": 90
+  },
+  {
+    "attack": 165,
+    "defense": 95,
+    "generation": 4,
+    "hp": 68,
+    "japanese_name": "Erureidoエルレイド",
+    "name": "Gallade",
+    "pokedex_number": 475,
+    "speed": 110
+  },
+  {
+    "attack": 55,
+    "defense": 145,
+    "generation": 4,
+    "hp": 60,
+    "japanese_name": "Dainoseダイノーズ",
+    "name": "Probopass",
+    "pokedex_number": 476,
+    "speed": 40
+  },
+  {
+    "attack": 100,
+    "defense": 135,
+    "generation": 4,
+    "hp": 45,
+    "japanese_name": "Yonoirヨノワール",
+    "name": "Dusknoir",
+    "pokedex_number": 477,
+    "speed": 45
+  },
+  {
+    "attack": 80,
+    "defense": 70,
+    "generation": 4,
+    "hp": 70,
+    "japanese_name": "Yukimenokoユキメノコ",
+    "name": "Froslass",
+    "pokedex_number": 478,
+    "speed": 110
+  },
+  {
+    "attack": 65,
+    "defense": 107,
+    "generation": 4,
+    "hp": 50,
+    "japanese_name": "Rotomロトム",
+    "name": "Rotom",
+    "pokedex_number": 479,
+    "speed": 86
+  },
+  {
+    "attack": 75,
+    "defense": 130,
+    "generation": 4,
+    "hp": 75,
+    "japanese_name": "Yuxieユクシー",
+    "name": "Uxie",
+    "pokedex_number": 480,
+    "speed": 95
+  },
+  {
+    "attack": 105,
+    "defense": 105,
+    "generation": 4,
+    "hp": 80,
+    "japanese_name": "Emritエムリット",
+    "name": "Mesprit",
+    "pokedex_number": 481,
+    "speed": 80
+  },
+  {
+    "attack": 125,
+    "defense": 70,
+    "generation": 4,
+    "hp": 75,
+    "japanese_name": "Agnomeアグノム",
+    "name": "Azelf",
+    "pokedex_number": 482,
+    "speed": 115
+  },
+  {
+    "attack": 120,
+    "defense": 120,
+    "generation": 4,
+    "hp": 100,
+    "japanese_name": "Dialgaディアルガ",
+    "name": "Dialga",
+    "pokedex_number": 483,
+    "speed": 90
+  },
+  {
+    "attack": 120,
+    "defense": 100,
+    "generation": 4,
+    "hp": 90,
+    "japanese_name": "Palkiaパルキア",
+    "name": "Palkia",
+    "pokedex_number": 484,
+    "speed": 100
+  },
+  {
+    "attack": 90,
+    "defense": 106,
+    "generation": 4,
+    "hp": 91,
+    "japanese_name": "Heatranヒードラン",
+    "name": "Heatran",
+    "pokedex_number": 485,
+    "speed": 77
+  },
+  {
+    "attack": 160,
+    "defense": 110,
+    "generation": 4,
+    "hp": 110,
+    "japanese_name": "Regigigasレジギガス",
+    "name": "Regigigas",
+    "pokedex_number": 486,
+    "speed": 100
+  },
+  {
+    "attack": 120,
+    "defense": 100,
+    "generation": 4,
+    "hp": 150,
+    "japanese_name": "Giratina (another Forme)ギラティナ",
+    "name": "Giratina",
+    "pokedex_number": 487,
+    "speed": 90
+  },
+  {
+    "attack": 70,
+    "defense": 120,
+    "generation": 4,
+    "hp": 120,
+    "japanese_name": "Cresseliaクレセリア",
+    "name": "Cresselia",
+    "pokedex_number": 488,
+    "speed": 85
+  },
+  {
+    "attack": 80,
+    "defense": 80,
+    "generation": 4,
+    "hp": 80,
+    "japanese_name": "Phioneフィオネ",
+    "name": "Phione",
+    "pokedex_number": 489,
+    "speed": 80
+  },
+  {
+    "attack": 100,
+    "defense": 100,
+    "generation": 4,
+    "hp": 100,
+    "japanese_name": "Manaphyマナフィ",
+    "name": "Manaphy",
+    "pokedex_number": 490,
+    "speed": 100
+  },
+  {
+    "attack": 90,
+    "defense": 90,
+    "generation": 4,
+    "hp": 70,
+    "japanese_name": "Darkraiダークライ",
+    "name": "Darkrai",
+    "pokedex_number": 491,
+    "speed": 125
+  },
+  {
+    "attack": 103,
+    "defense": 75,
+    "generation": 4,
+    "hp": 100,
+    "japanese_name": "Shaymin (sky Forme)シェイミ",
+    "name": "Shaymin",
+    "pokedex_number": 492,
+    "speed": 127
+  },
+  {
+    "attack": 120,
+    "defense": 120,
+    "generation": 4,
+    "hp": 120,
+    "japanese_name": "Arceusアルセウス",
+    "name": "Arceus",
+    "pokedex_number": 493,
+    "speed": 120
+  },
+  {
+    "attack": 100,
+    "defense": 100,
+    "generation": 5,
+    "hp": 100,
+    "japanese_name": "Victiniビクティニ",
+    "name": "Victini",
+    "pokedex_number": 494,
+    "speed": 100
+  },
+  {
+    "attack": 45,
+    "defense": 55,
+    "generation": 5,
+    "hp": 45,
+    "japanese_name": "Tsutarjaツタージャ",
+    "name": "Snivy",
+    "pokedex_number": 495,
+    "speed": 63
+  },
+  {
+    "attack": 60,
+    "defense": 75,
+    "generation": 5,
+    "hp": 60,
+    "japanese_name": "Janovyジャノビー",
+    "name": "Servine",
+    "pokedex_number": 496,
+    "speed": 83
+  },
+  {
+    "attack": 75,
+    "defense": 95,
+    "generation": 5,
+    "hp": 75,
+    "japanese_name": "Jalordaジャローダ",
+    "name": "Serperior",
+    "pokedex_number": 497,
+    "speed": 113
+  },
+  {
+    "attack": 63,
+    "defense": 45,
+    "generation": 5,
+    "hp": 65,
+    "japanese_name": "Pokabuポカブ",
+    "name": "Tepig",
+    "pokedex_number": 498,
+    "speed": 45
+  },
+  {
+    "attack": 93,
+    "defense": 55,
+    "generation": 5,
+    "hp": 90,
+    "japanese_name": "Chaobooチャオブー",
+    "name": "Pignite",
+    "pokedex_number": 499,
+    "speed": 55
+  },
+  {
+    "attack": 123,
+    "defense": 65,
+    "generation": 5,
+    "hp": 110,
+    "japanese_name": "Enbuohエンブオー",
+    "name": "Emboar",
+    "pokedex_number": 500,
+    "speed": 65
+  },
+  {
+    "attack": 55,
+    "defense": 45,
+    "generation": 5,
+    "hp": 55,
+    "japanese_name": "Mijumaruミジュマル",
+    "name": "Oshawott",
+    "pokedex_number": 501,
+    "speed": 45
+  },
+  {
+    "attack": 75,
+    "defense": 60,
+    "generation": 5,
+    "hp": 75,
+    "japanese_name": "Futachimaruフタチマル",
+    "name": "Dewott",
+    "pokedex_number": 502,
+    "speed": 60
+  },
+  {
+    "attack": 100,
+    "defense": 85,
+    "generation": 5,
+    "hp": 95,
+    "japanese_name": "Daikenkiダイケンキ",
+    "name": "Samurott",
+    "pokedex_number": 503,
+    "speed": 70
+  },
+  {
+    "attack": 55,
+    "defense": 39,
+    "generation": 5,
+    "hp": 45,
+    "japanese_name": "Minezumiミネズミ",
+    "name": "Patrat",
+    "pokedex_number": 504,
+    "speed": 42
+  },
+  {
+    "attack": 85,
+    "defense": 69,
+    "generation": 5,
+    "hp": 60,
+    "japanese_name": "Miruhogミルホッグ",
+    "name": "Watchog",
+    "pokedex_number": 505,
+    "speed": 77
+  },
+  {
+    "attack": 60,
+    "defense": 45,
+    "generation": 5,
+    "hp": 45,
+    "japanese_name": "Yorterrieヨーテリー",
+    "name": "Lillipup",
+    "pokedex_number": 506,
+    "speed": 55
+  },
+  {
+    "attack": 80,
+    "defense": 65,
+    "generation": 5,
+    "hp": 65,
+    "japanese_name": "Herderrieハーデリア",
+    "name": "Herdier",
+    "pokedex_number": 507,
+    "speed": 60
+  },
+  {
+    "attack": 110,
+    "defense": 90,
+    "generation": 5,
+    "hp": 85,
+    "japanese_name": "Moolandムーランド",
+    "name": "Stoutland",
+    "pokedex_number": 508,
+    "speed": 80
+  },
+  {
+    "attack": 50,
+    "defense": 37,
+    "generation": 5,
+    "hp": 41,
+    "japanese_name": "Choronekoチョロネコ",
+    "name": "Purrloin",
+    "pokedex_number": 509,
+    "speed": 66
+  },
+  {
+    "attack": 88,
+    "defense": 50,
+    "generation": 5,
+    "hp": 64,
+    "japanese_name": "Lepardasレパルダス",
+    "name": "Liepard",
+    "pokedex_number": 510,
+    "speed": 106
+  },
+  {
+    "attack": 53,
+    "defense": 48,
+    "generation": 5,
+    "hp": 50,
+    "japanese_name": "Yanappuヤナップ",
+    "name": "Pansage",
+    "pokedex_number": 511,
+    "speed": 64
+  },
+  {
+    "attack": 98,
+    "defense": 63,
+    "generation": 5,
+    "hp": 75,
+    "japanese_name": "Yanakkieヤナッキー",
+    "name": "Simisage",
+    "pokedex_number": 512,
+    "speed": 101
+  },
+  {
+    "attack": 53,
+    "defense": 48,
+    "generation": 5,
+    "hp": 50,
+    "japanese_name": "Baoppuバオップ",
+    "name": "Pansear",
+    "pokedex_number": 513,
+    "speed": 64
+  },
+  {
+    "attack": 98,
+    "defense": 63,
+    "generation": 5,
+    "hp": 75,
+    "japanese_name": "Baokkieバオッキー",
+    "name": "Simisear",
+    "pokedex_number": 514,
+    "speed": 101
+  },
+  {
+    "attack": 53,
+    "defense": 48,
+    "generation": 5,
+    "hp": 50,
+    "japanese_name": "Hiyappuヒヤップ",
+    "name": "Panpour",
+    "pokedex_number": 515,
+    "speed": 64
+  },
+  {
+    "attack": 98,
+    "defense": 63,
+    "generation": 5,
+    "hp": 75,
+    "japanese_name": "Hiyakkieヒヤッキー",
+    "name": "Simipour",
+    "pokedex_number": 516,
+    "speed": 101
+  },
+  {
+    "attack": 25,
+    "defense": 45,
+    "generation": 5,
+    "hp": 76,
+    "japanese_name": "Munnaムンナ",
+    "name": "Munna",
+    "pokedex_number": 517,
+    "speed": 24
+  },
+  {
+    "attack": 55,
+    "defense": 85,
+    "generation": 5,
+    "hp": 116,
+    "japanese_name": "Musharnaムシャーナ",
+    "name": "Musharna",
+    "pokedex_number": 518,
+    "speed": 29
+  },
+  {
+    "attack": 55,
+    "defense": 50,
+    "generation": 5,
+    "hp": 50,
+    "japanese_name": "Mamepatoマメパト",
+    "name": "Pidove",
+    "pokedex_number": 519,
+    "speed": 43
+  },
+  {
+    "attack": 77,
+    "defense": 62,
+    "generation": 5,
+    "hp": 62,
+    "japanese_name": "Hatobohハトーボー",
+    "name": "Tranquill",
+    "pokedex_number": 520,
+    "speed": 65
+  },
+  {
+    "attack": 115,
+    "defense": 80,
+    "generation": 5,
+    "hp": 80,
+    "japanese_name": "Kenhallowケンホロウ",
+    "name": "Unfezant",
+    "pokedex_number": 521,
+    "speed": 93
+  },
+  {
+    "attack": 60,
+    "defense": 32,
+    "generation": 5,
+    "hp": 45,
+    "japanese_name": "Shimamaシママ",
+    "name": "Blitzle",
+    "pokedex_number": 522,
+    "speed": 76
+  },
+  {
+    "attack": 100,
+    "defense": 63,
+    "generation": 5,
+    "hp": 75,
+    "japanese_name": "Zebraikaゼブライカ",
+    "name": "Zebstrika",
+    "pokedex_number": 523,
+    "speed": 116
+  },
+  {
+    "attack": 75,
+    "defense": 85,
+    "generation": 5,
+    "hp": 55,
+    "japanese_name": "Dangoroダンゴロ",
+    "name": "Roggenrola",
+    "pokedex_number": 524,
+    "speed": 15
+  },
+  {
+    "attack": 105,
+    "defense": 105,
+    "generation": 5,
+    "hp": 70,
+    "japanese_name": "Gantleガントル",
+    "name": "Boldore",
+    "pokedex_number": 525,
+    "speed": 20
+  },
+  {
+    "attack": 135,
+    "defense": 130,
+    "generation": 5,
+    "hp": 85,
+    "japanese_name": "Gigaiathギガイアス",
+    "name": "Gigalith",
+    "pokedex_number": 526,
+    "speed": 25
+  },
+  {
+    "attack": 45,
+    "defense": 43,
+    "generation": 5,
+    "hp": 65,
+    "japanese_name": "Koromoriコロモリ",
+    "name": "Woobat",
+    "pokedex_number": 527,
+    "speed": 72
+  },
+  {
+    "attack": 57,
+    "defense": 55,
+    "generation": 5,
+    "hp": 67,
+    "japanese_name": "Kokoromoriココロモリ",
+    "name": "Swoobat",
+    "pokedex_number": 528,
+    "speed": 114
+  },
+  {
+    "attack": 85,
+    "defense": 40,
+    "generation": 5,
+    "hp": 60,
+    "japanese_name": "Mogurewモグリュー",
+    "name": "Drilbur",
+    "pokedex_number": 529,
+    "speed": 68
+  },
+  {
+    "attack": 135,
+    "defense": 60,
+    "generation": 5,
+    "hp": 110,
+    "japanese_name": "Doryuzuドリュウズ",
+    "name": "Excadrill",
+    "pokedex_number": 530,
+    "speed": 88
+  },
+  {
+    "attack": 60,
+    "defense": 126,
+    "generation": 5,
+    "hp": 103,
+    "japanese_name": "Tabunneタブンネ",
+    "name": "Audino",
+    "pokedex_number": 531,
+    "speed": 50
+  },
+  {
+    "attack": 80,
+    "defense": 55,
+    "generation": 5,
+    "hp": 75,
+    "japanese_name": "Dokkorerドッコラー",
+    "name": "Timburr",
+    "pokedex_number": 532,
+    "speed": 35
+  },
+  {
+    "attack": 105,
+    "defense": 85,
+    "generation": 5,
+    "hp": 85,
+    "japanese_name": "Dotekkotsuドテッコツ",
+    "name": "Gurdurr",
+    "pokedex_number": 533,
+    "speed": 40
+  },
+  {
+    "attack": 140,
+    "defense": 95,
+    "generation": 5,
+    "hp": 105,
+    "japanese_name": "Roubushinローブシン",
+    "name": "Conkeldurr",
+    "pokedex_number": 534,
+    "speed": 45
+  },
+  {
+    "attack": 50,
+    "defense": 40,
+    "generation": 5,
+    "hp": 50,
+    "japanese_name": "Otamaroオタマロ",
+    "name": "Tympole",
+    "pokedex_number": 535,
+    "speed": 64
+  },
+  {
+    "attack": 65,
+    "defense": 55,
+    "generation": 5,
+    "hp": 75,
+    "japanese_name": "Gamagaruガマガル",
+    "name": "Palpitoad",
+    "pokedex_number": 536,
+    "speed": 69
+  },
+  {
+    "attack": 95,
+    "defense": 75,
+    "generation": 5,
+    "hp": 105,
+    "japanese_name": "Gamagerogeガマゲロゲ",
+    "name": "Seismitoad",
+    "pokedex_number": 537,
+    "speed": 74
+  },
+  {
+    "attack": 100,
+    "defense": 85,
+    "generation": 5,
+    "hp": 120,
+    "japanese_name": "Nagekiナゲキ",
+    "name": "Throh",
+    "pokedex_number": 538,
+    "speed": 45
+  },
+  {
+    "attack": 125,
+    "defense": 75,
+    "generation": 5,
+    "hp": 75,
+    "japanese_name": "Dagekiダゲキ",
+    "name": "Sawk",
+    "pokedex_number": 539,
+    "speed": 85
+  },
+  {
+    "attack": 53,
+    "defense": 70,
+    "generation": 5,
+    "hp": 45,
+    "japanese_name": "Kurumiruクルミル",
+    "name": "Sewaddle",
+    "pokedex_number": 540,
+    "speed": 42
+  },
+  {
+    "attack": 63,
+    "defense": 90,
+    "generation": 5,
+    "hp": 55,
+    "japanese_name": "Kurumayuクルマユ",
+    "name": "Swadloon",
+    "pokedex_number": 541,
+    "speed": 42
+  },
+  {
+    "attack": 103,
+    "defense": 80,
+    "generation": 5,
+    "hp": 75,
+    "japanese_name": "Hahakomoriハハコモリ",
+    "name": "Leavanny",
+    "pokedex_number": 542,
+    "speed": 92
+  },
+  {
+    "attack": 45,
+    "defense": 59,
+    "generation": 5,
+    "hp": 30,
+    "japanese_name": "Fushideフシデ",
+    "name": "Venipede",
+    "pokedex_number": 543,
+    "speed": 57
+  },
+  {
+    "attack": 55,
+    "defense": 99,
+    "generation": 5,
+    "hp": 40,
+    "japanese_name": "Wheegaホイーガ",
+    "name": "Whirlipede",
+    "pokedex_number": 544,
+    "speed": 47
+  },
+  {
+    "attack": 100,
+    "defense": 89,
+    "generation": 5,
+    "hp": 60,
+    "japanese_name": "Pendrorペンドラー",
+    "name": "Scolipede",
+    "pokedex_number": 545,
+    "speed": 112
+  },
+  {
+    "attack": 27,
+    "defense": 60,
+    "generation": 5,
+    "hp": 40,
+    "japanese_name": "Monmenモンメン",
+    "name": "Cottonee",
+    "pokedex_number": 546,
+    "speed": 66
+  },
+  {
+    "attack": 67,
+    "defense": 85,
+    "generation": 5,
+    "hp": 60,
+    "japanese_name": "Elfuunエルフーン",
+    "name": "Whimsicott",
+    "pokedex_number": 547,
+    "speed": 116
+  },
+  {
+    "attack": 35,
+    "defense": 50,
+    "generation": 5,
+    "hp": 45,
+    "japanese_name": "Churineチュリネ",
+    "name": "Petilil",
+    "pokedex_number": 548,
+    "speed": 30
+  },
+  {
+    "attack": 60,
+    "defense": 75,
+    "generation": 5,
+    "hp": 70,
+    "japanese_name": "Dredearドレディア",
+    "name": "Lilligant",
+    "pokedex_number": 549,
+    "speed": 90
+  },
+  {
+    "attack": 92,
+    "defense": 65,
+    "generation": 5,
+    "hp": 70,
+    "japanese_name": "Bassraoバスラオ",
+    "name": "Basculin",
+    "pokedex_number": 550,
+    "speed": 98
+  },
+  {
+    "attack": 72,
+    "defense": 35,
+    "generation": 5,
+    "hp": 50,
+    "japanese_name": "Megurocoメグロコ",
+    "name": "Sandile",
+    "pokedex_number": 551,
+    "speed": 65
+  },
+  {
+    "attack": 82,
+    "defense": 45,
+    "generation": 5,
+    "hp": 60,
+    "japanese_name": "Waruvileワルビル",
+    "name": "Krokorok",
+    "pokedex_number": 552,
+    "speed": 74
+  },
+  {
+    "attack": 117,
+    "defense": 80,
+    "generation": 5,
+    "hp": 95,
+    "japanese_name": "Waruvialワルビアル",
+    "name": "Krookodile",
+    "pokedex_number": 553,
+    "speed": 92
+  },
+  {
+    "attack": 90,
+    "defense": 45,
+    "generation": 5,
+    "hp": 70,
+    "japanese_name": "Darumakkaダルマッカ",
+    "name": "Darumaka",
+    "pokedex_number": 554,
+    "speed": 50
+  },
+  {
+    "attack": 30,
+    "defense": 105,
+    "generation": 5,
+    "hp": 105,
+    "japanese_name": "Hihidarumaヒヒダルマ",
+    "name": "Darmanitan",
+    "pokedex_number": 555,
+    "speed": 55
+  },
+  {
+    "attack": 86,
+    "defense": 67,
+    "generation": 5,
+    "hp": 75,
+    "japanese_name": "Maracacchiマラカッチ",
+    "name": "Maractus",
+    "pokedex_number": 556,
+    "speed": 60
+  },
+  {
+    "attack": 65,
+    "defense": 85,
+    "generation": 5,
+    "hp": 50,
+    "japanese_name": "Ishizumaiイシズマイ",
+    "name": "Dwebble",
+    "pokedex_number": 557,
+    "speed": 55
+  },
+  {
+    "attack": 105,
+    "defense": 125,
+    "generation": 5,
+    "hp": 70,
+    "japanese_name": "Iwapalaceイワパレス",
+    "name": "Crustle",
+    "pokedex_number": 558,
+    "speed": 45
+  },
+  {
+    "attack": 75,
+    "defense": 70,
+    "generation": 5,
+    "hp": 50,
+    "japanese_name": "Zurugguズルッグ",
+    "name": "Scraggy",
+    "pokedex_number": 559,
+    "speed": 48
+  },
+  {
+    "attack": 90,
+    "defense": 115,
+    "generation": 5,
+    "hp": 65,
+    "japanese_name": "Zuruzukinズルズキン",
+    "name": "Scrafty",
+    "pokedex_number": 560,
+    "speed": 58
+  },
+  {
+    "attack": 58,
+    "defense": 80,
+    "generation": 5,
+    "hp": 72,
+    "japanese_name": "Symbolerシンボラー",
+    "name": "Sigilyph",
+    "pokedex_number": 561,
+    "speed": 97
+  },
+  {
+    "attack": 30,
+    "defense": 85,
+    "generation": 5,
+    "hp": 38,
+    "japanese_name": "Desumasuデスマス",
+    "name": "Yamask",
+    "pokedex_number": 562,
+    "speed": 30
+  },
+  {
+    "attack": 50,
+    "defense": 145,
+    "generation": 5,
+    "hp": 58,
+    "japanese_name": "Desukarnデスカーン",
+    "name": "Cofagrigus",
+    "pokedex_number": 563,
+    "speed": 30
+  },
+  {
+    "attack": 78,
+    "defense": 103,
+    "generation": 5,
+    "hp": 54,
+    "japanese_name": "Protogaプロトーガ",
+    "name": "Tirtouga",
+    "pokedex_number": 564,
+    "speed": 22
+  },
+  {
+    "attack": 108,
+    "defense": 133,
+    "generation": 5,
+    "hp": 74,
+    "japanese_name": "Abagouraアバゴーラ",
+    "name": "Carracosta",
+    "pokedex_number": 565,
+    "speed": 32
+  },
+  {
+    "attack": 112,
+    "defense": 45,
+    "generation": 5,
+    "hp": 55,
+    "japanese_name": "Archenアーケン",
+    "name": "Archen",
+    "pokedex_number": 566,
+    "speed": 70
+  },
+  {
+    "attack": 140,
+    "defense": 65,
+    "generation": 5,
+    "hp": 75,
+    "japanese_name": "Archeosアーケオス",
+    "name": "Archeops",
+    "pokedex_number": 567,
+    "speed": 110
+  },
+  {
+    "attack": 50,
+    "defense": 62,
+    "generation": 5,
+    "hp": 50,
+    "japanese_name": "Yabukuronヤブクロン",
+    "name": "Trubbish",
+    "pokedex_number": 568,
+    "speed": 65
+  },
+  {
+    "attack": 95,
+    "defense": 82,
+    "generation": 5,
+    "hp": 80,
+    "japanese_name": "Dustdasダストダス",
+    "name": "Garbodor",
+    "pokedex_number": 569,
+    "speed": 75
+  },
+  {
+    "attack": 65,
+    "defense": 40,
+    "generation": 5,
+    "hp": 40,
+    "japanese_name": "Zoruaゾロア",
+    "name": "Zorua",
+    "pokedex_number": 570,
+    "speed": 65
+  },
+  {
+    "attack": 105,
+    "defense": 60,
+    "generation": 5,
+    "hp": 60,
+    "japanese_name": "Zoroarkゾロアーク",
+    "name": "Zoroark",
+    "pokedex_number": 571,
+    "speed": 105
+  },
+  {
+    "attack": 50,
+    "defense": 40,
+    "generation": 5,
+    "hp": 55,
+    "japanese_name": "Chillarmyチラーミィ",
+    "name": "Minccino",
+    "pokedex_number": 572,
+    "speed": 75
+  },
+  {
+    "attack": 95,
+    "defense": 60,
+    "generation": 5,
+    "hp": 75,
+    "japanese_name": "Chillaccinoチラチーノ",
+    "name": "Cinccino",
+    "pokedex_number": 573,
+    "speed": 115
+  },
+  {
+    "attack": 30,
+    "defense": 50,
+    "generation": 5,
+    "hp": 45,
+    "japanese_name": "Gothimuゴチム",
+    "name": "Gothita",
+    "pokedex_number": 574,
+    "speed": 45
+  },
+  {
+    "attack": 45,
+    "defense": 70,
+    "generation": 5,
+    "hp": 60,
+    "japanese_name": "Gothimiruゴチミル",
+    "name": "Gothorita",
+    "pokedex_number": 575,
+    "speed": 55
+  },
+  {
+    "attack": 55,
+    "defense": 95,
+    "generation": 5,
+    "hp": 70,
+    "japanese_name": "Gothiruselleゴチルゼル",
+    "name": "Gothitelle",
+    "pokedex_number": 576,
+    "speed": 65
+  },
+  {
+    "attack": 30,
+    "defense": 40,
+    "generation": 5,
+    "hp": 45,
+    "japanese_name": "Uniranユニラン",
+    "name": "Solosis",
+    "pokedex_number": 577,
+    "speed": 20
+  },
+  {
+    "attack": 40,
+    "defense": 50,
+    "generation": 5,
+    "hp": 65,
+    "japanese_name": "Doublanダブラン",
+    "name": "Duosion",
+    "pokedex_number": 578,
+    "speed": 30
+  },
+  {
+    "attack": 65,
+    "defense": 75,
+    "generation": 5,
+    "hp": 110,
+    "japanese_name": "Lanculusランクルス",
+    "name": "Reuniclus",
+    "pokedex_number": 579,
+    "speed": 30
+  },
+  {
+    "attack": 44,
+    "defense": 50,
+    "generation": 5,
+    "hp": 62,
+    "japanese_name": "Koaruhieコアルヒー",
+    "name": "Ducklett",
+    "pokedex_number": 580,
+    "speed": 55
+  },
+  {
+    "attack": 87,
+    "defense": 63,
+    "generation": 5,
+    "hp": 75,
+    "japanese_name": "Swannaスワンナ",
+    "name": "Swanna",
+    "pokedex_number": 581,
+    "speed": 98
+  },
+  {
+    "attack": 50,
+    "defense": 50,
+    "generation": 5,
+    "hp": 36,
+    "japanese_name": "Vanipetiバニプッチ",
+    "name": "Vanillite",
+    "pokedex_number": 582,
+    "speed": 44
+  },
+  {
+    "attack": 65,
+    "defense": 65,
+    "generation": 5,
+    "hp": 51,
+    "japanese_name": "Vanirichバニリッチ",
+    "name": "Vanillish",
+    "pokedex_number": 583,
+    "speed": 59
+  },
+  {
+    "attack": 95,
+    "defense": 85,
+    "generation": 5,
+    "hp": 71,
+    "japanese_name": "Baivanillaバイバニラ",
+    "name": "Vanilluxe",
+    "pokedex_number": 584,
+    "speed": 79
+  },
+  {
+    "attack": 60,
+    "defense": 50,
+    "generation": 5,
+    "hp": 60,
+    "japanese_name": "Shikijikaシキジカ",
+    "name": "Deerling",
+    "pokedex_number": 585,
+    "speed": 75
+  },
+  {
+    "attack": 100,
+    "defense": 70,
+    "generation": 5,
+    "hp": 80,
+    "japanese_name": "Mebukijikaメブキジカ",
+    "name": "Sawsbuck",
+    "pokedex_number": 586,
+    "speed": 95
+  },
+  {
+    "attack": 75,
+    "defense": 60,
+    "generation": 5,
+    "hp": 55,
+    "japanese_name": "Emongaエモンガ",
+    "name": "Emolga",
+    "pokedex_number": 587,
+    "speed": 103
+  },
+  {
+    "attack": 75,
+    "defense": 45,
+    "generation": 5,
+    "hp": 50,
+    "japanese_name": "Kaburumoカブルモ",
+    "name": "Karrablast",
+    "pokedex_number": 588,
+    "speed": 60
+  },
+  {
+    "attack": 135,
+    "defense": 105,
+    "generation": 5,
+    "hp": 70,
+    "japanese_name": "Chevargoシュバルゴ",
+    "name": "Escavalier",
+    "pokedex_number": 589,
+    "speed": 20
+  },
+  {
+    "attack": 55,
+    "defense": 45,
+    "generation": 5,
+    "hp": 69,
+    "japanese_name": "Tamagetakeタマゲタケ",
+    "name": "Foongus",
+    "pokedex_number": 590,
+    "speed": 15
+  },
+  {
+    "attack": 85,
+    "defense": 70,
+    "generation": 5,
+    "hp": 114,
+    "japanese_name": "Morobareruモロバレル",
+    "name": "Amoonguss",
+    "pokedex_number": 591,
+    "speed": 30
+  },
+  {
+    "attack": 40,
+    "defense": 50,
+    "generation": 5,
+    "hp": 55,
+    "japanese_name": "Pururillプルリル",
+    "name": "Frillish",
+    "pokedex_number": 592,
+    "speed": 40
+  },
+  {
+    "attack": 60,
+    "defense": 70,
+    "generation": 5,
+    "hp": 100,
+    "japanese_name": "Burungelブルンゲル",
+    "name": "Jellicent",
+    "pokedex_number": 593,
+    "speed": 60
+  },
+  {
+    "attack": 75,
+    "defense": 80,
+    "generation": 5,
+    "hp": 165,
+    "japanese_name": "Mamanbouママンボウ",
+    "name": "Alomomola",
+    "pokedex_number": 594,
+    "speed": 65
+  },
+  {
+    "attack": 47,
+    "defense": 50,
+    "generation": 5,
+    "hp": 50,
+    "japanese_name": "Bachuruバチュル",
+    "name": "Joltik",
+    "pokedex_number": 595,
+    "speed": 65
+  },
+  {
+    "attack": 77,
+    "defense": 60,
+    "generation": 5,
+    "hp": 70,
+    "japanese_name": "Dentulaデンチュラ",
+    "name": "Galvantula",
+    "pokedex_number": 596,
+    "speed": 108
+  },
+  {
+    "attack": 50,
+    "defense": 91,
+    "generation": 5,
+    "hp": 44,
+    "japanese_name": "Tesseedテッシード",
+    "name": "Ferroseed",
+    "pokedex_number": 597,
+    "speed": 10
+  },
+  {
+    "attack": 94,
+    "defense": 131,
+    "generation": 5,
+    "hp": 74,
+    "japanese_name": "Nutreyナットレイ",
+    "name": "Ferrothorn",
+    "pokedex_number": 598,
+    "speed": 20
+  },
+  {
+    "attack": 55,
+    "defense": 70,
+    "generation": 5,
+    "hp": 40,
+    "japanese_name": "Giaruギアル",
+    "name": "Klink",
+    "pokedex_number": 599,
+    "speed": 30
+  },
+  {
+    "attack": 80,
+    "defense": 95,
+    "generation": 5,
+    "hp": 60,
+    "japanese_name": "Gigiaruギギアル",
+    "name": "Klang",
+    "pokedex_number": 600,
+    "speed": 50
+  },
+  {
+    "attack": 100,
+    "defense": 115,
+    "generation": 5,
+    "hp": 60,
+    "japanese_name": "Gigigiaruギギギアル",
+    "name": "Klinklang",
+    "pokedex_number": 601,
+    "speed": 90
+  },
+  {
+    "attack": 55,
+    "defense": 40,
+    "generation": 5,
+    "hp": 35,
+    "japanese_name": "Shibishirasuシビシラス",
+    "name": "Tynamo",
+    "pokedex_number": 602,
+    "speed": 60
+  },
+  {
+    "attack": 85,
+    "defense": 70,
+    "generation": 5,
+    "hp": 65,
+    "japanese_name": "Shibibeelシビビール",
+    "name": "Eelektrik",
+    "pokedex_number": 603,
+    "speed": 40
+  },
+  {
+    "attack": 115,
+    "defense": 80,
+    "generation": 5,
+    "hp": 85,
+    "japanese_name": "Shibirudonシビルドン",
+    "name": "Eelektross",
+    "pokedex_number": 604,
+    "speed": 50
+  },
+  {
+    "attack": 55,
+    "defense": 55,
+    "generation": 5,
+    "hp": 55,
+    "japanese_name": "Ligrayリグレー",
+    "name": "Elgyem",
+    "pokedex_number": 605,
+    "speed": 30
+  },
+  {
+    "attack": 75,
+    "defense": 75,
+    "generation": 5,
+    "hp": 75,
+    "japanese_name": "Ohbemオーベム",
+    "name": "Beheeyem",
+    "pokedex_number": 606,
+    "speed": 40
+  },
+  {
+    "attack": 30,
+    "defense": 55,
+    "generation": 5,
+    "hp": 50,
+    "japanese_name": "Hitomoshiヒトモシ",
+    "name": "Litwick",
+    "pokedex_number": 607,
+    "speed": 20
+  },
+  {
+    "attack": 40,
+    "defense": 60,
+    "generation": 5,
+    "hp": 60,
+    "japanese_name": "Lamplerランプラー",
+    "name": "Lampent",
+    "pokedex_number": 608,
+    "speed": 55
+  },
+  {
+    "attack": 55,
+    "defense": 90,
+    "generation": 5,
+    "hp": 60,
+    "japanese_name": "Chandelaシャンデラ",
+    "name": "Chandelure",
+    "pokedex_number": 609,
+    "speed": 80
+  },
+  {
+    "attack": 87,
+    "defense": 60,
+    "generation": 5,
+    "hp": 46,
+    "japanese_name": "Kibagoキバゴ",
+    "name": "Axew",
+    "pokedex_number": 610,
+    "speed": 57
+  },
+  {
+    "attack": 117,
+    "defense": 70,
+    "generation": 5,
+    "hp": 66,
+    "japanese_name": "Onondoオノンド",
+    "name": "Fraxure",
+    "pokedex_number": 611,
+    "speed": 67
+  },
+  {
+    "attack": 147,
+    "defense": 90,
+    "generation": 5,
+    "hp": 76,
+    "japanese_name": "Ononokusオノノクス",
+    "name": "Haxorus",
+    "pokedex_number": 612,
+    "speed": 97
+  },
+  {
+    "attack": 70,
+    "defense": 40,
+    "generation": 5,
+    "hp": 55,
+    "japanese_name": "Kumasyunクマシュン",
+    "name": "Cubchoo",
+    "pokedex_number": 613,
+    "speed": 40
+  },
+  {
+    "attack": 130,
+    "defense": 80,
+    "generation": 5,
+    "hp": 95,
+    "japanese_name": "Tunbearツンベアー",
+    "name": "Beartic",
+    "pokedex_number": 614,
+    "speed": 50
+  },
+  {
+    "attack": 50,
+    "defense": 50,
+    "generation": 5,
+    "hp": 80,
+    "japanese_name": "Freegeoフリージオ",
+    "name": "Cryogonal",
+    "pokedex_number": 615,
+    "speed": 105
+  },
+  {
+    "attack": 40,
+    "defense": 85,
+    "generation": 5,
+    "hp": 50,
+    "japanese_name": "Chobomakiチョボマキ",
+    "name": "Shelmet",
+    "pokedex_number": 616,
+    "speed": 25
+  },
+  {
+    "attack": 70,
+    "defense": 40,
+    "generation": 5,
+    "hp": 80,
+    "japanese_name": "Agilderアギルダー",
+    "name": "Accelgor",
+    "pokedex_number": 617,
+    "speed": 145
+  },
+  {
+    "attack": 66,
+    "defense": 84,
+    "generation": 5,
+    "hp": 109,
+    "japanese_name": "Maggyoマッギョ",
+    "name": "Stunfisk",
+    "pokedex_number": 618,
+    "speed": 32
+  },
+  {
+    "attack": 85,
+    "defense": 50,
+    "generation": 5,
+    "hp": 45,
+    "japanese_name": "Kojofuコジョフー",
+    "name": "Mienfoo",
+    "pokedex_number": 619,
+    "speed": 65
+  },
+  {
+    "attack": 125,
+    "defense": 60,
+    "generation": 5,
+    "hp": 65,
+    "japanese_name": "Kojondoコジョンド",
+    "name": "Mienshao",
+    "pokedex_number": 620,
+    "speed": 105
+  },
+  {
+    "attack": 120,
+    "defense": 90,
+    "generation": 5,
+    "hp": 77,
+    "japanese_name": "Crimganクリムガン",
+    "name": "Druddigon",
+    "pokedex_number": 621,
+    "speed": 48
+  },
+  {
+    "attack": 74,
+    "defense": 50,
+    "generation": 5,
+    "hp": 59,
+    "japanese_name": "Gobitゴビット",
+    "name": "Golett",
+    "pokedex_number": 622,
+    "speed": 35
+  },
+  {
+    "attack": 124,
+    "defense": 80,
+    "generation": 5,
+    "hp": 89,
+    "japanese_name": "Goloogゴルーグ",
+    "name": "Golurk",
+    "pokedex_number": 623,
+    "speed": 55
+  },
+  {
+    "attack": 85,
+    "defense": 70,
+    "generation": 5,
+    "hp": 45,
+    "japanese_name": "Komatanaコマタナ",
+    "name": "Pawniard",
+    "pokedex_number": 624,
+    "speed": 60
+  },
+  {
+    "attack": 125,
+    "defense": 100,
+    "generation": 5,
+    "hp": 65,
+    "japanese_name": "Kirikizanキリキザン",
+    "name": "Bisharp",
+    "pokedex_number": 625,
+    "speed": 70
+  },
+  {
+    "attack": 110,
+    "defense": 95,
+    "generation": 5,
+    "hp": 95,
+    "japanese_name": "Buffronバッフロン",
+    "name": "Bouffalant",
+    "pokedex_number": 626,
+    "speed": 55
+  },
+  {
+    "attack": 83,
+    "defense": 50,
+    "generation": 5,
+    "hp": 70,
+    "japanese_name": "Washibonワシボン",
+    "name": "Rufflet",
+    "pokedex_number": 627,
+    "speed": 60
+  },
+  {
+    "attack": 123,
+    "defense": 75,
+    "generation": 5,
+    "hp": 100,
+    "japanese_name": "Warrgleウォーグル",
+    "name": "Braviary",
+    "pokedex_number": 628,
+    "speed": 80
+  },
+  {
+    "attack": 55,
+    "defense": 75,
+    "generation": 5,
+    "hp": 70,
+    "japanese_name": "Valchaiバルチャイ",
+    "name": "Vullaby",
+    "pokedex_number": 629,
+    "speed": 60
+  },
+  {
+    "attack": 65,
+    "defense": 105,
+    "generation": 5,
+    "hp": 110,
+    "japanese_name": "Vulginaバルジーナ",
+    "name": "Mandibuzz",
+    "pokedex_number": 630,
+    "speed": 80
+  },
+  {
+    "attack": 97,
+    "defense": 66,
+    "generation": 5,
+    "hp": 85,
+    "japanese_name": "Kuitaranクイタラン",
+    "name": "Heatmor",
+    "pokedex_number": 631,
+    "speed": 65
+  },
+  {
+    "attack": 109,
+    "defense": 112,
+    "generation": 5,
+    "hp": 58,
+    "japanese_name": "Aiantアイアント",
+    "name": "Durant",
+    "pokedex_number": 632,
+    "speed": 109
+  },
+  {
+    "attack": 65,
+    "defense": 50,
+    "generation": 5,
+    "hp": 52,
+    "japanese_name": "Monozuモノズ",
+    "name": "Deino",
+    "pokedex_number": 633,
+    "speed": 38
+  },
+  {
+    "attack": 85,
+    "defense": 70,
+    "generation": 5,
+    "hp": 72,
+    "japanese_name": "Diheadジヘッド",
+    "name": "Zweilous",
+    "pokedex_number": 634,
+    "speed": 58
+  },
+  {
+    "attack": 105,
+    "defense": 90,
+    "generation": 5,
+    "hp": 92,
+    "japanese_name": "Sazandoraサザンドラ",
+    "name": "Hydreigon",
+    "pokedex_number": 635,
+    "speed": 98
+  },
+  {
+    "attack": 85,
+    "defense": 55,
+    "generation": 5,
+    "hp": 55,
+    "japanese_name": "Merlarvaメラルバ",
+    "name": "Larvesta",
+    "pokedex_number": 636,
+    "speed": 60
+  },
+  {
+    "attack": 60,
+    "defense": 65,
+    "generation": 5,
+    "hp": 85,
+    "japanese_name": "Ulgamothウルガモス",
+    "name": "Volcarona",
+    "pokedex_number": 637,
+    "speed": 100
+  },
+  {
+    "attack": 90,
+    "defense": 129,
+    "generation": 5,
+    "hp": 91,
+    "japanese_name": "Cobalonコバルオン",
+    "name": "Cobalion",
+    "pokedex_number": 638,
+    "speed": 108
+  },
+  {
+    "attack": 129,
+    "defense": 90,
+    "generation": 5,
+    "hp": 91,
+    "japanese_name": "Terrakionテラキオン",
+    "name": "Terrakion",
+    "pokedex_number": 639,
+    "speed": 108
+  },
+  {
+    "attack": 90,
+    "defense": 72,
+    "generation": 5,
+    "hp": 91,
+    "japanese_name": "Virizionビリジオン",
+    "name": "Virizion",
+    "pokedex_number": 640,
+    "speed": 108
+  },
+  {
+    "attack": 100,
+    "defense": 80,
+    "generation": 5,
+    "hp": 79,
+    "japanese_name": "Tornelos (keshin Forme)トルネロス",
+    "name": "Tornadus",
+    "pokedex_number": 641,
+    "speed": 121
+  },
+  {
+    "attack": 105,
+    "defense": 70,
+    "generation": 5,
+    "hp": 79,
+    "japanese_name": "Voltolos (keshin Forme)ボルトロス",
+    "name": "Thundurus",
+    "pokedex_number": 642,
+    "speed": 101
+  },
+  {
+    "attack": 120,
+    "defense": 100,
+    "generation": 5,
+    "hp": 100,
+    "japanese_name": "Reshiramレシラム",
+    "name": "Reshiram",
+    "pokedex_number": 643,
+    "speed": 90
+  },
+  {
+    "attack": 150,
+    "defense": 120,
+    "generation": 5,
+    "hp": 100,
+    "japanese_name": "Zekromゼクロム",
+    "name": "Zekrom",
+    "pokedex_number": 644,
+    "speed": 90
+  },
+  {
+    "attack": 145,
+    "defense": 90,
+    "generation": 5,
+    "hp": 89,
+    "japanese_name": "Landlos (keshin Forme)ランドロス",
+    "name": "Landorus",
+    "pokedex_number": 645,
+    "speed": 91
+  },
+  {
+    "attack": 120,
+    "defense": 90,
+    "generation": 5,
+    "hp": 125,
+    "japanese_name": "Kyuremキュレム",
+    "name": "Kyurem",
+    "pokedex_number": 646,
+    "speed": 95
+  },
+  {
+    "attack": 72,
+    "defense": 90,
+    "generation": 5,
+    "hp": 91,
+    "japanese_name": "Keldeo (itsumo No Sugata)ケルディオ",
+    "name": "Keldeo",
+    "pokedex_number": 647,
+    "speed": 108
+  },
+  {
+    "attack": 128,
+    "defense": 90,
+    "generation": 5,
+    "hp": 100,
+    "japanese_name": "Meloetta (step Forme)メロエッタ",
+    "name": "Meloetta",
+    "pokedex_number": 648,
+    "speed": 128
+  },
+  {
+    "attack": 120,
+    "defense": 95,
+    "generation": 5,
+    "hp": 71,
+    "japanese_name": "Genesectゲノセクト",
+    "name": "Genesect",
+    "pokedex_number": 649,
+    "speed": 99
+  },
+  {
+    "attack": 61,
+    "defense": 65,
+    "generation": 6,
+    "hp": 56,
+    "japanese_name": "Harimaronハリマロン",
+    "name": "Chespin",
+    "pokedex_number": 650,
+    "speed": 38
+  },
+  {
+    "attack": 78,
+    "defense": 95,
+    "generation": 6,
+    "hp": 61,
+    "japanese_name": "Hariborgハリボーグ",
+    "name": "Quilladin",
+    "pokedex_number": 651,
+    "speed": 57
+  },
+  {
+    "attack": 107,
+    "defense": 122,
+    "generation": 6,
+    "hp": 88,
+    "japanese_name": "Brigarronブリガロン",
+    "name": "Chesnaught",
+    "pokedex_number": 652,
+    "speed": 64
+  },
+  {
+    "attack": 45,
+    "defense": 40,
+    "generation": 6,
+    "hp": 40,
+    "japanese_name": "Fokkoフォッコ",
+    "name": "Fennekin",
+    "pokedex_number": 653,
+    "speed": 60
+  },
+  {
+    "attack": 59,
+    "defense": 58,
+    "generation": 6,
+    "hp": 59,
+    "japanese_name": "Tairenarテールナー",
+    "name": "Braixen",
+    "pokedex_number": 654,
+    "speed": 73
+  },
+  {
+    "attack": 69,
+    "defense": 72,
+    "generation": 6,
+    "hp": 75,
+    "japanese_name": "Mahoxyマフォクシー",
+    "name": "Delphox",
+    "pokedex_number": 655,
+    "speed": 104
+  },
+  {
+    "attack": 56,
+    "defense": 40,
+    "generation": 6,
+    "hp": 41,
+    "japanese_name": "Keromatsuケロマツ",
+    "name": "Froakie",
+    "pokedex_number": 656,
+    "speed": 71
+  },
+  {
+    "attack": 63,
+    "defense": 52,
+    "generation": 6,
+    "hp": 54,
+    "japanese_name": "Gekogashiraゲコガシラ",
+    "name": "Frogadier",
+    "pokedex_number": 657,
+    "speed": 97
+  },
+  {
+    "attack": 145,
+    "defense": 67,
+    "generation": 6,
+    "hp": 72,
+    "japanese_name": "Gekkougaゲッコウガ",
+    "name": "Greninja",
+    "pokedex_number": 658,
+    "speed": 132
+  },
+  {
+    "attack": 36,
+    "defense": 38,
+    "generation": 6,
+    "hp": 38,
+    "japanese_name": "Horubeeホルビー",
+    "name": "Bunnelby",
+    "pokedex_number": 659,
+    "speed": 57
+  },
+  {
+    "attack": 56,
+    "defense": 77,
+    "generation": 6,
+    "hp": 85,
+    "japanese_name": "Horudoホルード",
+    "name": "Diggersby",
+    "pokedex_number": 660,
+    "speed": 78
+  },
+  {
+    "attack": 50,
+    "defense": 43,
+    "generation": 6,
+    "hp": 45,
+    "japanese_name": "Yayakomaヤヤコマ",
+    "name": "Fletchling",
+    "pokedex_number": 661,
+    "speed": 62
+  },
+  {
+    "attack": 73,
+    "defense": 55,
+    "generation": 6,
+    "hp": 62,
+    "japanese_name": "Hinoyakomaヒノヤコマ",
+    "name": "Fletchinder",
+    "pokedex_number": 662,
+    "speed": 84
+  },
+  {
+    "attack": 81,
+    "defense": 71,
+    "generation": 6,
+    "hp": 78,
+    "japanese_name": "Fiarrowファイアロー",
+    "name": "Talonflame",
+    "pokedex_number": 663,
+    "speed": 126
+  },
+  {
+    "attack": 35,
+    "defense": 40,
+    "generation": 6,
+    "hp": 38,
+    "japanese_name": "Kofukimushiコフキムシ",
+    "name": "Scatterbug",
+    "pokedex_number": 664,
+    "speed": 35
+  },
+  {
+    "attack": 22,
+    "defense": 60,
+    "generation": 6,
+    "hp": 45,
+    "japanese_name": "Kofuuraiコフーライ",
+    "name": "Spewpa",
+    "pokedex_number": 665,
+    "speed": 29
+  },
+  {
+    "attack": 52,
+    "defense": 50,
+    "generation": 6,
+    "hp": 80,
+    "japanese_name": "Viviyonビビヨン",
+    "name": "Vivillon",
+    "pokedex_number": 666,
+    "speed": 89
+  },
+  {
+    "attack": 50,
+    "defense": 58,
+    "generation": 6,
+    "hp": 62,
+    "japanese_name": "Shishikoシシコ",
+    "name": "Litleo",
+    "pokedex_number": 667,
+    "speed": 72
+  },
+  {
+    "attack": 68,
+    "defense": 72,
+    "generation": 6,
+    "hp": 86,
+    "japanese_name": "Kaenjishiカエンジシ",
+    "name": "Pyroar",
+    "pokedex_number": 668,
+    "speed": 106
+  },
+  {
+    "attack": 38,
+    "defense": 39,
+    "generation": 6,
+    "hp": 44,
+    "japanese_name": "Flabebeフラベベ",
+    "name": "Flabébé",
+    "pokedex_number": 669,
+    "speed": 42
+  },
+  {
+    "attack": 65,
+    "defense": 67,
+    "generation": 6,
+    "hp": 74,
+    "japanese_name": "Floetteフラエッテ",
+    "name": "Floette",
+    "pokedex_number": 670,
+    "speed": 92
+  },
+  {
+    "attack": 65,
+    "defense": 68,
+    "generation": 6,
+    "hp": 78,
+    "japanese_name": "Florgesフラージェス",
+    "name": "Florges",
+    "pokedex_number": 671,
+    "speed": 75
+  },
+  {
+    "attack": 65,
+    "defense": 48,
+    "generation": 6,
+    "hp": 66,
+    "japanese_name": "Meecleメェークル",
+    "name": "Skiddo",
+    "pokedex_number": 672,
+    "speed": 52
+  },
+  {
+    "attack": 100,
+    "defense": 62,
+    "generation": 6,
+    "hp": 123,
+    "japanese_name": "Gogoatゴーゴート",
+    "name": "Gogoat",
+    "pokedex_number": 673,
+    "speed": 68
+  },
+  {
+    "attack": 82,
+    "defense": 62,
+    "generation": 6,
+    "hp": 67,
+    "japanese_name": "Yanchamヤンチャム",
+    "name": "Pancham",
+    "pokedex_number": 674,
+    "speed": 43
+  },
+  {
+    "attack": 124,
+    "defense": 78,
+    "generation": 6,
+    "hp": 95,
+    "japanese_name": "Gorondaゴロンダ",
+    "name": "Pangoro",
+    "pokedex_number": 675,
+    "speed": 58
+  },
+  {
+    "attack": 80,
+    "defense": 60,
+    "generation": 6,
+    "hp": 75,
+    "japanese_name": "Trimmienトリミアン",
+    "name": "Furfrou",
+    "pokedex_number": 676,
+    "speed": 102
+  },
+  {
+    "attack": 48,
+    "defense": 54,
+    "generation": 6,
+    "hp": 62,
+    "japanese_name": "Nyasperニャスパー",
+    "name": "Espurr",
+    "pokedex_number": 677,
+    "speed": 68
+  },
+  {
+    "attack": 48,
+    "defense": 76,
+    "generation": 6,
+    "hp": 74,
+    "japanese_name": "Nyaonixニャオニクス",
+    "name": "Meowstic",
+    "pokedex_number": 678,
+    "speed": 104
+  },
+  {
+    "attack": 80,
+    "defense": 100,
+    "generation": 6,
+    "hp": 45,
+    "japanese_name": "Hitotsukiヒトツキ",
+    "name": "Honedge",
+    "pokedex_number": 679,
+    "speed": 28
+  },
+  {
+    "attack": 110,
+    "defense": 150,
+    "generation": 6,
+    "hp": 59,
+    "japanese_name": "Nidangillニダンギル",
+    "name": "Doublade",
+    "pokedex_number": 680,
+    "speed": 35
+  },
+  {
+    "attack": 150,
+    "defense": 50,
+    "generation": 6,
+    "hp": 60,
+    "japanese_name": "Gillgardギルガルド",
+    "name": "Aegislash",
+    "pokedex_number": 681,
+    "speed": 60
+  },
+  {
+    "attack": 52,
+    "defense": 60,
+    "generation": 6,
+    "hp": 78,
+    "japanese_name": "Shushupuシュシュプ",
+    "name": "Spritzee",
+    "pokedex_number": 682,
+    "speed": 23
+  },
+  {
+    "attack": 72,
+    "defense": 72,
+    "generation": 6,
+    "hp": 101,
+    "japanese_name": "Frefuwanフレフワン",
+    "name": "Aromatisse",
+    "pokedex_number": 683,
+    "speed": 29
+  },
+  {
+    "attack": 48,
+    "defense": 66,
+    "generation": 6,
+    "hp": 62,
+    "japanese_name": "Peroppafuペロッパフ",
+    "name": "Swirlix",
+    "pokedex_number": 684,
+    "speed": 49
+  },
+  {
+    "attack": 80,
+    "defense": 86,
+    "generation": 6,
+    "hp": 82,
+    "japanese_name": "Peroreamペロリーム",
+    "name": "Slurpuff",
+    "pokedex_number": 685,
+    "speed": 72
+  },
+  {
+    "attack": 54,
+    "defense": 53,
+    "generation": 6,
+    "hp": 53,
+    "japanese_name": "Maaiikaマーイーカ",
+    "name": "Inkay",
+    "pokedex_number": 686,
+    "speed": 45
+  },
+  {
+    "attack": 92,
+    "defense": 88,
+    "generation": 6,
+    "hp": 86,
+    "japanese_name": "Calamaneroカラマネロ",
+    "name": "Malamar",
+    "pokedex_number": 687,
+    "speed": 73
+  },
+  {
+    "attack": 52,
+    "defense": 67,
+    "generation": 6,
+    "hp": 42,
+    "japanese_name": "Kameteteカメテテ",
+    "name": "Binacle",
+    "pokedex_number": 688,
+    "speed": 50
+  },
+  {
+    "attack": 105,
+    "defense": 115,
+    "generation": 6,
+    "hp": 72,
+    "japanese_name": "Gamenodesガメノデス",
+    "name": "Barbaracle",
+    "pokedex_number": 689,
+    "speed": 68
+  },
+  {
+    "attack": 60,
+    "defense": 60,
+    "generation": 6,
+    "hp": 50,
+    "japanese_name": "Kuzumoクズモー",
+    "name": "Skrelp",
+    "pokedex_number": 690,
+    "speed": 30
+  },
+  {
+    "attack": 75,
+    "defense": 90,
+    "generation": 6,
+    "hp": 65,
+    "japanese_name": "Dramidoroドラミドロ",
+    "name": "Dragalge",
+    "pokedex_number": 691,
+    "speed": 44
+  },
+  {
+    "attack": 53,
+    "defense": 62,
+    "generation": 6,
+    "hp": 50,
+    "japanese_name": "Udeppouウデッポウ",
+    "name": "Clauncher",
+    "pokedex_number": 692,
+    "speed": 44
+  },
+  {
+    "attack": 73,
+    "defense": 88,
+    "generation": 6,
+    "hp": 71,
+    "japanese_name": "Blosterブロスター",
+    "name": "Clawitzer",
+    "pokedex_number": 693,
+    "speed": 59
+  },
+  {
+    "attack": 38,
+    "defense": 33,
+    "generation": 6,
+    "hp": 44,
+    "japanese_name": "Erikiteruエリキテル",
+    "name": "Helioptile",
+    "pokedex_number": 694,
+    "speed": 70
+  },
+  {
+    "attack": 55,
+    "defense": 52,
+    "generation": 6,
+    "hp": 62,
+    "japanese_name": "Elezardエレザード",
+    "name": "Heliolisk",
+    "pokedex_number": 695,
+    "speed": 109
+  },
+  {
+    "attack": 89,
+    "defense": 77,
+    "generation": 6,
+    "hp": 58,
+    "japanese_name": "Chigorasチゴラス",
+    "name": "Tyrunt",
+    "pokedex_number": 696,
+    "speed": 48
+  },
+  {
+    "attack": 121,
+    "defense": 119,
+    "generation": 6,
+    "hp": 82,
+    "japanese_name": "Gachigorasガチゴラス",
+    "name": "Tyrantrum",
+    "pokedex_number": 697,
+    "speed": 71
+  },
+  {
+    "attack": 59,
+    "defense": 50,
+    "generation": 6,
+    "hp": 77,
+    "japanese_name": "Amarusアマルス",
+    "name": "Amaura",
+    "pokedex_number": 698,
+    "speed": 46
+  },
+  {
+    "attack": 77,
+    "defense": 72,
+    "generation": 6,
+    "hp": 123,
+    "japanese_name": "Amarurugaアマルルガ",
+    "name": "Aurorus",
+    "pokedex_number": 699,
+    "speed": 58
+  },
+  {
+    "attack": 65,
+    "defense": 65,
+    "generation": 6,
+    "hp": 95,
+    "japanese_name": "Nymphiaニンフィア",
+    "name": "Sylveon",
+    "pokedex_number": 700,
+    "speed": 60
+  },
+  {
+    "attack": 92,
+    "defense": 75,
+    "generation": 6,
+    "hp": 78,
+    "japanese_name": "Luchabullルチャブル",
+    "name": "Hawlucha",
+    "pokedex_number": 701,
+    "speed": 118
+  },
+  {
+    "attack": 58,
+    "defense": 57,
+    "generation": 6,
+    "hp": 67,
+    "japanese_name": "Dedenneデデンネ",
+    "name": "Dedenne",
+    "pokedex_number": 702,
+    "speed": 101
+  },
+  {
+    "attack": 50,
+    "defense": 150,
+    "generation": 6,
+    "hp": 50,
+    "japanese_name": "Melecieメレシー",
+    "name": "Carbink",
+    "pokedex_number": 703,
+    "speed": 50
+  },
+  {
+    "attack": 50,
+    "defense": 35,
+    "generation": 6,
+    "hp": 45,
+    "japanese_name": "Numeraヌメラ",
+    "name": "Goomy",
+    "pokedex_number": 704,
+    "speed": 40
+  },
+  {
+    "attack": 75,
+    "defense": 53,
+    "generation": 6,
+    "hp": 68,
+    "japanese_name": "Numeilヌメイル",
+    "name": "Sliggoo",
+    "pokedex_number": 705,
+    "speed": 60
+  },
+  {
+    "attack": 100,
+    "defense": 70,
+    "generation": 6,
+    "hp": 90,
+    "japanese_name": "Numelgonヌメルゴン",
+    "name": "Goodra",
+    "pokedex_number": 706,
+    "speed": 80
+  },
+  {
+    "attack": 80,
+    "defense": 91,
+    "generation": 6,
+    "hp": 57,
+    "japanese_name": "Cleffyクレッフィ",
+    "name": "Klefki",
+    "pokedex_number": 707,
+    "speed": 75
+  },
+  {
+    "attack": 70,
+    "defense": 48,
+    "generation": 6,
+    "hp": 43,
+    "japanese_name": "Bokureiボクレー",
+    "name": "Phantump",
+    "pokedex_number": 708,
+    "speed": 38
+  },
+  {
+    "attack": 110,
+    "defense": 76,
+    "generation": 6,
+    "hp": 85,
+    "japanese_name": "Ohrotオーロット",
+    "name": "Trevenant",
+    "pokedex_number": 709,
+    "speed": 56
+  },
+  {
+    "attack": 66,
+    "defense": 70,
+    "generation": 6,
+    "hp": 59,
+    "japanese_name": "Bakecchaバケッチャ",
+    "name": "Pumpkaboo",
+    "pokedex_number": 710,
+    "speed": 41
+  },
+  {
+    "attack": 100,
+    "defense": 122,
+    "generation": 6,
+    "hp": 85,
+    "japanese_name": "Pumpjinパンプジン",
+    "name": "Gourgeist",
+    "pokedex_number": 711,
+    "speed": 54
+  },
+  {
+    "attack": 69,
+    "defense": 85,
+    "generation": 6,
+    "hp": 55,
+    "japanese_name": "Kachikohruカチコール",
+    "name": "Bergmite",
+    "pokedex_number": 712,
+    "speed": 28
+  },
+  {
+    "attack": 117,
+    "defense": 184,
+    "generation": 6,
+    "hp": 95,
+    "japanese_name": "Crebaseクレベース",
+    "name": "Avalugg",
+    "pokedex_number": 713,
+    "speed": 28
+  },
+  {
+    "attack": 30,
+    "defense": 35,
+    "generation": 6,
+    "hp": 40,
+    "japanese_name": "Onbatオンバット",
+    "name": "Noibat",
+    "pokedex_number": 714,
+    "speed": 55
+  },
+  {
+    "attack": 70,
+    "defense": 80,
+    "generation": 6,
+    "hp": 85,
+    "japanese_name": "Onvernオンバーン",
+    "name": "Noivern",
+    "pokedex_number": 715,
+    "speed": 123
+  },
+  {
+    "attack": 131,
+    "defense": 95,
+    "generation": 6,
+    "hp": 126,
+    "japanese_name": "Xerneasゼルネアス",
+    "name": "Xerneas",
+    "pokedex_number": 716,
+    "speed": 99
+  },
+  {
+    "attack": 131,
+    "defense": 95,
+    "generation": 6,
+    "hp": 126,
+    "japanese_name": "Yveltalイベルタル",
+    "name": "Yveltal",
+    "pokedex_number": 717,
+    "speed": 99
+  },
+  {
+    "attack": 100,
+    "defense": 121,
+    "generation": 6,
+    "hp": 216,
+    "japanese_name": "Zygarde (10% Forme)ジガルデ",
+    "name": "Zygarde",
+    "pokedex_number": 718,
+    "speed": 85
+  },
+  {
+    "attack": 160,
+    "defense": 110,
+    "generation": 6,
+    "hp": 50,
+    "japanese_name": "Diancieディアンシー",
+    "name": "Diancie",
+    "pokedex_number": 719,
+    "speed": 110
+  },
+  {
+    "attack": 160,
+    "defense": 60,
+    "generation": 6,
+    "hp": 80,
+    "japanese_name": "Hoopa (imashimerareshi Hoopa)フーパ",
+    "name": "Hoopa",
+    "pokedex_number": 720,
+    "speed": 80
+  },
+  {
+    "attack": 110,
+    "defense": 120,
+    "generation": 6,
+    "hp": 80,
+    "japanese_name": "Volcanionボルケニオン",
+    "name": "Volcanion",
+    "pokedex_number": 721,
+    "speed": 70
+  },
+  {
+    "attack": 55,
+    "defense": 55,
+    "generation": 7,
+    "hp": 68,
+    "japanese_name": "Mokurohモクロー",
+    "name": "Rowlet",
+    "pokedex_number": 722,
+    "speed": 42
+  },
+  {
+    "attack": 75,
+    "defense": 75,
+    "generation": 7,
+    "hp": 78,
+    "japanese_name": "Fukuthrowフクスロー",
+    "name": "Dartrix",
+    "pokedex_number": 723,
+    "speed": 52
+  },
+  {
+    "attack": 107,
+    "defense": 75,
+    "generation": 7,
+    "hp": 78,
+    "japanese_name": "Junaiperジュナイパー",
+    "name": "Decidueye",
+    "pokedex_number": 724,
+    "speed": 70
+  },
+  {
+    "attack": 65,
+    "defense": 40,
+    "generation": 7,
+    "hp": 45,
+    "japanese_name": "Nyabbyニャビー",
+    "name": "Litten",
+    "pokedex_number": 725,
+    "speed": 70
+  },
+  {
+    "attack": 85,
+    "defense": 50,
+    "generation": 7,
+    "hp": 65,
+    "japanese_name": "Nyaheatニャヒート",
+    "name": "Torracat",
+    "pokedex_number": 726,
+    "speed": 90
+  },
+  {
+    "attack": 115,
+    "defense": 90,
+    "generation": 7,
+    "hp": 95,
+    "japanese_name": "Gaogaenガオガエン",
+    "name": "Incineroar",
+    "pokedex_number": 727,
+    "speed": 60
+  },
+  {
+    "attack": 54,
+    "defense": 54,
+    "generation": 7,
+    "hp": 50,
+    "japanese_name": "Ashimariアシマリ",
+    "name": "Popplio",
+    "pokedex_number": 728,
+    "speed": 40
+  },
+  {
+    "attack": 69,
+    "defense": 69,
+    "generation": 7,
+    "hp": 60,
+    "japanese_name": "Osyamariオシャマリ",
+    "name": "Brionne",
+    "pokedex_number": 729,
+    "speed": 50
+  },
+  {
+    "attack": 74,
+    "defense": 74,
+    "generation": 7,
+    "hp": 80,
+    "japanese_name": "Ashireneアシレーヌ",
+    "name": "Primarina",
+    "pokedex_number": 730,
+    "speed": 60
+  },
+  {
+    "attack": 75,
+    "defense": 30,
+    "generation": 7,
+    "hp": 35,
+    "japanese_name": "Tsutsukeraツツケラ",
+    "name": "Pikipek",
+    "pokedex_number": 731,
+    "speed": 65
+  },
+  {
+    "attack": 85,
+    "defense": 50,
+    "generation": 7,
+    "hp": 55,
+    "japanese_name": "Kerarappaケララッパ",
+    "name": "Trumbeak",
+    "pokedex_number": 732,
+    "speed": 75
+  },
+  {
+    "attack": 120,
+    "defense": 75,
+    "generation": 7,
+    "hp": 80,
+    "japanese_name": "Dodekabashiドデカバシ",
+    "name": "Toucannon",
+    "pokedex_number": 733,
+    "speed": 60
+  },
+  {
+    "attack": 70,
+    "defense": 30,
+    "generation": 7,
+    "hp": 48,
+    "japanese_name": "Youngooseヤングース",
+    "name": "Yungoos",
+    "pokedex_number": 734,
+    "speed": 45
+  },
+  {
+    "attack": 110,
+    "defense": 60,
+    "generation": 7,
+    "hp": 88,
+    "japanese_name": "Dekagooseデカグース",
+    "name": "Gumshoos",
+    "pokedex_number": 735,
+    "speed": 45
+  },
+  {
+    "attack": 62,
+    "defense": 45,
+    "generation": 7,
+    "hp": 47,
+    "japanese_name": "Agojimushiアゴジムシ",
+    "name": "Grubbin",
+    "pokedex_number": 736,
+    "speed": 46
+  },
+  {
+    "attack": 82,
+    "defense": 95,
+    "generation": 7,
+    "hp": 57,
+    "japanese_name": "Dendimushiデンヂムシ",
+    "name": "Charjabug",
+    "pokedex_number": 737,
+    "speed": 36
+  },
+  {
+    "attack": 70,
+    "defense": 90,
+    "generation": 7,
+    "hp": 77,
+    "japanese_name": "Kuwagannonクワガノン",
+    "name": "Vikavolt",
+    "pokedex_number": 738,
+    "speed": 43
+  },
+  {
+    "attack": 82,
+    "defense": 57,
+    "generation": 7,
+    "hp": 47,
+    "japanese_name": "Makenkaniマケンカニ",
+    "name": "Crabrawler",
+    "pokedex_number": 739,
+    "speed": 63
+  },
+  {
+    "attack": 132,
+    "defense": 77,
+    "generation": 7,
+    "hp": 97,
+    "japanese_name": "Kekenkaniケケンカニ",
+    "name": "Crabominable",
+    "pokedex_number": 740,
+    "speed": 43
+  },
+  {
+    "attack": 70,
+    "defense": 70,
+    "generation": 7,
+    "hp": 75,
+    "japanese_name": "Odoridori (pachipachi Style)オドリドリ",
+    "name": "Oricorio",
+    "pokedex_number": 741,
+    "speed": 93
+  },
+  {
+    "attack": 45,
+    "defense": 40,
+    "generation": 7,
+    "hp": 40,
+    "japanese_name": "Abulyアブリー",
+    "name": "Cutiefly",
+    "pokedex_number": 742,
+    "speed": 84
+  },
+  {
+    "attack": 55,
+    "defense": 60,
+    "generation": 7,
+    "hp": 60,
+    "japanese_name": "Aburibbonアブリボン",
+    "name": "Ribombee",
+    "pokedex_number": 743,
+    "speed": 124
+  },
+  {
+    "attack": 65,
+    "defense": 40,
+    "generation": 7,
+    "hp": 45,
+    "japanese_name": "Iwankoイワンコ",
+    "name": "Rockruff",
+    "pokedex_number": 744,
+    "speed": 60
+  },
+  {
+    "attack": 115,
+    "defense": 75,
+    "generation": 7,
+    "hp": 85,
+    "japanese_name": "Lugarugan (mahiru No Sugata)ルガルガン",
+    "name": "Lycanroc",
+    "pokedex_number": 745,
+    "speed": 82
+  },
+  {
+    "attack": 140,
+    "defense": 130,
+    "generation": 7,
+    "hp": 45,
+    "japanese_name": "Yowashi (tandoku No Sugata)ヨワシ",
+    "name": "Wishiwashi",
+    "pokedex_number": 746,
+    "speed": 30
+  },
+  {
+    "attack": 53,
+    "defense": 62,
+    "generation": 7,
+    "hp": 50,
+    "japanese_name": "Hidoideヒドイデ",
+    "name": "Mareanie",
+    "pokedex_number": 747,
+    "speed": 45
+  },
+  {
+    "attack": 63,
+    "defense": 152,
+    "generation": 7,
+    "hp": 50,
+    "japanese_name": "Dohidoideドヒドイデ",
+    "name": "Toxapex",
+    "pokedex_number": 748,
+    "speed": 35
+  },
+  {
+    "attack": 100,
+    "defense": 70,
+    "generation": 7,
+    "hp": 70,
+    "japanese_name": "Dorobankoドロバンコ",
+    "name": "Mudbray",
+    "pokedex_number": 749,
+    "speed": 45
+  },
+  {
+    "attack": 125,
+    "defense": 100,
+    "generation": 7,
+    "hp": 100,
+    "japanese_name": "Banbadoroバンバドロ",
+    "name": "Mudsdale",
+    "pokedex_number": 750,
+    "speed": 35
+  },
+  {
+    "attack": 40,
+    "defense": 52,
+    "generation": 7,
+    "hp": 38,
+    "japanese_name": "Shizukumoシズクモ",
+    "name": "Dewpider",
+    "pokedex_number": 751,
+    "speed": 27
+  },
+  {
+    "attack": 70,
+    "defense": 92,
+    "generation": 7,
+    "hp": 68,
+    "japanese_name": "Onishizukumoオニシズクモ",
+    "name": "Araquanid",
+    "pokedex_number": 752,
+    "speed": 42
+  },
+  {
+    "attack": 55,
+    "defense": 35,
+    "generation": 7,
+    "hp": 40,
+    "japanese_name": "Karikiriカリキリ",
+    "name": "Fomantis",
+    "pokedex_number": 753,
+    "speed": 35
+  },
+  {
+    "attack": 105,
+    "defense": 90,
+    "generation": 7,
+    "hp": 70,
+    "japanese_name": "Lalantesラランテス",
+    "name": "Lurantis",
+    "pokedex_number": 754,
+    "speed": 45
+  },
+  {
+    "attack": 35,
+    "defense": 55,
+    "generation": 7,
+    "hp": 40,
+    "japanese_name": "Nemasyuネマシュ",
+    "name": "Morelull",
+    "pokedex_number": 755,
+    "speed": 15
+  },
+  {
+    "attack": 45,
+    "defense": 80,
+    "generation": 7,
+    "hp": 60,
+    "japanese_name": "Mashadeマシェード",
+    "name": "Shiinotic",
+    "pokedex_number": 756,
+    "speed": 30
+  },
+  {
+    "attack": 44,
+    "defense": 40,
+    "generation": 7,
+    "hp": 48,
+    "japanese_name": "Yatoumoriヤトウモリ",
+    "name": "Salandit",
+    "pokedex_number": 757,
+    "speed": 77
+  },
+  {
+    "attack": 64,
+    "defense": 60,
+    "generation": 7,
+    "hp": 68,
+    "japanese_name": "Ennewtエンニュート",
+    "name": "Salazzle",
+    "pokedex_number": 758,
+    "speed": 117
+  },
+  {
+    "attack": 75,
+    "defense": 50,
+    "generation": 7,
+    "hp": 70,
+    "japanese_name": "Nuikogumaヌイコグマ",
+    "name": "Stufful",
+    "pokedex_number": 759,
+    "speed": 50
+  },
+  {
+    "attack": 125,
+    "defense": 80,
+    "generation": 7,
+    "hp": 120,
+    "japanese_name": "Kiterugumaキテルグマ",
+    "name": "Bewear",
+    "pokedex_number": 760,
+    "speed": 60
+  },
+  {
+    "attack": 30,
+    "defense": 38,
+    "generation": 7,
+    "hp": 42,
+    "japanese_name": "Amakajiアマカジ",
+    "name": "Bounsweet",
+    "pokedex_number": 761,
+    "speed": 32
+  },
+  {
+    "attack": 40,
+    "defense": 48,
+    "generation": 7,
+    "hp": 52,
+    "japanese_name": "Amamaikoアママイコ",
+    "name": "Steenee",
+    "pokedex_number": 762,
+    "speed": 62
+  },
+  {
+    "attack": 120,
+    "defense": 98,
+    "generation": 7,
+    "hp": 72,
+    "japanese_name": "Amajoアマージョ",
+    "name": "Tsareena",
+    "pokedex_number": 763,
+    "speed": 72
+  },
+  {
+    "attack": 52,
+    "defense": 90,
+    "generation": 7,
+    "hp": 51,
+    "japanese_name": "Cuwawaキュワワー",
+    "name": "Comfey",
+    "pokedex_number": 764,
+    "speed": 100
+  },
+  {
+    "attack": 60,
+    "defense": 80,
+    "generation": 7,
+    "hp": 90,
+    "japanese_name": "Yareyuutanヤレユータン",
+    "name": "Oranguru",
+    "pokedex_number": 765,
+    "speed": 60
+  },
+  {
+    "attack": 120,
+    "defense": 90,
+    "generation": 7,
+    "hp": 100,
+    "japanese_name": "Nagetukesaruナゲツケサル",
+    "name": "Passimian",
+    "pokedex_number": 766,
+    "speed": 80
+  },
+  {
+    "attack": 35,
+    "defense": 40,
+    "generation": 7,
+    "hp": 25,
+    "japanese_name": "Kosokumushiコソクムシ",
+    "name": "Wimpod",
+    "pokedex_number": 767,
+    "speed": 80
+  },
+  {
+    "attack": 125,
+    "defense": 140,
+    "generation": 7,
+    "hp": 75,
+    "japanese_name": "Gusokumushaグソクムシャ",
+    "name": "Golisopod",
+    "pokedex_number": 768,
+    "speed": 40
+  },
+  {
+    "attack": 55,
+    "defense": 80,
+    "generation": 7,
+    "hp": 55,
+    "japanese_name": "Sunabaスナバァ",
+    "name": "Sandygast",
+    "pokedex_number": 769,
+    "speed": 15
+  },
+  {
+    "attack": 75,
+    "defense": 110,
+    "generation": 7,
+    "hp": 85,
+    "japanese_name": "Sirodethnaシロデスナ",
+    "name": "Palossand",
+    "pokedex_number": 770,
+    "speed": 35
+  },
+  {
+    "attack": 60,
+    "defense": 130,
+    "generation": 7,
+    "hp": 55,
+    "japanese_name": "Namakobushiナマコブシ",
+    "name": "Pyukumuku",
+    "pokedex_number": 771,
+    "speed": 5
+  },
+  {
+    "attack": 95,
+    "defense": 95,
+    "generation": 7,
+    "hp": 95,
+    "japanese_name": "Type: Nullタイプ：ヌル",
+    "name": "Type: Null",
+    "pokedex_number": 772,
+    "speed": 59
+  },
+  {
+    "attack": 95,
+    "defense": 95,
+    "generation": 7,
+    "hp": 95,
+    "japanese_name": "Silvadyシルヴァディ",
+    "name": "Silvally",
+    "pokedex_number": 773,
+    "speed": 95
+  },
+  {
+    "attack": 100,
+    "defense": 60,
+    "generation": 7,
+    "hp": 60,
+    "japanese_name": "Metenoメテノ",
+    "name": "Minior",
+    "pokedex_number": 774,
+    "speed": 120
+  },
+  {
+    "attack": 115,
+    "defense": 65,
+    "generation": 7,
+    "hp": 65,
+    "japanese_name": "Nekkoaraネッコアラ",
+    "name": "Komala",
+    "pokedex_number": 775,
+    "speed": 65
+  },
+  {
+    "attack": 78,
+    "defense": 135,
+    "generation": 7,
+    "hp": 60,
+    "japanese_name": "Bakugamesバクガメス",
+    "name": "Turtonator",
+    "pokedex_number": 776,
+    "speed": 36
+  },
+  {
+    "attack": 98,
+    "defense": 63,
+    "generation": 7,
+    "hp": 65,
+    "japanese_name": "Togedemaruトゲデマル",
+    "name": "Togedemaru",
+    "pokedex_number": 777,
+    "speed": 96
+  },
+  {
+    "attack": 90,
+    "defense": 80,
+    "generation": 7,
+    "hp": 55,
+    "japanese_name": "Mimikkyuミミッキュ",
+    "name": "Mimikyu",
+    "pokedex_number": 778,
+    "speed": 96
+  },
+  {
+    "attack": 105,
+    "defense": 70,
+    "generation": 7,
+    "hp": 68,
+    "japanese_name": "Hagigishiriハギギシリ",
+    "name": "Bruxish",
+    "pokedex_number": 779,
+    "speed": 92
+  },
+  {
+    "attack": 60,
+    "defense": 85,
+    "generation": 7,
+    "hp": 78,
+    "japanese_name": "Jijilongジジーロン",
+    "name": "Drampa",
+    "pokedex_number": 780,
+    "speed": 36
+  },
+  {
+    "attack": 131,
+    "defense": 100,
+    "generation": 7,
+    "hp": 70,
+    "japanese_name": "Dadarinダダリン",
+    "name": "Dhelmise",
+    "pokedex_number": 781,
+    "speed": 40
+  },
+  {
+    "attack": 55,
+    "defense": 65,
+    "generation": 7,
+    "hp": 45,
+    "japanese_name": "Jyarakoジャラコ",
+    "name": "Jangmo-o",
+    "pokedex_number": 782,
+    "speed": 45
+  },
+  {
+    "attack": 75,
+    "defense": 90,
+    "generation": 7,
+    "hp": 55,
+    "japanese_name": "Jyarangoジャランゴ",
+    "name": "Hakamo-o",
+    "pokedex_number": 783,
+    "speed": 65
+  },
+  {
+    "attack": 110,
+    "defense": 125,
+    "generation": 7,
+    "hp": 75,
+    "japanese_name": "Jyararangaジャラランガ",
+    "name": "Kommo-o",
+    "pokedex_number": 784,
+    "speed": 85
+  },
+  {
+    "attack": 115,
+    "defense": 85,
+    "generation": 7,
+    "hp": 70,
+    "japanese_name": "Kapu-kokekoカプ・コケコ",
+    "name": "Tapu Koko",
+    "pokedex_number": 785,
+    "speed": 130
+  },
+  {
+    "attack": 85,
+    "defense": 75,
+    "generation": 7,
+    "hp": 70,
+    "japanese_name": "Kapu-tetefuカプ・テテフ",
+    "name": "Tapu Lele",
+    "pokedex_number": 786,
+    "speed": 95
+  },
+  {
+    "attack": 130,
+    "defense": 115,
+    "generation": 7,
+    "hp": 70,
+    "japanese_name": "Kapu-bululカプ・ブルル",
+    "name": "Tapu Bulu",
+    "pokedex_number": 787,
+    "speed": 75
+  },
+  {
+    "attack": 75,
+    "defense": 115,
+    "generation": 7,
+    "hp": 70,
+    "japanese_name": "Kapu-rehireカプ・レヒレ",
+    "name": "Tapu Fini",
+    "pokedex_number": 788,
+    "speed": 85
+  },
+  {
+    "attack": 29,
+    "defense": 31,
+    "generation": 7,
+    "hp": 43,
+    "japanese_name": "Cosmogコスモッグ",
+    "name": "Cosmog",
+    "pokedex_number": 789,
+    "speed": 37
+  },
+  {
+    "attack": 29,
+    "defense": 131,
+    "generation": 7,
+    "hp": 43,
+    "japanese_name": "Cosmovumコスモウム",
+    "name": "Cosmoem",
+    "pokedex_number": 790,
+    "speed": 37
+  },
+  {
+    "attack": 137,
+    "defense": 107,
+    "generation": 7,
+    "hp": 137,
+    "japanese_name": "Solgaleoソルガレオ",
+    "name": "Solgaleo",
+    "pokedex_number": 791,
+    "speed": 97
+  },
+  {
+    "attack": 113,
+    "defense": 89,
+    "generation": 7,
+    "hp": 137,
+    "japanese_name": "Lunalaルナアーラ",
+    "name": "Lunala",
+    "pokedex_number": 792,
+    "speed": 97
+  },
+  {
+    "attack": 53,
+    "defense": 47,
+    "generation": 7,
+    "hp": 109,
+    "japanese_name": "Uturoidウツロイド",
+    "name": "Nihilego",
+    "pokedex_number": 793,
+    "speed": 103
+  },
+  {
+    "attack": 139,
+    "defense": 139,
+    "generation": 7,
+    "hp": 107,
+    "japanese_name": "Massivoonマッシブーン",
+    "name": "Buzzwole",
+    "pokedex_number": 794,
+    "speed": 79
+  },
+  {
+    "attack": 137,
+    "defense": 37,
+    "generation": 7,
+    "hp": 71,
+    "japanese_name": "Pheroacheフェローチェ",
+    "name": "Pheromosa",
+    "pokedex_number": 795,
+    "speed": 151
+  },
+  {
+    "attack": 89,
+    "defense": 71,
+    "generation": 7,
+    "hp": 83,
+    "japanese_name": "Denjyumokuデンジュモク",
+    "name": "Xurkitree",
+    "pokedex_number": 796,
+    "speed": 83
+  },
+  {
+    "attack": 101,
+    "defense": 103,
+    "generation": 7,
+    "hp": 97,
+    "japanese_name": "Tekkaguyaテッカグヤ",
+    "name": "Celesteela",
+    "pokedex_number": 797,
+    "speed": 61
+  },
+  {
+    "attack": 181,
+    "defense": 131,
+    "generation": 7,
+    "hp": 59,
+    "japanese_name": "Kamiturugiカミツルギ",
+    "name": "Kartana",
+    "pokedex_number": 798,
+    "speed": 109
+  },
+  {
+    "attack": 101,
+    "defense": 53,
+    "generation": 7,
+    "hp": 223,
+    "japanese_name": "Akuzikingアクジキング",
+    "name": "Guzzlord",
+    "pokedex_number": 799,
+    "speed": 43
+  },
+  {
+    "attack": 107,
+    "defense": 101,
+    "generation": 7,
+    "hp": 97,
+    "japanese_name": "Necrozmaネクロズマ",
+    "name": "Necrozma",
+    "pokedex_number": 800,
+    "speed": 79
+  },
+  {
+    "attack": 95,
+    "defense": 115,
+    "generation": 7,
+    "hp": 80,
+    "japanese_name": "Magearnaマギアナ",
+    "name": "Magearna",
+    "pokedex_number": 801,
+    "speed": 65
+  }
+]
