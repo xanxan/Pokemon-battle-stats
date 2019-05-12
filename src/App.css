@@ -1,3 +1,23 @@
 .App {
   text-align: center;
 }
+
+.flex-view {
+
+display: flex;
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+
+
+webkit-box-flex-direction: row;
+  moz-box-flex-direction: row;
+  ms-flex-direction: row;
+  webkit-flex-direction: row;
+  flex-direction: row;
+
+
+
+}
