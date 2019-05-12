@@ -34,10 +34,10 @@ class App extends Component {
       item < 10 && pokemons.push(this.row(pokemon));
 
 
-      item < 19 && top.push(this.row(pokemon));
-      item > 18 && item < 27 && right.push(this.row(pokemon));
-      item > 26 && item < 46 && bottom.push(this.row(pokemon));
-      item > 45 && item < 54 && left.push(this.row(pokemon));
+      item < 13 && top.push(this.row(pokemon));
+      item > 12 && item < 21 && right.push(this.row(pokemon));
+      item > 20 && item < 34 && bottom.push(this.row(pokemon));
+      item > 33 && item < 42 && left.push(this.row(pokemon));
     }
 
     const style = {
@@ -52,12 +52,10 @@ class App extends Component {
     const styleVertical = {
       overflowX: 'auto',
       whiteSpace: 'nowrap',
-      flexGrow: 1,
-      mindWidth: 50,
     };
 
     const styleHorizontal = {
-      display: 'flex',
+      display: 'inline-flex',
       overflowX: 'auto',
       whiteSpace: 'nowrap',
     };
@@ -65,18 +63,14 @@ class App extends Component {
     return (
       <div className="App">
         <div className="list" style={styleHorizontal}>
-          <div style={{width: 80}}/>
           {top}
         </div>
         <div className="list flex-view">
-          <div style={styleVertical}/>
           <div className="list" style={styleVertical}>{left.reverse()}</div>
-          <div style={{    flexGrow: 1}}> <TableauViz/></div>
+          <TableauViz/>
           <div className="list" style={styleVertical}>{right}</div>
-          <div style={styleVertical}/>
         </div>
         <div className="list" style={styleHorizontal}>
-          <div style={{width: 80}}/>
           {bottom.reverse()}
         </div>
       </div>

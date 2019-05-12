@@ -4,12 +4,12 @@
 
 .flex-view {
 
-display: flex;
+display: inline-flex;
   display: -webkit-box;
   display: -moz-box;
   display: -ms-flexbox;
   display: -webkit-flex;
-  display: flex;
+  display: inline-flex;
 
 
 webkit-box-flex-direction: row;
